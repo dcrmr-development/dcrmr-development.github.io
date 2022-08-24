@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Development for DCRMR"
+title                    : "Development site for DCRMR"
 title_separator          : "-"
 subtitle                 : "See bsc.rbms.info for the production environment."
 name                     : "Rare Books and Manuscripts Section Bibliographic Standards Committee"
@@ -26,7 +26,7 @@ baseurl                  : #"/DCRMR"
 repository               : "dcrmr/dcrmr.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Development for DCRMR"
+masthead_title           : "Development site for DCRMR"
 breadcrumbs              : false #, false (default)
 words_per_minute         : 200
 comments:
