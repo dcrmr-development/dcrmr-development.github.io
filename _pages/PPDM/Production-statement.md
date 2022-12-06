@@ -17,4 +17,4 @@ The RBMS RDA Editorial Group
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5 — Production, Publication, Distribution, Manufacture")](/DCRMR/ppdm/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.11 — Place of production")](/DCRMR/ppdm/Place-of-production/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "5 — Production, Publication, Distribution, Manufacture")](/DCRMR/ppdm/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "5.2 — Publication statement")](/DCRMR/ppdm/Publication-statement/)
