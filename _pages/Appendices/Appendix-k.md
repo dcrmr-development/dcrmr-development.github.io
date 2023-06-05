@@ -77,7 +77,7 @@ sidebar:
 |		|	0C1.1.	|	[0.1.31.1](/DCRMR/general-rules/Data-provenance/#0.1.31.1) [0.1.31.2](/DCRMR/general-rules/Data-provenance/#0.1.31.2)	|
 |		|	0C1.2.	|	[0.1.31.3](/DCRMR/general-rules/Data-provenance/#0.1.31.3)	|
 |	Multiple title pages	|	0C2.	|	[0.1.33.1](/DCRMR/general-rules/Data-provenance/#0.1.33.1)  [0.1.35.1](/DCRMR/general-rules/Data-provenance/#0.1.35.1)	|
-|	No title page	|	0C3.	|	[0.1.34.1](/DCRMR/general-rules/Data-provenance/#0.1.34.1)	|
+|	No title page	|	0C3.	|	[0.1.31.4.Y.Y](/DCRMR/general-rules/Data-provenance/#0.1.31.4.Y.Y)	|
 |	Prescribed sources of information	|	0D.	|	[0.1.5.1](/DCRMR/general-rules/Data-provenance/#0.1.5.1)   [0.1.5.2](/DCRMR/general-rules/Data-provenance/#0.1.5.2)  [0.1.32.1](/DCRMR/general-rules/Data-provenance/#0.1.32.1)	|
 |	Prescribed punctuation	|	0E.	|	[0.2.01.1](/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.1)  [0.2.01.2](/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.2)   [0.2.01.3](/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.3)  [0.2.01.4](/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.4)	|
 |	Language and script of the description	|	0F.	|	[0.3](/DCRMR/general-rules/Language-and-script-of-the-description/)	|
@@ -140,8 +140,8 @@ sidebar:
 |	Preliminary rule	|	1A.	|	n/a	|
 |	Prescribed punctuation	|	1A1.	|	[0.2.1.1](/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.1) [0.2.1.2](/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.2)	|
 |	Sources of information	|	1A2.	|	[1.01.1](/DCRMR/title/#1011-sources-of-information)	|
-|	General rule	|	1A2.1.	|	[1.01.1.1](/DCRMR/title/#1.01.1.1)	|
-|	Multipart monographs	|	1A2.3.	|	[1.01.1.1](/DCRMR/title/#1.01.1.1)	|
+|	General rule	|	1A2.1.	|	[1.01.1.04.Y.Y](/DCRMR/title/#1.01.1.04.Y.Y)	|
+|	Multipart monographs	|	1A2.3.	|	[1.01.1.04.Y.Y](/DCRMR/title/#1.01.1.04.Y.Y)	|
 |	Form and order of information	|	1A3.	|	[1.01.3](/DCRMR/title/#1013-form-and-order-of-information)	|
 |	Title proper	|	1B.	|	[1.21](/DCRMR/title/Title-proper/)	|
 |	Words considered part of the title proper	|	1B1.	|	[1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)	|
@@ -210,15 +210,15 @@ sidebar:
 |	By same person or body.	|	1F1.1.	|	[1.21.371.1](/DCRMR/title/Title-proper/#1.21.371.1)	|
 |	By different persons or bodies.	|	1F1.2.	|	omitted	|
 |	One or more works not named on the title page	|	1F2.	|	[1.21.372.1](/DCRMR/title/Title-proper/#1.21.372.1)	|
-|	Single-sheet publications	|	1G.	|	[1.21.38](/DCRMR/title/Title-proper/#12138-single-sheet-manifestations)	|
-|	Chief source of information	|	1G1.	|	[1.01.1.1](/DCRMR/title/#1.01.1.1)	|
-|	General rule	|	1G2.	|	[1.21.381.1](/DCRMR/title/Title-proper/#1.21.381.1)	|
-|	Chief title	|	1G3.	|	[1.21.382.1](/DCRMR/title/Title-proper/#1.21.382.1)	|
-|	Caption title	|	1G4.	|	[1.21.382.2](/DCRMR/title/Title-proper/#1.21.382.2)	|
+|	Single-sheet publications	|	1G.	|	[1.21.42.Y.Y](/DCRMR/title/Title-proper/#12142yy-single-sheet-printed-text-manifestations)	|
+|	Chief source of information	|	1G1.	|	[1.01.1.04.Y.Y](/DCRMR/title/#1.01.1.04.Y.Y)	|
+|	General rule	|	1G2.	|	[1.21.421.1.Y.Y](/DCRMR/title/Title-proper/#1.21.421.1.Y.Y)	|
+|	Chief title	|	1G3.	|	[1.21.422.1.Y.Y](/DCRMR/title/Title-proper/#1.21.422.1.Y.Y)	|
+|	Caption title	|	1G4.	|	[1.21.422.2.Y.Y](/DCRMR/title/Title-proper/#1.21.422.2.Y.Y)	|
 |	Prescribed punctuation	|	1G5.	|	[0.2.1.2](/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.2)	|
-|	Two or more works with a collective title	|	1G6.	|	[1.21.383.1](/DCRMR/title/Title-proper/#1.21.383.1)	|
-|	Two or more works without a collective title	|	1G7.	|	[1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1) [1.21.384.2](/DCRMR/title/Title-proper/#1.21.384.2)	|
-|	Two or more works with separate publication, distribution, etc., statements	|	1G8.	|	[1.21.385.1](/DCRMR/title/Title-proper/#1.21.385.1)	|
+|	Two or more works with a collective title	|	1G6.	|	[1.21.423.1.Y.Y](/DCRMR/title/Title-proper/#1.21.423.1.Y.Y)	|
+|	Two or more works without a collective title	|	1G7.	|	[1.21.424.1.Y.Y](/DCRMR/title/Title-proper/#1.21.424.1.Y.Y) [1.21.424.2.Y.Y](/DCRMR/title/Title-proper/#1.21.424.2.Y.Y)	|
+|	Two or more works with separate publication, distribution, etc., statements	|	1G8.	|	[1.21.425.1.Y.Y ](/DCRMR/title/Title-proper/#1.21.425.1.Y.Y)	|
 
 
 ## 2. Edition Area
@@ -227,7 +227,7 @@ sidebar:
 | ---|---|---|
 |	Preliminary rule	|	2A.	|	n/a	|
 |	Prescribed punctuation	|	2A1.	|	[0.2.3.1](/DCRMR/general-rules/Prescribed-punctuation/#0.2.3.1)	|
-|	Sources of information	|	2A2.	|	[3.01.1.1](/DCRMR/edition/#3.01.1.1)	|
+|	Sources of information	|	2A2.	|	[3.01.1.04.Y.Y](/DCRMR/edition/#3.01.1.04.Y.Y)	|
 |	Form and order of information	|	2A3.	|	[3.01.3.1](/DCRMR/edition/#3.01.3.1)	|
 |	Edition statement	|	2B.	|	[3.21](/DCRMR/edition/Edition-statement/)	|
 |	General rule	|	2B1.	|	[3.21.3.1](/DCRMR/edition/Edition-statement/#3.21.3.1)	|
@@ -287,7 +287,7 @@ sidebar:
 |	Preliminary rule	|	4A.	|	n/a	|
 |	Prescribed punctuation	|	4A1.	|	[0.2.5](/DCRMR/general-rules/Prescribed-punctuation/#0.2.5.1) 	|
 |	Sources of information	|	4A2.	|	[5.01.1](/DCRMR/ppdm/#5011-sources-of-information) 	|
-|		|	4A2.1.	|	[5.01.1.1](/DCRMR/ppdm/#5.01.1.1) 	|
+|		|	4A2.1.	|	[5.01.1.04.Y.Y](/DCRMR/ppdm/#5.01.1.04.Y.Y)  [5.01.1.15.Y.Y](/DCRMR/ppdm/#5.01.1.15.Y.Y)	|
 |		|	4A2.2.	|	[5.01.1.2](/DCRMR/ppdm/#5.01.1.2) [5.01.1.3](/DCRMR/ppdm/#5.01.1.3)	|
 |	Form and order of information	|	4A3.	|	[5.01.3](/DCRMR/ppdm/#5013-form-and-order-of-information)	|
 |		|	4A3.1.	|	[5.01.3.1](/DCRMR/ppdm/#5.01.3.1)	|
@@ -297,7 +297,7 @@ sidebar:
 |	Information covered by labels, etc.	|	4A5.	|	[5.2.31.1](/DCRMR/ppdm/Publication-statement/#5.2.31.1) [5.25.31.1](/DCRMR/ppdm/Distribution-statement/#5.25.31.1)	|
 |	Elements relating to publication, distribution, etc., vs. elements relating to manufacture	|	4A6.	|	[5.2.32.1](/DCRMR/ppdm/Publication-statement/#5.2.32.1) [5.25.32.1](/DCRMR/ppdm/Distribution-statement/#5.25.32.1)	|
 |	Statements relating to publication, distribution, etc., only	|	4A6.1.	|	[5.2.33.1](/DCRMR/ppdm/Publication-statement/#5.2.33.1) [5.25.33.1](/DCRMR/ppdm/Distribution-statement/#5.25.33.1)	|
-|	Statements relating to manufacture only	|	4A6.2.	|	[5.2.335](/DCRMR/ppdm/Publication-statement/#52335-statements-relating-to-manufacture-or-distributor-only)	|
+|	Statements relating to manufacture only	|	4A6.2.	|	[5.2.335](/DCRMR/ppdm/Publication-statement/#52335-statements-relating-to-manufacture-or-distribution-only)	|
 |		|	4A5.2.1.	|	[5.2.335.1](/DCRMR/ppdm/Publication-statement/#5.2.335.1)	|
 |		|	4A5.2.2.	|	[5.2.335.2](/DCRMR/ppdm/Publication-statement/#5.2.335.2)	|
 |	Statements relating both to publication, distribution, etc., and to manufacture	|	4A5.3.	|	[5.2.34.1](/DCRMR/ppdm/Publication-statement/#5.2.34.1) [5.25.34.1](/DCRMR/ppdm/Distribution-statement/#5.25.34.1)	|
@@ -339,7 +339,7 @@ sidebar:
 |		|	4C1.	|	[5.22.3.1](/DCRMR/ppdm/Name-of-publisher/#5.22.3.1) [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)	|
 |		|	4C2.	|	[5.22.3.1](/DCRMR/ppdm/Name-of-publisher/#5.22.3.1) [5.27.3.1](/DCRMR/ppdm/Name-of-distributor/#5.27.3.1)	|
 |	Publisher, distributor, etc., statements containing grammatically inseparable place names or dates	|	4C3.	|	[5.22.33.1](/DCRMR/ppdm/Name-of-publisher/#5.22.33.1) [5.27.33.1](/DCRMR/ppdm/Name-of-distributor/#5.27.33.1)	|
-|	Publisher, distributor, etc., statements containing only addresses, signs, or initials	|	4C4.	|	[5.22.36](/DCRMR/ppdm/Name-of-publisher/#52236-publishers-identified-by-addresses-signs-or-initials) [5.27.36](/DCRMR/ppdm/Name-of-distributor/#52736-names-of-distributors-containing-only-addresses-signs-initials-or-devices)	|
+|	Publisher, distributor, etc., statements containing only addresses, signs, or initials	|	4C4.	|	[5.22.36](/DCRMR/ppdm/Name-of-publisher/#52236-publishers-identified-by-addresses-signs-or-initials) [5.27.36](/DCRMR/ppdm/Name-of-distributor/#52736-distributors-identified-by-addresses-signs-initials-or-devices)	|
 |		|	4C4.1.	|	[5.22.36.1](/DCRMR/ppdm/Name-of-publisher/#5.22.36.1) [5.27.36.1](/DCRMR/ppdm/Name-of-distributor/#5.27.36.1)	|
 |		|	4C4.2.	|	[5.22.36.2](/DCRMR/ppdm/Name-of-publisher/#5.22.36.2) [5.27.36.2](/DCRMR/ppdm/Name-of-distributor/#5.27.36.2)	|
 |	Fictitious or incorrect publisher, distributor, etc., statements	|	4C5.	|	[5.22.34.1](/DCRMR/ppdm/Name-of-publisher/#5.22.34.1) [5.27.34.1](/DCRMR/ppdm/Name-of-distributor/#5.27.34.1)	|
@@ -379,7 +379,7 @@ sidebar:
 |		|	4D6.2.	|	[5.35.3.2](/DCRMR/ppdm/Copyright-date/#5.35.3.2)	|
 |		|	4D6.3.	|	[5.35.3.3](/DCRMR/ppdm/Copyright-date/#5.35.3.3)	|
 |		|	4D6.4.	|	[5.35.3.4](/DCRMR/ppdm/Copyright-date/#5.35.3.4)	|
-|	Date of publication, distribution, etc., in multipart monographs	|	4D7.	|	[5.23.35](/DCRMR/ppdm/Date-of-publication/#52335-date-of-publication-in-multipart-monographs) [5.28.35](/DCRMR/ppdm/Date-of-distribution/#52835-date-of-distribution-in-multipart-monographs)	|
+|	Date of publication, distribution, etc., in multipart monographs	|	4D7.	|	[5.23.35](/DCRMR/ppdm/Date-of-publication/#52335-date-of-publication-in-multiple-unit-resources) [5.28.35](/DCRMR/ppdm/Date-of-distribution/#52835-date-of-distribution-in-multiple-unit-resources)	|
 |		|	4D7.1.	|	[5.23.35.1](/DCRMR/ppdm/Date-of-publication/#5.23.35.1) [5.28.35.1](/DCRMR/ppdm/Date-of-distribution/#5.28.35.1)	|
 |		|	4D7.2.	|	[5.23.35.2](/DCRMR/ppdm/Date-of-publication/#5.23.35.2) [5.28.35.2](/DCRMR/ppdm/Date-of-distribution/#5.28.35.2)	|
 |	Date of publication, distribution, etc., on part pages	|	4D8.	|	[5.23.36.1](/DCRMR/ppdm/Date-of-publication/#5.23.36.1) [5.28.36.1](/DCRMR/ppdm/Date-of-distribution/#5.28.36.1)	|
@@ -465,7 +465,7 @@ sidebar:
 |	Color illustrations	|	5C3.	|	[6.23.3](/DCRMR/phys-desc/Color-content/#6233-general-rule)	|
 |		|	5C3.1.	|	[6.23.3.1](/DCRMR/phys-desc/Color-content/#6.23.3.1)	|
 |		|	5C3.2.	|	[6.23.32.2](/DCRMR/phys-desc/Color-content/#6.23.32.2)	|
-|		|	5C3.3.	|	[6.23.33.1](/DCRMR/phys-desc/Color-content/#6.23.33.1)	|
+|		|	5C3.3.	|	[6.23.44.1.Y.Y](/DCRMR/phys-desc/Color-content/#6.23.44.1.Y.Y)	|
 |	Number of illustrations	|	5C4.	|	[6.22.35.1](/DCRMR/phys-desc/Illustrative-content/#6.22.35.1)	|
 |	Publications consisting entirely or chiefly of illustrations	|	5C5.	|	[6.22.37.2](/DCRMR/phys-desc/Illustrative-content/#6.22.37.2) [6.22.37.3](/DCRMR/phys-desc/Illustrative-content/#6.22.37.3)	|
 |	Size and format	|	5D.	|	[6.24](/DCRMR/phys-desc/Dimensions/)	|
@@ -491,7 +491,7 @@ sidebar:
 |	Preliminary rule	|	6A.	|	n/a	|
 |	Prescribed punctuation	|	6A1.	|	[0.2.8](/DCRMR/general-rules/Prescribed-punctuation/#028-series)	|
 |	Sources of information	|	6A2.	|	[8.01.1](/DCRMR/series/#8011-sources-of-information)	|
-|		|	6A2.1.	|	[8.01.1.1 ](/DCRMR/series/#8.01.1.1)	|
+|		|	6A2.1.	|	[8.01.1.04.Y.Y](/DCRMR/series/#8.01.1.04.Y.Y)	|
 |		|	6A2.2.	|	[8.01.1.2](/DCRMR/series/#8.01.1.2)	|
 |		|	6A2.3.	|	[8.01.1.3](/DCRMR/series/#8.01.1.3)	|
 |		|	6A2.4.	|	[8.01.1.4](/DCRMR/series/#8.01.1.4)	|
@@ -562,7 +562,7 @@ sidebar:
 |		|	7B4.1.	|	[1.29.36.1](/DCRMR/title/Note-on-title/#1.29.36.1)	|
 |		|	7B4.2.	|	[1.29.36.2](/DCRMR/title/Note-on-title/#1.29.36.2)	|
 |	Parallel titles and other title information	|	7B5.	|	[1.29.37.1](/DCRMR/title/Note-on-title/#1.29.37.1)	|
-|	Statements of responsibility	|	7B6.	|	[2.29.31](/DCRMR/sor/Note-on-statement-of-responsibility/#22931-statement-of-responsibility-in-source-other-than-title-page)	|
+|	Statements of responsibility	|	7B6.	|	[2.29.31](/DCRMR/sor/Note-on-statement-of-responsibility/#22931-statement-of-responsibility-in-source-other-than-preferred-source)	|
 |	Statement of responsibility in source other than title page	|	7B6.1.	|	[2.29.31.1](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.31.1)	|
 |	Transposed statements of responsibility.	|	7B6.2.	|	[2.29.32.2](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.2)	|
 |	Attributions	|	7B6.3.	|	[2.29.33](/DCRMR/sor/Note-on-statement-of-responsibility/#22933-attributions)	|
@@ -668,8 +668,8 @@ sidebar:
 |	Title proper with supplementary or section title (Optional)	|	1B6. 	|	[1.25.358.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.358.1)	|
 |	Parallel titles (Optional)	|	1C. 	|	[1.215.33.1](/DCRMR/title/Parallel-title-proper/#1.215.33.1)	|
 |	Phrases about notes, appendixes, etc. (Optional)	|	1E14.	|	[1.25.3585.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3585.1)	|
-|	Titles of additional works (Optional)	|	1F1&ndash;1F2. 	|	[1.21.371.1](/DCRMR/title/Title-proper/#1.21.371.1) [1.21.372.1](/DCRMR/title/Title-proper/#1.21.372.1)  [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1)	|
-|	Titles of works on single-sheet publications (Optional)	|	1G1&ndash;1G8. 	|	[1.25.359.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.359.1) [1.21.383.1](/DCRMR/title/Title-proper/#1.21.383.1) [1.21.384.1](/DCRMR/title/Title-proper/#1.21.384.1) [1.21.384.2](/DCRMR/title/Title-proper/#1.21.384.2)  [1.21.385.1](/DCRMR/title/Title-proper/#1.21.385.1)	|
+|	Titles of additional works (Optional)	|	1F1&ndash;1F2. 	|	[1.21.371.1](/DCRMR/title/Title-proper/#1.21.371.1) [1.21.372.1](/DCRMR/title/Title-proper/#1.21.372.1)  [1.21.424.1.Y.Y](/DCRMR/title/Title-proper/#1.21.424.1.Y.Y)	|
+|	Titles of works on single-sheet publications (Optional)	|	1G1&ndash;1G8. 	|	[1.25.359.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.359.1) [1.21.423.1.Y.Y](/DCRMR/title/Title-proper/#1.21.423.1.Y.Y) [1.21.424.1.Y.Y](/DCRMR/title/Title-proper/#1.21.424.1.Y.Y) [1.21.424.2.Y.Y](/DCRMR/title/Title-proper/#1.21.424.2.Y.Y)  [1.21.425.1.Y.Y](/DCRMR/title/Title-proper/#1.21.425.1.Y.Y)	|
 |	Title proper of series (Optional) 	|	6B1.	|	[8.21.3.1](/DCRMR/series/Title-of-series/#8.21.3.1)	|
 |	Title variants and other titles (Optional)	|	7B4&ndash;7B5.	|	[1.25.3593.1](/DCRMR/title/Variant-title-of-manifestation/#1.25.3593.1)	|
 |	Titles of accompanying material (Optional)	|	7B11.	|	[9.3.38.6](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.6)	|
@@ -685,7 +685,7 @@ sidebar:
 |	Letterforms I/J, U/V, i/j, and u/v	|	G4.	|	[0.4.23](/DCRMR/general-rules/Transcription/#0423-letterforms-i-v-i-j-u-and-v)
 |	Historical background.	|	G4.1. 	|	[0.4.23.1](/DCRMR/general-rules/Transcription/#0.4.23.1)
 |	Transcription. 	|	G4.2. 	|	[0.4.23.2](/DCRMR/general-rules/Transcription/#0.4.23.2) [0.4.23.3](/DCRMR/general-rules/Transcription/#0.4.23.3) [0.4.23.4](/DCRMR/general-rules/Transcription/#0.4.23.4)
-|	Letter w	|	G5.	|	[0.4.74](/DCRMR/general-rules/Transcription/#0474-turned-and-approximated-letters)
+|	Letter w	|	G5.	|	[0.4.74](/DCRMR/general-rules/Transcription/#0474-reversed-turned-and-approximated-letters)
 |	Historical background.	|	G5.1. 	|	[0.4.74.2](/DCRMR/general-rules/Transcription/#0.4.74.2) [0.4.74.3](/DCRMR/general-rules/Transcription/#0.4.74.3)
 |	Transcription. 	|	G5.2.	|	[0.4.74.1](/DCRMR/general-rules/Transcription/#0.4.74.1)
 

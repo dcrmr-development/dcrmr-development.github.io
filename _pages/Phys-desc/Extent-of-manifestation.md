@@ -74,7 +74,7 @@ sidebar:
 > Extent of manifestation: <CITE>[4] pages</CITE>  
 > Note on extent of manifestation: <CITE>Folded single sheet; last three pages are blank</CITE>
 
-See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-sheets-rolls-cases-portfolios-etc)&ndash;[6.21.429](/DCRMR/phys-desc/Extent-of-manifestation/#621429-single-sheet-manifestations) for all other single-sheet manifestations.
+See [6.21.4285](/DCRMR/phys-desc/Extent-of-manifestation/#6214285-manifestations-in-one-physical-unit-other-than-a-volume)&ndash;[6.21.429](/DCRMR/phys-desc/Extent-of-manifestation/#621429-single-sheet-manifestations) for all other single-sheet manifestations.
 
 #### 6.21.4225 Unnumbered pages or leaves
 
@@ -498,7 +498,7 @@ If none of the terms  above are appropriate, use:
 >>(*Comment*: Publicity material for a film with seven movie stills and one sheet of potential newspaper advertisements)  
 >>**(*Ingest comment*: example needs review)**
 
-**Alternative rule**. Record the total number of units, followed by "pictures" or another term from [RDA Value Vocabularies: RDA Carrier Extent Unit](http://www.rdaregistry.info/termList/RDACarrierEU/){:target="_blank"} or other concise term.  
+<a name="6.21.64.2.Y.Y">6.21.64.2.Y.Y</a>**Alternative rule**. Record the total number of units, followed by "pictures" or another term from [RDA Value Vocabularies: RDA Carrier Extent Unit](http://www.rdaregistry.info/termList/RDACarrierEU/){:target="_blank"} or other concise term.  
 
 >**Example:**  
 ><CITE>7 pictures</CITE>  
