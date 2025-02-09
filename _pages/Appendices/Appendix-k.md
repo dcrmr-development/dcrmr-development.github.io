@@ -132,7 +132,78 @@ sidebar:
 |		|	0G10.2.	|	[0.4.45.2](/DCRMR/general-rules/Transcription/#0.4.45.2)	|
 |		|	0G10.3.	|	[0.4.45.3](/DCRMR/general-rules/Transcription/#0.4.45.3)	|
 
-## 1. Title and Statement of Responsibility Area
+## 1. Title and statement of responsibility area
+
+<table>
+<caption><strong>Title and Statement of Responsibility Area</strong></caption>
+<thead>
+<tr>  
+<th scope="col">DCRM(B) citation</th>
+<th scope="col">DCRM(B) contents</th>
+<th scope="col">DCRMR citation</th>
+</tr>
+</thead>
+<tr>
+<td>1</td>
+<td>Title and Statement of Responsibility Area</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1A</td>
+<td>Preliminary rule</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>1A1</td>
+<td>Prescribed punctuation</td>
+<td>0.2.1.1, 0.2.1.2</td>
+</tr>
+<tr>
+<td>1A2</td>
+<td>Sources of information</td>
+<td>1.01.1</td>
+</tr>
+<tr>
+<td>1A2.1</td>
+<td>General rule</td>
+<td>1.01.1.1</td>
+</tr>
+<tr>
+<td>1A2.2</td>
+<td>Omission of pious invocations, etc.</td>
+<td>????</td>
+</tr>
+<tr>
+<td>1A2.3</td>
+<td>Multipart monographs</td>
+<td>1.01.1.1</td>
+</tr>
+<tr>
+<td>1A3</td>
+<td>Form and order of information</td>
+<td>1.01.3</td>
+</tr>
+<tr>
+<td>1B</td>
+<td>Title proper</td>
+<td>1.21</td>
+</tr>
+<tr>
+<td>1B1</td>
+<td>Words considered part of the title proper</td>
+<td>1.21.31</td>
+</tr>
+<tr>
+<td>1B1.1</td>
+<td>Words considered part of the title proper</td>
+<td>1.21.31.1</td>
+</tr>
+<tr>
+<td>1B1.2</td>
+<td>Words considered part of the title proper</td>
+<td>1.01.3.2</td>
+</tr>
+</table>
 
 | DCRM Contents | DCRM Citation | DCRMR Citation |
 | ---|---|---|
