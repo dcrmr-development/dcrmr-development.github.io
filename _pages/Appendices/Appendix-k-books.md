@@ -588,7 +588,7 @@ sidebar:
 	</tr>
 </table>
 
-##1. Title and Statement of Responsibility Area
+## 1. Title and Statement of Responsibility Area
 
 <table>
 	<caption>
