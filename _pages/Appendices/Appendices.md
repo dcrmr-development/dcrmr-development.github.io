@@ -24,7 +24,7 @@ sidebar:
 
 [J — Abbreviations for creators, publishers, printers, etc.](/DCRMR/appendices/Appendix-j/)
 
-[K — Instruction mappings from DCRM to DCRMR](/DCRMR/appendices/Appendix-k/)
+[K — Instruction mappings from DCRM(B) to DCRMR](/DCRMR/appendices/Appendix-k-books/)
 
 ---
 

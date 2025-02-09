@@ -57,4 +57,4 @@ Zigrosser, Carl, and Christa M. Gaehde. A Guide to the Collecting and Care of Or
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "H — Individual and special issues of serials")](/DCRMR/appendices/Appendix-h/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "K — Mapping from DCRM(B) to DCRMR")](/DCRMR/appendices/Appendix-k/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "H — Individual and special issues of serials")](/DCRMR/appendices/Appendix-h/) [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "K — Mapping from DCRM(B) to DCRMR")](/DCRMR/appendices/Appendix-k-books/)

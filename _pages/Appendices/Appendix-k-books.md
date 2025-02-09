@@ -1,13 +1,13 @@
 ---
 layout: single
 type: docs
-title: K — Instruction mappings from DCRM to DCRMR
-permalink: /DCRMR/appendices/Appendix-k/
+title: K — Mapping from DCRM(B) to DCRMR 
+permalink: /DCRMR/appendices/Appendix-k-books/
 sidebar:
   nav: "docs"
 ---
 
-## DCRM Contents:
+## DCRM(B) Contents:
 {: .no_toc .text-delta }
 
 - TOC
@@ -15,282 +15,1008 @@ sidebar:
 
 ## Introduction
 
-| DCRM Contents | DCRM Citation | DCRMR Citation |
-| ---|---|---|
-|	Scope and purpose	|	I.	|	[i.01.1](/DCRMR/introduction/#i011-scope-and-purpose)	|
-|	Descriptive Cataloging of Rare Materials	|	I.1.	|	[i.01.11](/DCRMR/introduction/#i0111-descriptive-cataloging-of-rare-materials)	|
-|	Descriptive Cataloging of Rare Materials (Books)	|	I.2.	|	[i.01.12](/DCRMR/introduction/#i0112-descriptive-cataloging-of-rare-materials-rda-edition)	|
-|	Need for special rules	|	I.3.	|	[i.01.13](/DCRMR/introduction/#i0113-need-for-special-instructions)	|
-|	Scope of application	|	I.4.	|	[i.01.14](/DCRMR/introduction/#i0114-scope-of-application)	|
-|	Application within the bibliographic record	|	I.5.	|	[i.01.15](/DCRMR/introduction/#i0115-application-within-the-metadata-description)	|
-|	Relationship to other standards	|	II.	|	[i.01.2](/DCRMR/introduction/#i012-relationship-to-other-standards)	|
-|	AACR2, ISBD(A), and other cataloging documentation	|	II.1.	|	[i.01.21](/DCRMR/introduction/#i0121-rda-lc-pcc-ps-and-other-cataloging-documentation)	|
-|	MARC 21	|	II.2.	|	[i.01.22](/DCRMR/introduction/#i0122-metadata-encoding-standards)	|
-|	Objectives and principles	|	III.	|	[i.01.3](/DCRMR/introduction/#i013-objectives-and-principles)	|
-|	Functional objectives of DCRM	|	III.1.	|	[i.01.31](/DCRMR/introduction/#i0131-functional-objectives-of-dcrmr)	|
-|	Users must be able to distinguish clearly among different manifestations of an expression of a work	|	III.1.1.	|	[i.01.312](/DCRMR/introduction/#i01312-users-must-be-able-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work)	|
-|	Users must be able to perform most identification and selection tasks without direct access to the materials	|	III.1.2.	|	[i.01.313](/DCRMR/introduction/#i01313-users-must-be-able-to-perform-most-identification-and-selection-tasks-without-direct-access-to-the-resources)	|
-|	Users must be able to investigate physical processes and post-production history and context exemplified in materials described	|	III.1.3.	|	[i.01.311](/DCRMR/introduction/#i01311-users-must-be-able-to-investigate-physical-processes-and-post-production-history-and-context-exemplified-in-resources-described)	|
-|	Users must be able to gain access to materials whose production or presentation characteristics differ from modern conventions	|	III.1.4.	|	[i.01.314](/DCRMR/introduction/#i01314-users-must-be-able-to-gain-access-to-resources-whose-production-or-presentation-characteristics-differ-from-modern-conventions)	|
-|	Principles of DCRM construction	|	III.2.	|	[i.01.32](/DCRMR/introduction/#i0132-principles-of-dcrmr-construction)	|
-|	Rules provide guidance for descriptions that allow users to distinguish clearly among different manifestations of an expression of a work	|	III.2.1.	|	[i.01.321](/DCRMR/introduction/#i01321-instructions-provide-guidance-for-descriptions-that-allow-users-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work)	|
-|	Rules provide for accurate representations of the entity as it describes itself, notably through instructions regarding transcription, transposition, and omission	|	III.2.2.	|	[i.01.322](/DCRMR/introduction/#i01322-instructions-provide-for-accurate-representations-of-the-resource-as-it-describes-itself-notably-through-instructions-regarding-transcription-transposition-and-omission)	|
-|	Rules provide guidance for the inclusion of manifestation-specific and item-specific information that permits users to investigate physical processes and post-production history and context exemplified in the item described	|	III.2.3.	|	[i.01.323](/DCRMR/introduction/#i01323-instructions-provide-guidance-for-the-inclusion-of-manifestation-specific-and-item-specific-information-that-permits-users-to-investigate-physical-processes-and-post-production-history-and-context-exemplified-in-the-item-described)	|
-|	Rules provide for the inclusion of all elements of bibliographical significance	|	III.2.4.	|	[i.01.324](/DCRMR/introduction/#i01324-instructions-provide-for-the-inclusion-of-all-elements-of-bibliographical-significance)	|
-|	Rules conform to the substance and structure of the final revision of AACR2 to the extent possible	|	III.2.5.	|	[i.01.325](/DCRMR/introduction/#i01325-instructions-conform-to-the-rda-toolkit-to-the-extent-possible)	|
-|	Rules are compatible with DCRB except in cases where changes are necessary to align more closely to current revisions of AACR2 or to conform to the above principles	|	III.2.6.	|	[i.01.326](/DCRMR/introduction/#i01326-instructions-are-compatible-with-the-dcrm-suite-except-in-cases-where-changes-are-necessary-to-align-more-closely-to-the-rda-toolkit-or-to-conform-to-the-above-principles)	|
-|	Options	|	IV.	|	[i.01.4](/DCRMR/introduction/#i014-options)	|
-|	Language preferences	|	V.	|	[i.01.5](/DCRMR/introduction/#i015-language-preferences)	|
-|	Spelling and style	|	VI.	|	[i.01.55](/DCRMR/introduction/#i0155-spelling-and-style)	|
-|	Acronyms	|	VII.	|	[i.01.6](/DCRMR/introduction/#i016-acronyms)	|
-|	Examples and notes	|	VIII.	|	[i.01.7](/DCRMR/introduction/#i017-examples-and-notes)	|
-|	Examples	|	VIII.1.	|	[i.01.7.1](/DCRMR/introduction/#i.01.7.1)	|
-|	Notes	|	VIII.2.	|	[i.01.7.2](/DCRMR/introduction/#i.01.7.2)	|
-|	Integrity of the copy	|	IX.	|	[i.01.8](/DCRMR/introduction/#i018-integrity-of-the-copy)	|
-|	Defects and sophistication	|	IX.1.	|	[i.01.8.1](/DCRMR/introduction/#i.01.8.1)	|
-|	Dust jackets	|	IX.2.	|	[i.01.8.2](/DCRMR/introduction/#i.01.8.2)	|
-|	Precataloging decisions	|	X.	|	[i.01.9](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Decisions to make before beginning the description	|	X.1.	|	[i.01.91](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Item-level vs. collection-level description	|	X.1.1.	|	[i.01.91.1](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Cataloging code: AACR2 vs. DCRM(B)	|	X.1.2.	|	[i.01.91.2](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Encoding level: DCRM(B) minimal vs. full	|	X.1.3.	|	[i.01.91.3](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Bibliographic variants	|	X.1.4.	|	[i.01.91.4](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Factors to consider in making precataloging decisions	|	X.2.	|	[i.01.92](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Institution’s mission and user needs	|	X.2.1.	|	[i.01.92.1](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Institutional and departmental resources	|	X.2.2.	|	[i.01.92.2](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Market value and conditions of acquisition of the item or collection	|	X.2.3.	|	[i.01.92.3](/DCRMR/introduction/#i019-precataloging-decisions)	|
-|	Intellectual and physical characteristics of the item or collection	|	X.2.4.	|	[i.01.92.4](/DCRMR/introduction/#i019-precataloging-decisions)	|
+<table>
+	<caption>
+		<strong>Introduction</strong>
+	</caption>
+	<thead>
+	<tr>
+			<th scope="col">DCRM(B) Citation</th>
+			<th scope="col">DCRM(B) Contents</th>
+			<th scope="col">DCRMR Citation</th>
+	</tr>
+	</thead>
+	<tr>
+		<td>I.</td>
+		<td>Scope and purpose</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>I.1.</td>
+		<td>Descriptive Cataloging of Rare Materials</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>I.2.</td>
+		<td>Descriptive Cataloging of Rare Materials (Books)</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>I.3.</td>
+		<td>Need for special rules</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>I.4.</td>
+		<td>Scope of application</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>I.5.</td>
+		<td>Application within the bibliographic record</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>II.</td>
+		<td>Relationship to other standards</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>II.1.</td>
+		<td>AACR2, ISBD(A), and other cataloging documentation</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>II.2.</td>
+		<td>MARC 21</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>III.</td>
+		<td>Objectives and principles</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>III.1.</td>
+		<td>Functional objectives of DCRM</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>III.1.1.</td>
+		<td>Users must be able to distinguish clearly among different manifestations of an expression of a work</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>III.1.2.</td>
+		<td>Users must be able to perform most identification and selection tasks without direct access to the materials</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>III.1.3.</td>
+		<td>Users must be able to investigate physical processes and post-production history and context exemplified in materials described</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>III.1.4.</td>
+		<td>Users must be able to gain access to materials whose production or presentation characteristics differ from modern conventions</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>III.2.</td>
+		<td>Principles of DCRM construction</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>III.2.1.</td>
+		<td>Rules provide guidance for descriptions that allow users to distinguish clearly among different manifestations of an expression of a work</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>III.2.2.</td>
+		<td>Rules provide for accurate representations of the entity as it describes itself, notably through instructions regarding transcription, transposition, and omission</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>III.2.3.</td>
+		<td>Rules provide guidance for the inclusion of manifestation-specific and item-specific information that permits users to investigate physical processes and post-production history and context exemplified in the item described</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>III.2.4.</td>
+		<td>Rules provide for the inclusion of all elements of bibliographical significance</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>III.2.5.</td>
+		<td>Rules conform to the substance and structure of the final revision of AACR2 to the extent possible</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>III.2.6.</td>
+		<td>Rules are compatible with DCRB except in cases where changes are necessary to align more closely to current revisions of AACR2 or to conform to the above principles</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>IV.</td>
+		<td>Options</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>V.</td>
+		<td>Language preferences</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>VI.</td>
+		<td>Spelling and style</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>VII.</td>
+		<td>Acronyms</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>VIII.</td>
+		<td>Examples and notes</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>VIII.1.</td>
+		<td>Examples</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>VIII.2.</td>
+		<td>Notes</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>IX.</td>
+		<td>Integrity of the copy</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>IX.1.</td>
+		<td>Defects and sophistication</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>IX.2.</td>
+		<td>Dust jackets</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>X.</td>
+		<td>Precataloging decisions</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>X.1.</td>
+		<td>Decisions to make before beginning the description</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>X.1.1.</td>
+		<td>Item-level vs. collection-level description</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>X.1.2.</td>
+		<td>Cataloging code: AACR2 vs. DCRM(B)</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>X.1.3.</td>
+		<td>Encoding level: DCRM(B) minimal vs. full</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>X.1.4.</td>
+		<td>Bibliographic variants</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>X.2.</td>
+		<td>Factors to consider in making precataloging decisions</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>X.2.1.</td>
+		<td>Institution’s mission and user needs</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>X.2.2.</td>
+		<td>Institutional and departmental resources</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>X.2.3.</td>
+		<td>Market value and conditions of acquisition of the item or collection</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>X.2.4.</td>
+		<td>Intellectual and physical characteristics of the item or collection</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+</table>
 
 ## 0. General Rules
 
-| DCRM Contents | DCRM Citation | DCRMR Citation |
-| ---|---|---|
-|	General Rules	|	0.	|	[0](/DCRMR/general-rules/)	|
-|	Scope	|	0A.	|	n/a	|
-|	The basic description	|	0B.	|	n/a	|
-|	Required elements	|	0B1.	|	n/a	|
-|	Basis of the description	|	0B2.	|	[0.1.2](/DCRMR/general-rules/Data-provenance/#012-basis-of-the-description)	|
-|	General rule	|	0B2.1.	|	[0.1.21.1](/DCRMR/general-rules/Data-provenance/#0.1.21.1)	|
-|	Imperfect copies	|	0B2.2.	|	[0.1.22.1](/DCRMR/general-rules/Data-provenance/#0.1.22.1) [0.1.22.2](/DCRMR/general-rules/Data-provenance/#0.1.22.2)	|
-|	Chief source of information	|	0C.	|	[0.1.3](/DCRMR/general-rules/Data-provenance/#013-preferred-source-of-information)	|
-|	Single title page	|	0C1.	|	[0.1.31](/DCRMR/general-rules/Data-provenance/#0131-manifestations-consisting-of-more-than-one-page-leaf-sheet-or-card)	|
-|		|	0C1.1.	|	[0.1.31.1](/DCRMR/general-rules/Data-provenance/#0.1.31.1) [0.1.31.2](/DCRMR/general-rules/Data-provenance/#0.1.31.2)	|
-|		|	0C1.2.	|	[0.1.31.3](/DCRMR/general-rules/Data-provenance/#0.1.31.3)	|
-|	Multiple title pages	|	0C2.	|	[0.1.33.1](/DCRMR/general-rules/Data-provenance/#0.1.33.1)  [0.1.35.1](/DCRMR/general-rules/Data-provenance/#0.1.35.1)	|
-|	No title page	|	0C3.	|	[0.1.31.4.Y.Y](/DCRMR/general-rules/Data-provenance/#0.1.31.4.Y.Y)	|
-|	Prescribed sources of information	|	0D.	|	[0.1.5.1](/DCRMR/general-rules/Data-provenance/#0.1.5.1)   [0.1.5.2](/DCRMR/general-rules/Data-provenance/#0.1.5.2)  [0.1.32.1](/DCRMR/general-rules/Data-provenance/#0.1.32.1)	|
-|	Prescribed punctuation	|	0E.	|	[0.2.01.1](/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.1)  [0.2.01.2](/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.2)   [0.2.01.3](/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.3)  [0.2.01.4](/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.4)	|
-|	Language and script of the description	|	0F.	|	[0.3](/DCRMR/general-rules/Language-and-script-of-the-description/)	|
-|	General rule	|	0F1.	|	[0.3.1](/DCRMR/general-rules/Language-and-script-of-the-description/#031-general-rule)	|
-|		|	0F1.1.	|	[0.3.1.1](/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.1.1)	|
-|		|	0F1.2.	|	[0.3.1.3](/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.1.3)	|
-|		|	0F1.3.	|	[0.3.1.4](/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.1.4)	|
-|	Romanization	|	0F2.	|	[0.3.2](/DCRMR/general-rules/Language-and-script-of-the-description/#032-romanization)	|
-|		|	0F2.1.	|	[0.3.2.1](/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.2.1)	|
-|		|	0F2.2.	|	[0.3.2.2](/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.2.2)	|
-|	Transcription	|	0G.	|	[0.4.05.1](/DCRMR/general-rules/Transcription/#0.4.05.1)	|
-|	Letters, diacritics, and symbols	|	0G1.	|	[0.4.1](/DCRMR/general-rules/Transcription/#041-letters-diacritical-marks-ligatures-symbols-and-rebuses)	|
-|	Letters and diacritics	|	0G1.1.	|	[0.4.12.1](/DCRMR/general-rules/Transcription/#0.4.12.1) [0.4.13.1](/DCRMR/general-rules/Transcription/#0.4.13.1)	|
-|	Symbols, etc.	|	0G1.2.	|	[0.4.14.1](/DCRMR/general-rules/Transcription/#0.4.14.1)	|
-|	Capitalization and conversion of case	|	0G2.	|	[0.4.2](/DCRMR/general-rules/Transcription/#042-capitalization-and-conversion-of-case)	|
-|	General rule	|	0G2.1.	|	[0.4.21.1](/DCRMR/general-rules/Transcription/#0.4.21.1)	|
-|	Letterforms I,V, i, j, u, and v	|	0G2.2.	|	[0.4.23.1](/DCRMR/general-rules/Transcription/#0.4.23.1)	|
-|	Final capital "I" in Latin	|	0G2.3.	|	[0.4.24.1](/DCRMR/general-rules/Transcription/#0.4.24.1)	|
-|	Chronograms	|	0G2.4.	|	[0.4.25.1](/DCRMR/general-rules/Transcription/#0.4.25.1)	|
-|	Punctuation in the source	|	0G3.	|	[0.4.3](/DCRMR/general-rules/Transcription/#043-punctuation)	|
-|	General rule	|	0G3.1.	|	[0.4.31.1](/DCRMR/general-rules/Transcription/#0.4.31.1) [0.4.31.4](/DCRMR/general-rules/Transcription/#0.4.31.4)	|
-|	Apostrophes	|	0G3.2.	|	[0.4.32.1](/DCRMR/general-rules/Transcription/#0.4.32.1)	|
-|	Hyphens	|	0G3.3.	|	[0.4.33.1](/DCRMR/general-rules/Transcription/#0.4.33.1)	|
-|	Punctuation within roman numerals	|	0G3.4.	|	[0.4.34.1](/DCRMR/general-rules/Transcription/#0.4.34.1)	|
-|	Ellipses, square brackets, and virgules	|	0G3.5.	|	[0.4.35.1](/DCRMR/general-rules/Transcription/#0.4.35.1) [0.4.335.1](/DCRMR/general-rules/Transcription/#0.4.355.1) [0.4.36.1](/DCRMR/general-rules/Transcription/#0.4.36.1)	|
-|	Line endings	|	0G3.6.	|	[0.4.37.1](/DCRMR/general-rules/Transcription/#0.4.37.1)	|
-|	Punctuation substituting for letters	|	0G3.7.	|	[0.4.38.1](/DCRMR/general-rules/Transcription/#0.4.38.1) [0.4.38.2](/DCRMR/general-rules/Transcription/#0.4.38.2) [0.4.38.3](/DCRMR/general-rules/Transcription/#0.4.38.3)	|
-|	Spacing	|	0G4.	|	[0.4.4](/DCRMR/general-rules/Transcription/#044-spacing)	|
-|	Spacing within words and numbers	|	0G4.1.	|	[0.4.42.1](/DCRMR/general-rules/Transcription/#0.4.42.1) [0.4.42.2](/DCRMR/general-rules/Transcription/#0.4.42.2) [0.4.42.3](/DCRMR/general-rules/Transcription/#0.4.42.3)	|
-|	Spacing between words	|	0G4.2.	|	[0.4.43.1](/DCRMR/general-rules/Transcription/#0.4.43.1)	|
-|	Variant spellings	|	0G4.3.	|	[0.4.44.1](/DCRMR/general-rules/Transcription/#0.4.44.1)	|
-|	0G5. Omissions	|	0G5.	|	[0.4.5](/DCRMR/general-rules/Transcription/#045-omissions)	|
-|	General rule	|	0G5.1.	|	[0.4.51.1](/DCRMR/general-rules/Transcription/#0.4.51.1)	|
-|	Information not considered part of any area	|	0G5.2.	|	[0.4.52.1](/DCRMR/general-rules/Transcription/#0.4.52.1)	|
-|	Information not taken from the chief source of information	|	0G5.3.	|	[0.4.53.1](/DCRMR/general-rules/Transcription/#0.4.53.1)	|
-|	0G6. Interpolations	|	0G6.	|	[0.4.6](/DCRMR/general-rules/Transcription/#046-interpolations)	|
-|	General rule	|	0G6.1.	|	[0.4.61.1](/DCRMR/general-rules/Transcription/#0.4.61.1)	|
-|	Conjectural and indecipherable text	|	0G6.2.	|	[0.4.62.1](/DCRMR/general-rules/Transcription/#0.4.62.1)	|
-|	Lacunae in imperfect copies	|	0G6.3.	|	[0.4.63.1](/DCRMR/general-rules/Transcription/#0.4.63.1)	|
-|	Blank spaces	|	0G6.4.	|	[0.4.64.1](/DCRMR/general-rules/Transcription/#0.4.64.1) [0.4.64.2](/DCRMR/general-rules/Transcription/#0.4.64.2) [0.4.64.3](/DCRMR/general-rules/Transcription/#0.4.64.3)	|
-|	Adjacent elements	|	0G6.5.	|	[0.2.01.2 ](/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.2)	|
-|	Misprints, etc.	|	0G7.	|	[0.4.7](/DCRMR/general-rules/Transcription/#047-inaccuracies-misprints-etc)	|
-|	Misprints	|	0G7.1.	|	[0.4.72.1](/DCRMR/general-rules/Transcription/#0.4.72.1) [0.4.72.3](/DCRMR/general-rules/Transcription/#0.4.72.3)	|
-|	Turned and approximated letters	|	0G7.2.	|	[0.4.74.1](/DCRMR/general-rules/Transcription/#0.4.74.1) [0.4.74.2](/DCRMR/general-rules/Transcription/#0.4.74.2) [0.4.74.3](/DCRMR/general-rules/Transcription/#0.4.74.3)	|
-|	Blank spaces for initial letters	|	0G7.3.	|	[0.4.65.1](/DCRMR/general-rules/Transcription/#0.4.65.1) [0.4.65.2](/DCRMR/general-rules/Transcription/#0.4.65.2) [0.4.65.3](/DCRMR/general-rules/Transcription/#0.4.65.3)	|
-|	0G8. Abbreviations and contractions	|	0G8.	|	[0.4.82](/DCRMR/general-rules/Transcription/#0482-abbreviations-and-contractions)	|
-|		|	0G8.1.	|	[0.4.82.1](/DCRMR/general-rules/Transcription/#0.4.82.1)	|
-|		|	0G8.2.	|	[0.4.16.1](/DCRMR/general-rules/Transcription/#0.4.16.1) [0.4.16.2](/DCRMR/general-rules/Transcription/#0.4.16.2) [0.4.16.3](/DCRMR/general-rules/Transcription/#0.4.16.3) [0.4.16.4](/DCRMR/general-rules/Transcription/#0.4.16.4)	|
-|	Superscripts and subscripts	|	0G9.	|	[0.4.86.1](/DCRMR/general-rules/Transcription/#0.4.86.1)	|
-|	Initials, etc.	|	0G10	|	[0.4.45](/DCRMR/general-rules/Transcription/#0445-initials-etc)	|
-|		|	0G10.1.	|	[0.4.45.1](/DCRMR/general-rules/Transcription/#0.4.45.1)	|
-|		|	0G10.2.	|	[0.4.45.2](/DCRMR/general-rules/Transcription/#0.4.45.2)	|
-|		|	0G10.3.	|	[0.4.45.3](/DCRMR/general-rules/Transcription/#0.4.45.3)	|
-
-## 1. Title and statement of responsibility area
-
 <table>
-<caption><strong>Title and Statement of Responsibility Area</strong></caption>
-<thead>
-<tr>  
-<th scope="col">DCRM(B) citation</th>
-<th scope="col">DCRM(B) contents</th>
-<th scope="col">DCRMR citation</th>
-</tr>
-</thead>
-<tr>
-<td>1</td>
-<td>Title and Statement of Responsibility Area</td>
-<td>1</td>
-</tr>
-<tr>
-<td>1A</td>
-<td>Preliminary rule</td>
-<td>n/a</td>
-</tr>
-<tr>
-<td>1A1</td>
-<td>Prescribed punctuation</td>
-<td>0.2.1.1, 0.2.1.2</td>
-</tr>
-<tr>
-<td>1A2</td>
-<td>Sources of information</td>
-<td>1.01.1</td>
-</tr>
-<tr>
-<td>1A2.1</td>
-<td>General rule</td>
-<td>1.01.1.1</td>
-</tr>
-<tr>
-<td>1A2.2</td>
-<td>Omission of pious invocations, etc.</td>
-<td>????</td>
-</tr>
-<tr>
-<td>1A2.3</td>
-<td>Multipart monographs</td>
-<td>1.01.1.1</td>
-</tr>
-<tr>
-<td>1A3</td>
-<td>Form and order of information</td>
-<td>1.01.3</td>
-</tr>
-<tr>
-<td>1B</td>
-<td>Title proper</td>
-<td>1.21</td>
-</tr>
-<tr>
-<td>1B1</td>
-<td>Words considered part of the title proper</td>
-<td>1.21.31</td>
-</tr>
-<tr>
-<td>1B1.1</td>
-<td>Words considered part of the title proper</td>
-<td>1.21.31.1</td>
-</tr>
-<tr>
-<td>1B1.2</td>
-<td>Words considered part of the title proper</td>
-<td>1.01.3.2</td>
-</tr>
+	<caption>
+		<strong>General Rules</strong>
+	</caption>
+	<thead>
+	<tr>
+			<th scope="col">DCRM(B) Citation</th>
+			<th scope="col">DCRM(B) Contents</th>
+			<th scope="col">DCRMR Citation</th>
+		</tr>
+	</thead>
+	<tr>
+		<td>0.</td>
+		<td>General Rules</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0A.</td>
+		<td>Scope</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0B.</td>
+		<td>The basic description</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0B1.</td>
+		<td>Required elements</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0B2.</td>
+		<td>Basis of the description</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0B2.1.</td>
+		<td>General rule</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0B2.2.</td>
+		<td>Imperfect copies</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0C.</td>
+		<td>Chief source of information</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0C1.</td>
+		<td>Single title page</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0C1.1.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0C1.2.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0C2.</td>
+		<td>Multiple title pages</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0C3.</td>
+		<td>No title page</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0D.</td>
+		<td>Prescribed sources of information</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0E.</td>
+		<td>Prescribed punctuation</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0F.</td>
+		<td>Language and script of the description</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0F1.</td>
+		<td>General rule</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0F1.1</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0F1.2.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0F1.3.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0F2.</td>
+		<td>Romanization</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0F2.1.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0F2.2.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G.</td>
+		<td>Transcription</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G1.</td>
+		<td>Letters, diacritics, and symbols</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G1.1.</td>
+		<td>Letters and diacritics</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G1.2.</td>
+		<td>Symbols, etc.</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G2.</td>
+		<td>Capitalization and conversion of case</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G2.1.</td>
+		<td>General rule</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G2.2.</td>
+		<td>Letterforms I,V, i, j, u, and v</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G2.3.</td>
+		<td>Final capital "I" in Latin</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G2.4.</td>
+		<td>Chronograms</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G3.</td>
+		<td>Punctuation in the source</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G3.1.</td>
+		<td>General rule</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G3.2.</td>
+		<td>Apostrophes</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G3.3.</td>
+		<td>Hyphens</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G3.4.</td>
+		<td>Punctuation within roman numerals</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G3.5.</td>
+		<td>Ellipses, square brackets, and virgules</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G3.6.</td>
+		<td>Line endings</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G3.7.</td>
+		<td>Punctuation substituting for letters</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G4.</td>
+		<td>Spacing</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G4.1.</td>
+		<td>Spacing within words and numbers</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G4.2.</td>
+		<td>Spacing between words</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G4.3.</td>
+		<td>Variant spellings</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G5.</td>
+		<td>Omissions</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G5.1.</td>
+		<td>General rule</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G5.2.</td>
+		<td>Information not considered part of any area</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G5.3.</td>
+		<td>Information not taken from the chief source of information</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G6.</td>
+		<td>Interpolations</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G6.1.</td>
+		<td>General rule</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G6.2.</td>
+		<td>Conjectural and indecipherable text</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G6.3.</td>
+		<td>Lacunae in imperfect copies</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G6.4.</td>
+		<td>Blank spaces</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G6.5.</td>
+		<td>Adjacent elements</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G7.</td>
+		<td>Misprints, etc.</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G7.1.</td>
+		<td>Misprints</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G7.2.</td>
+		<td>Turned and approximated letters</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G7.3.</td>
+		<td>Blank spaces for initial letters</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G8.</td>
+		<td>Abbreviations and contractions</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G8.1.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G8.2.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G9.</td>
+		<td>Superscripts and subscripts</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G10.</td>
+		<td>Initials, etc.</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G10.1.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G10.2.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>0G10.3.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
 </table>
 
-| DCRM Contents | DCRM Citation | DCRMR Citation |
-| ---|---|---|
-|	Title and Statement of Responsibility Area	|	1.	|	[1](/DCRMR/title/)	|
-|	Preliminary rule	|	1A.	|	n/a	|
-|	Prescribed punctuation	|	1A1.	|	[0.2.1.1](/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.1) [0.2.1.2](/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.2)	|
-|	Sources of information	|	1A2.	|	[1.01.1](/DCRMR/title/#1011-sources-of-information)	|
-|	General rule	|	1A2.1.	|	[1.01.1.04.Y.Y](/DCRMR/title/#1.01.1.04.Y.Y)	|
-|	Multipart monographs	|	1A2.3.	|	[1.01.1.04.Y.Y](/DCRMR/title/#1.01.1.04.Y.Y)	|
-|	Form and order of information	|	1A3.	|	[1.01.3](/DCRMR/title/#1013-form-and-order-of-information)	|
-|	Title proper	|	1B.	|	[1.21](/DCRMR/title/Title-proper/)	|
-|	Words considered part of the title proper	|	1B1.	|	[1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper)	|
-|		|	1B1.1.	|	[1.21.31.1](/DCRMR/title/Title-proper/#1.21.31.1)	|
-|		|	1B1.2.	|	[1.01.3.2](/DCRMR/title/#1.01.3.2)	|
-|	Note on the source of the title proper	|	1B2.	|	[1.21.31.2](/DCRMR/title/Title-proper/#1.21.31.2)	|
-|	Forms of the title proper	|	1B3.	|	[1.21.32.1](/DCRMR/title/Title-proper/#1.21.32.1)	|
-|		|	1B3.1.	|	[1.21.32.2](/DCRMR/title/Title-proper/#1.21.32.2)	|
-|		|	1B3.2.	|	[1.21.32.3](/DCRMR/title/Title-proper/#1.21.32.3)	|
-|		|	1B3.3.	|	[1.21.32.4](/DCRMR/title/Title-proper/#1.21.32.4)	|
-|	Title proper with grammatically inseparable designation	|	1B4.	|	[1.21.33.1](/DCRMR/title/Title-proper/#1.21.33.1)	|
-|	No title proper	|	1B5.	|	[1.21.34.1](/DCRMR/title/Title-proper/#1.21.34.1)	|
-|	Title proper with supplementary or section designation or title	|	1B6.	|	[1.21.35.1](/DCRMR/title/Title-proper/#1.21.35.1)	|
-|	Abridgments of the title proper	|	1B7.	|	[1.21.36](/DCRMR/title/Title-proper/#12136-abridgments-of-the-title-proper)	|
-|	General rule	|	1B7.1.	|	[1.21.36.1](/DCRMR/title/Title-proper/#1.21.36.1)	|
-|	Alternative title	|	1B7.2.	|	[1.21.36.2](/DCRMR/title/Title-proper/#1.21.36.2)	|
-|	Chief title	|	1B7.3.	|	[1.21.36.3](/DCRMR/title/Title-proper/#1.21.36.3)	|
-|	Parallel titles	|	1C.	|	[1.215](/DCRMR/title/Parallel-title-proper/)	|
-|	Order and source of parallel titles	|	1C1.	|	[1.215.3.1](/DCRMR/title/Parallel-title-proper/#1.215.3.1) [1.215.3.2](/DCRMR/title/Parallel-title-proper/#1.215.3.2)	|
-|	Language of parallel titles and relationship to title proper	|	1C2.	|	[1.215.32](/DCRMR/title/Parallel-title-proper/#121532-language-of-parallel-titles-and-relationship-to-title-proper)	|
-|		|	1C2.1.	|	[1.215.32.1](/DCRMR/title/Parallel-title-proper/#1.215.32.1)	|
-|		|	1C2.2.	|	[1.215.32.2](/DCRMR/title/Parallel-title-proper/#1.215.32.2)	|
-|	Other title information	|	1D.	|	[1.23](/DCRMR/title/Other-title-information/)	|
-|	Order and source of other title information	|	1D1.	|	[1.23.3](/DCRMR/title/Other-title-information/#1233-general-rule)	|
-|		|	1D1.1.	|	[1.23.3.1](/DCRMR/title/Other-title-information/#1.23.3.1)	|
-|		|	1D1.2.	|	[1.23.3.2](/DCRMR/title/Other-title-information/#1.23.3.2)	|
-|		|	1D1.3.	|	[1.23.3.3](/DCRMR/title/Other-title-information/#1.23.3.3)	|
-|		|	1D1.4.	|	omitted	|
-|	Other title information beginning with prepositions, conjunctions, etc.	|	1D2.	|	[1.23.31](/DCRMR/title/Other-title-information/#12331-other-title-information-beginning-with-prepositions-conjunctions-etc)	|
-|	General rule.	|	1D2.1.	|	[1.23.31.1](/DCRMR/title/Other-title-information/#1.23.31.1)	|
-|		|	1D2.2.	|	[1.23.32.1](/DCRMR/title/Other-title-information/#1.23.32.1)	|
-|		|	1D2.3.	|	[1.23.33.1](/DCRMR/title/Other-title-information/#1.23.33.1)	|
-|		|	1D2.4.	|	[1.23.33.2](/DCRMR/title/Other-title-information/#1.23.33.2)	|
-|	Statements about illustrations or volumes	|	1D3.	|	[1.23.35.1](/DCRMR/title/Other-title-information/#1.23.35.1)	|
-|	Abridgment of other title information	|	1D4.	|	[1.23.37.1](/DCRMR/title/Other-title-information/#1.23.37.1)	|
-|	Other title information with grammatically inseparable elements	|	1D5.	|	[1.23.38.1](/DCRMR/title/Other-title-information/#1.23.38.1)	|
-|	Parallel statements containing other title information	|	1D6.	|	[1.235.3.1](/DCRMR/title/Parallel-other-title-information/#1.235.3.1)	|
-|	Statements of responsibility	|	1E.	|	[2](/DCRMR/sor/)	|
-|	Statements of responsibility on the title page	|	1E1.	|	[2.21.3.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.3.1)	|
-|	Statements of responsibility on other sources	|	1E2.	|	[2.21.315.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.315.1)	|
-|	Transposition of statements of responsibility	|	1E3.	|	[2.21.32.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.32.1)	|
-|	Single statements of responsibility with two or more names	|	1E4.	|	[2.21.33](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#22133-single-statements-of-responsibility-relating-to-title-proper-with-two-or-more-names)	|
-|		|	1E4.1.	|	[2.21.33.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.1)	|
-|		|	1E4.2.	|	[2.21.33.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.2)	|
-|	Omission of names in statements of responsibility	|	1E5.	|	[2.21.33.3](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.3)	[2.21.33.4](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.4)|
-|	Two or more statements of responsibility	|	1E6.	|	[2.21.34.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.34.1)	|
-|	Terms of address, etc., in statements of responsibility	|	1E7.	|	[2.21.35.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.35.1)	|
-|	Qualifications in statements of responsibility	|	1E8.	|	[2.21.355.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.355.1)	|
-|	Ambiguous statements of responsibility	|	1E9.	|	[2.21.36.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.36.1)	|
-|	Statements of responsibility following titles in more than one language or script	|	1E10.	|	[2.215.31](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#221531-statements-of-responsibility-following-titles-in-more-than-one-language-or-script)	|
-|		|	1E10.1.	|	[2.215.31.1](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#2.215.31.1)	|
-|		|	1E10.2.	|	[2.215.31.2](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#2.215.31.2)	|
-|		|	1E10.3.	|	[2.215.31.3](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#2.215.31.3)	|
-|	Nouns and noun phrases	|	1E11.	|	[2.21.37](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#22137-nouns-and-noun-phrases)	|
-|		|	1E11.1.	|	[2.21.37.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.37.1)	|
-|		|	1E11.2.	|	[2.21.37.2](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.37.2)	|
-|		|	1E11.3.	|	[2.21.37.3](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.37.3)	|
-|	Persons or bodies not explicitly named in statements of responsibility	|	1E12.	|	[2.21.375.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.375.1)	|
-|	Statements of responsibility with grammatically inseparable elements	|	1E13.	|	[2.21.38.1](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.38.1)	|
-|	Phrases about notes, appendixes, etc.	|	1E14.	|	[1.23.36](/DCRMR/title/Other-title-information/#12336-phrases-about-notes-appendices-etc)	|
-|		|	1E14.1.	|	[1.23.36.1](/DCRMR/title/Other-title-information/#1.23.36.1)	|
-|		|	1E14.2.	|	[1.23.36.2](/DCRMR/title/Other-title-information/#1.23.36.2)	|
-|		|	1E14.3.	|	[1.23.37.1](/DCRMR/title/Other-title-information/#1.23.37.1)	|
-|	Publications without a collective title	|	1F.	|	[1.21.37](/DCRMR/title/Title-proper/#12137-manifestations-without-a-collective-title)	|
-|	Two or more works named on the title page	|	1F1.	|	[1.21.371](/DCRMR/title/Title-proper/#121371-two-or-more-expressions-named-on-the-preferred-source-of-information)	|
-|	By same person or body.	|	1F1.1.	|	[1.21.371.1](/DCRMR/title/Title-proper/#1.21.371.1)	|
-|	By different persons or bodies.	|	1F1.2.	|	omitted	|
-|	One or more works not named on the title page	|	1F2.	|	[1.21.372.1](/DCRMR/title/Title-proper/#1.21.372.1)	|
-|	Single-sheet publications	|	1G.	|	[1.21.42.Y.Y](/DCRMR/title/Title-proper/#12142yy-single-sheet-printed-text-manifestations)	|
-|	Chief source of information	|	1G1.	|	[1.01.1.04.Y.Y](/DCRMR/title/#1.01.1.04.Y.Y)	|
-|	General rule	|	1G2.	|	[1.21.421.1.Y.Y](/DCRMR/title/Title-proper/#1.21.421.1.Y.Y)	|
-|	Chief title	|	1G3.	|	[1.21.422.1.Y.Y](/DCRMR/title/Title-proper/#1.21.422.1.Y.Y)	|
-|	Caption title	|	1G4.	|	[1.21.422.2.Y.Y](/DCRMR/title/Title-proper/#1.21.422.2.Y.Y)	|
-|	Prescribed punctuation	|	1G5.	|	[0.2.1.2](/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.2)	|
-|	Two or more works with a collective title	|	1G6.	|	[1.21.423.1.Y.Y](/DCRMR/title/Title-proper/#1.21.423.1.Y.Y)	|
-|	Two or more works without a collective title	|	1G7.	|	[1.21.424.1.Y.Y](/DCRMR/title/Title-proper/#1.21.424.1.Y.Y) [1.21.424.2.Y.Y](/DCRMR/title/Title-proper/#1.21.424.2.Y.Y)	|
-|	Two or more works with separate publication, distribution, etc., statements	|	1G8.	|	[1.21.425.1.Y.Y ](/DCRMR/title/Title-proper/#1.21.425.1.Y.Y)	|
+##1. Title and Statement of Responsibility Area
 
+<table>
+	<caption>
+		<strong>Title and Statement of Responsibility Area</strong>
+	</caption>
+	<thead>
+	<tr>
+			<th scope="col">DCRM(B) Citation</th>
+			<th scope="col">DCRM(B) Contents</th>
+			<th scope="col">DCRMR Citation</th>
+	</tr>
+	</thead>
+	<tr>
+		<td>1.</td>
+		<td>Title and Statement of Responsibility Area</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1A.</td>
+		<td>Preliminary rule</td>
+		<td>n/a</td>
+	</tr>
+	<tr>
+		<td>1A1.</td>
+		<td>Prescribed punctuation</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1A2.</td>
+		<td>Sources of information</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1A2.1.</td>
+		<td>General rule</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1A2.2.</td>
+		<td>Omission of pious invocations, etc.</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1A2.3</td>
+		<td>Multipart monographs</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1A3.</td>
+		<td>Form and order of information</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B.</td>
+		<td>Title proper</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B1.</td>
+		<td>Words considered part of the title proper</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B1.1.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B1.2</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B2.</td>
+		<td>Note on the source of the title proper</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B3.</td>
+		<td>Forms of the title proper</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B3.1.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B3.2.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B3.3.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B4.</td>
+		<td>Title proper with grammatically inseparable designation</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B5.</td>
+		<td>No title proper</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B6.</td>
+		<td>Title proper with supplementary or section designation or title</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B7.</td>
+		<td>Abridgments of the title proper</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B7.1.</td>
+		<td>General rule</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B7.2.</td>
+		<td>Alternative title</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1B7.3.</td>
+		<td>Chief title</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1C.</td>
+		<td>Parallel titles</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1C2.</td>
+		<td>Language of parallel titles and relationship to title proper</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1C2.1.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1C2.2.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1D.</td>
+		<td>Other title information</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1D1.</td>
+		<td>Order and source of other title information</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1D1.1.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1D1.2.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1D1.3.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1D1.4.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1D2.</td>
+		<td>Other title information beginning with prepositions, conjunctions, etc.</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1D2.1.</td>
+		<td>General rule.</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1D2.2.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1D2.3.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1D2.4.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1D3.</td>
+		<td>Statements about illustrations or volumes</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1D4.</td>
+		<td>Abridgment of other title information</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1D5.</td>
+		<td>Other title information with grammatically inseparable elements</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1D6.</td>
+		<td>Parallel statements containing other title information</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E.</td>
+		<td>Statements of responsibility</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E1.</td>
+		<td>Statements of responsibility on the title page</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E2.</td>
+		<td>Statements of responsibility on other sources</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E3.</td>
+		<td>Transposition of statements of responsibility</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E4.</td>
+		<td>Single statements of responsibility with two or more names</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E4.1.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E4.2.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E5.</td>
+		<td>Omission of names in statements of responsibility</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E6.</td>
+		<td>Two or more statements of responsibility</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E7.</td>
+		<td>Terms of address, etc., in statements of responsibility</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E8.</td>
+		<td>Qualifications in statements of responsibility</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E9.</td>
+		<td>Ambiguous statements of responsibility</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E10.</td>
+		<td>Statements of responsibility following titles in more than one language or script</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E10.1.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E10.2.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E10.3.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E11.</td>
+		<td>Nouns and noun phrases</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E11.1.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E11.2.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E11.3.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E12.</td>
+		<td>Persons or bodies not explicitly named in statements of responsibility</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E13.</td>
+		<td>Statements of responsibility with grammatically inseparable elements</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E14.</td>
+		<td>Phrases about notes, appendixes, etc.</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E14.1.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E14.2.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1E14.3.</td>
+		<td></td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1F.</td>
+		<td>Publications without a collective title</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1F1.</td>
+		<td>Two or more works named on the title page</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1F1.1.</td>
+		<td>By same person or body.</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1F1.2.</td>
+		<td>By different persons or bodies.</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1F2.</td>
+		<td>One or more works not named on the title page</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1G.</td>
+		<td>Single-sheet publications</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1G1.</td>
+		<td>Chief source of information</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1G2.</td>
+		<td>General rule</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1G3.</td>
+		<td>Chief title</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1G4.</td>
+		<td>Caption title</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1G5.</td>
+		<td>Prescribed punctuation</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1G6.</td>
+		<td>Two or more works with a collective title</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1G7.</td>
+		<td>Two or more works without a collective title</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+	<tr>
+		<td>1G8.</td>
+		<td>Two or more works with separate publication, distribution, etc., statements</td>
+		<td><a href="url">link text</a></td>
+	</tr>
+</table>
 
 ## 2. Edition Area
 
