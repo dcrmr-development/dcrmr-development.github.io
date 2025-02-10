@@ -29,217 +29,217 @@ sidebar:
 	<tr>
 		<td>I.</td>
 		<td>Scope and purpose</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i011-scope-and-purpose">i.01.1</a></td>
 	</tr>
 	<tr>
 		<td>I.1.</td>
 		<td>Descriptive Cataloging of Rare Materials</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0111-descriptive-cataloging-of-rare-materials">i.01.11</a></td>
 	</tr>
 	<tr>
 		<td>I.2.</td>
 		<td>Descriptive Cataloging of Rare Materials (Books)</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0112-descriptive-cataloging-of-rare-materials-rda-edition">i.01.12</a></td>
 	</tr>
 	<tr>
 		<td>I.3.</td>
 		<td>Need for special rules</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0113-need-for-special-instructions">i.01.13</a></td>
 	</tr>
 	<tr>
 		<td>I.4.</td>
 		<td>Scope of application</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0114-scope-of-application">i.01.14</a></td>
 	</tr>
 	<tr>
 		<td>I.5.</td>
 		<td>Application within the bibliographic record</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0115-application-within-the-metadata-description">i.01.15</a></td>
 	</tr>
 	<tr>
 		<td>II.</td>
 		<td>Relationship to other standards</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i012-relationship-to-other-standards">i.01.2</a></td>
 	</tr>
 	<tr>
 		<td>II.1.</td>
 		<td>AACR2, ISBD(A), and other cataloging documentation</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0121-rda-lc-pcc-ps-and-other-cataloging-documentation">i.01.21</a></td>
 	</tr>
 	<tr>
 		<td>II.2.</td>
 		<td>MARC 21</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0122-metadata-encoding-standards">i.01.22</a></td>
 	</tr>
 	<tr>
 		<td>III.</td>
 		<td>Objectives and principles</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i013-objectives-and-principles">i.01.3</a></td>
 	</tr>
 	<tr>
 		<td>III.1.</td>
 		<td>Functional objectives of DCRM</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0131-functional-objectives-of-dcrmr">i.01.31</a></td>
 	</tr>
 	<tr>
 		<td>III.1.1.</td>
 		<td>Users must be able to distinguish clearly among different manifestations of an expression of a work</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01312-users-must-be-able-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work">i.01.312</a></td>
 	</tr>
 	<tr>
 		<td>III.1.2.</td>
 		<td>Users must be able to perform most identification and selection tasks without direct access to the materials</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01313-users-must-be-able-to-perform-most-identification-and-selection-tasks-without-direct-access-to-the-resources">i.01.313</a></td>
 	</tr>
 	<tr>
 		<td>III.1.3.</td>
 		<td>Users must be able to investigate physical processes and post-production history and context exemplified in materials described</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01311-users-must-be-able-to-investigate-physical-processes-and-post-production-history-and-context-exemplified-in-resources-described">i.01.311</a></td>
 	</tr>
 	<tr>
 		<td>III.1.4.</td>
 		<td>Users must be able to gain access to materials whose production or presentation characteristics differ from modern conventions</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01314-users-must-be-able-to-gain-access-to-resources-whose-production-or-presentation-characteristics-differ-from-modern-conventions">i.01.314</a></td>
 	</tr>
 	<tr>
 		<td>III.2.</td>
 		<td>Principles of DCRM construction</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0132-principles-of-dcrmr-construction">i.01.32</a></td>
 	</tr>
 	<tr>
 		<td>III.2.1.</td>
 		<td>Rules provide guidance for descriptions that allow users to distinguish clearly among different manifestations of an expression of a work</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="urlhttps://dcrmr-development.github.io/DCRMR/introduction/#i01321-instructions-provide-guidance-for-descriptions-that-allow-users-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work">i.01.321</a></td>
 	</tr>
 	<tr>
 		<td>III.2.2.</td>
 		<td>Rules provide for accurate representations of the entity as it describes itself, notably through instructions regarding transcription, transposition, and omission</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01322-instructions-provide-for-accurate-representations-of-the-resource-as-it-describes-itself-notably-through-instructions-regarding-transcription-transposition-and-omission">i.01.322</a></td>
 	</tr>
 	<tr>
 		<td>III.2.3.</td>
 		<td>Rules provide guidance for the inclusion of manifestation-specific and item-specific information that permits users to investigate physical processes and post-production history and context exemplified in the item described</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01323-instructions-provide-guidance-for-the-inclusion-of-manifestation-specific-and-item-specific-information-that-permits-users-to-investigate-physical-processes-and-post-production-history-and-context-exemplified-in-the-item-described">i.01.323</a></td>
 	</tr>
 	<tr>
 		<td>III.2.4.</td>
 		<td>Rules provide for the inclusion of all elements of bibliographical significance</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01324-instructions-provide-for-the-inclusion-of-all-elements-of-bibliographical-significance">i.01.324</a></td>
 	</tr>
 	<tr>
 		<td>III.2.5.</td>
 		<td>Rules conform to the substance and structure of the final revision of AACR2 to the extent possible</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01325-instructions-conform-to-the-rda-toolkit-to-the-extent-possible">i.01.325</a></td>
 	</tr>
 	<tr>
 		<td>III.2.6.</td>
 		<td>Rules are compatible with DCRB except in cases where changes are necessary to align more closely to current revisions of AACR2 or to conform to the above principles</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01326-instructions-are-compatible-with-the-dcrm-suite-except-in-cases-where-changes-are-necessary-to-align-more-closely-to-the-rda-toolkit-or-to-conform-to-the-above-principles">i.01.326</a></td>
 	</tr>
 	<tr>
 		<td>IV.</td>
 		<td>Options</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i014-options">i.01.4</a></td>
 	</tr>
 	<tr>
 		<td>V.</td>
 		<td>Language preferences</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i015-language-preferences">i.01.5</a></td>
 	</tr>
 	<tr>
 		<td>VI.</td>
 		<td>Spelling and style</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0155-spelling-and-style">i.01.55</a></td>
 	</tr>
 	<tr>
 		<td>VII.</td>
 		<td>Acronyms</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i016-acronyms">i.01.6</a></td>
 	</tr>
 	<tr>
 		<td>VIII.</td>
 		<td>Examples and notes</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i017-examples-and-notes">i.01.7</a></td>
 	</tr>
 	<tr>
 		<td>VIII.1.</td>
 		<td>Examples</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i.01.7.1">i.01.7.1</a></td>
 	</tr>
 	<tr>
 		<td>VIII.2.</td>
 		<td>Notes</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i.01.7.2">i.01.7.2</a></td>
 	</tr>
 	<tr>
 		<td>IX.</td>
 		<td>Integrity of the copy</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i018-integrity-of-the-copy">i.01.8</a></td>
 	</tr>
 	<tr>
 		<td>IX.1.</td>
 		<td>Defects and sophistication</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i.01.8.1">i.01.8.1</a></td>
 	</tr>
 	<tr>
 		<td>IX.2.</td>
 		<td>Dust jackets</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i.01.8.2">i.01.8.2</a></td>
 	</tr>
 	<tr>
 		<td>X.</td>
 		<td>Precataloging decisions</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.9</a></td>
 	</tr>
 	<tr>
 		<td>X.1.</td>
 		<td>Decisions to make before beginning the description</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.91</a></td>
 	</tr>
 	<tr>
 		<td>X.1.1.</td>
 		<td>Item-level vs. collection-level description</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.91.1</a></td>
 	</tr>
 	<tr>
 		<td>X.1.2.</td>
 		<td>Cataloging code: AACR2 vs. DCRM(B)</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.91.2</a></td>
 	</tr>
 	<tr>
 		<td>X.1.3.</td>
 		<td>Encoding level: DCRM(B) minimal vs. full</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.91.3</a></td>
 	</tr>
 	<tr>
 		<td>X.1.4.</td>
 		<td>Bibliographic variants</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.91.4</a></td>
 	</tr>
 	<tr>
 		<td>X.2.</td>
 		<td>Factors to consider in making precataloging decisions</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.92</a></td>
 	</tr>
 	<tr>
 		<td>X.2.1.</td>
 		<td>Institution’s mission and user needs</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.92.1</a></td>
 	</tr>
 	<tr>
 		<td>X.2.2.</td>
 		<td>Institutional and departmental resources</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">link text</a></td>
 	</tr>
 	<tr>
 		<td>X.2.3.</td>
 		<td>Market value and conditions of acquisition of the item or collection</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.92.3</a></td>
 	</tr>
 	<tr>
 		<td>X.2.4.</td>
 		<td>Intellectual and physical characteristics of the item or collection</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.92.4</a></td>
 	</tr>
 </table>
 
