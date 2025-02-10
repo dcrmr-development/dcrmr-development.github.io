@@ -259,332 +259,332 @@ sidebar:
 	<tr>
 		<td>0.</td>
 		<td>General Rules</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/">0</a></td>
 	</tr>
 	<tr>
 		<td>0A.</td>
 		<td>Scope</td>
-		<td><a href="url">link text</a></td>
+		<td>n/a</td>
 	</tr>
 	<tr>
 		<td>0B.</td>
 		<td>The basic description</td>
-		<td><a href="url">link text</a></td>
+		<td>n/a</td>
 	</tr>
 	<tr>
 		<td>0B1.</td>
 		<td>Required elements</td>
-		<td><a href="url">link text</a></td>
+		<td>n/a</td>
 	</tr>
 	<tr>
 		<td>0B2.</td>
 		<td>Basis of the description</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Data-provenance/#012-basis-of-the-description">0.1.2</a></td>
 	</tr>
 	<tr>
 		<td>0B2.1.</td>
 		<td>General rule</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Data-provenance/#0.1.21.1">0.1.21.1</a></td>
 	</tr>
 	<tr>
 		<td>0B2.2.</td>
 		<td>Imperfect copies</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Data-provenance/#0.1.22.1">0.1.22.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Data-provenance/#0.1.22.2">0.1.22.2</a></td>
 	</tr>
 	<tr>
 		<td>0C.</td>
 		<td>Chief source of information</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Data-provenance/#013-preferred-source-of-information">0.1.3</a></td>
 	</tr>
 	<tr>
 		<td>0C1.</td>
 		<td>Single title page</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Data-provenance/#0131-manifestations-consisting-of-more-than-one-page-leaf-sheet-or-card">0.1.31</a></td>
 	</tr>
 	<tr>
 		<td>0C1.1.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Data-provenance/#0.1.31.1">0.1.31.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Data-provenance/#0.1.31.2">0.1.31.2</a></td>
 	</tr>
 	<tr>
 		<td>0C1.2.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Data-provenance/#0.1.31.3">0.1.31.3</a></td>
 	</tr>
 	<tr>
 		<td>0C2.</td>
 		<td>Multiple title pages</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Data-provenance/#0.1.33.1">  0.1.33.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Data-provenance/#0.1.35.1">0.1.35.1</a></td>
 	</tr>
 	<tr>
 		<td>0C3.</td>
 		<td>No title page</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Data-provenance/#0.1.31.4.Y.Y">0.1.31.4.Y.Y</a></td>
 	</tr>
 	<tr>
 		<td>0D.</td>
 		<td>Prescribed sources of information</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Data-provenance/#0.1.5.1">0.1.5.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Data-provenance/#0.1.5.2">0.1.5.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Data-provenance/#0.1.32.1">0.1.32.1</a></td>
 	</tr>
 	<tr>
 		<td>0E.</td>
 		<td>Prescribed punctuation</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.1">0.2.01.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.2">0.2.01.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.3">0.2.01.3</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.4">0.2.01.4</a></td>
 	</tr>
 	<tr>
 		<td>0F.</td>
 		<td>Language and script of the description</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Language-and-script-of-the-description/">0.3</a></td>
 	</tr>
 	<tr>
 		<td>0F1.</td>
 		<td>General rule</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Language-and-script-of-the-description/#031-general-rule">0.3.1</a></td>
 	</tr>
 	<tr>
 		<td>0F1.1</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.1.1">0.3.1.1</a></td>
 	</tr>
 	<tr>
 		<td>0F1.2.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.1.3">0.3.1.3</a></td>
 	</tr>
 	<tr>
 		<td>0F1.3.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.1.4">0.3.1.4</a></td>
 	</tr>
 	<tr>
 		<td>0F2.</td>
 		<td>Romanization</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Language-and-script-of-the-description/#032-romanization">0.3.2</a></td>
 	</tr>
 	<tr>
 		<td>0F2.1.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.2.1">0.3.2.1</a></td>
 	</tr>
 	<tr>
 		<td>0F2.2.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Language-and-script-of-the-description/#0.3.2.2">0.3.2.2</a></td>
 	</tr>
 	<tr>
 		<td>0G.</td>
 		<td>Transcription</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.05.1">0.4.05.1</a></td>
 	</tr>
 	<tr>
 		<td>0G1.</td>
 		<td>Letters, diacritics, and symbols</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#041-letters-diacritical-marks-ligatures-symbols-and-rebuses">0.4.1</a></td>
 	</tr>
 	<tr>
 		<td>0G1.1.</td>
 		<td>Letters and diacritics</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.12.1">0.4.12.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.13.1">0.4.13.1</a></td>
 	</tr>
 	<tr>
 		<td>0G1.2.</td>
 		<td>Symbols, etc.</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.14.1">0.4.14.1</a></td>
 	</tr>
 	<tr>
 		<td>0G2.</td>
 		<td>Capitalization and conversion of case</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#042-capitalization-and-conversion-of-case">0.4.2</a></td>
 	</tr>
 	<tr>
 		<td>0G2.1.</td>
 		<td>General rule</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.21.1">0.4.21.1</a></td>
 	</tr>
 	<tr>
 		<td>0G2.2.</td>
 		<td>Letterforms I,V, i, j, u, and v</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.23.1">0.4.23.1</a></td>
 	</tr>
 	<tr>
 		<td>0G2.3.</td>
 		<td>Final capital "I" in Latin</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.24.1">0.4.24.1</a></td>
 	</tr>
 	<tr>
 		<td>0G2.4.</td>
 		<td>Chronograms</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.25.1">0.4.25.1</a></td>
 	</tr>
 	<tr>
 		<td>0G3.</td>
 		<td>Punctuation in the source</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#043-punctuation">0.4.3</a></td>
 	</tr>
 	<tr>
 		<td>0G3.1.</td>
 		<td>General rule</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.31.1">0.4.31.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.31.4">0.4.31.4</a></td>
 	</tr>
 	<tr>
 		<td>0G3.2.</td>
 		<td>Apostrophes</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.32.1">0.4.32.1</a></td>
 	</tr>
 	<tr>
 		<td>0G3.3.</td>
 		<td>Hyphens</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.33.1">0.4.33.1</a></td>
 	</tr>
 	<tr>
 		<td>0G3.4.</td>
 		<td>Punctuation within roman numerals</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.34.1">0.4.34.1</a></td>
 	</tr>
 	<tr>
 		<td>0G3.5.</td>
 		<td>Ellipses, square brackets, and virgules</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.35.1">0.4.35.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.355.1">0.4.335.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.36.1">0.4.36.1</a></td>
 	</tr>
 	<tr>
 		<td>0G3.6.</td>
 		<td>Line endings</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.37.1">0.4.37.1</a></td>
 	</tr>
 	<tr>
 		<td>0G3.7.</td>
 		<td>Punctuation substituting for letters</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.38.1">0.4.38.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.38.2">0.4.38.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.38.3">0.4.38.3</a></td>
 	</tr>
 	<tr>
 		<td>0G4.</td>
 		<td>Spacing</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#044-spacing">0.4.4</a></td>
 	</tr>
 	<tr>
 		<td>0G4.1.</td>
 		<td>Spacing within words and numbers</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.42.1"> 0.4.42.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.42.2">0.4.42.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.42.3">0.4.42.3</a></td>
 	</tr>
 	<tr>
 		<td>0G4.2.</td>
 		<td>Spacing between words</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.43.1">0.4.43.1</a></td>
 	</tr>
 	<tr>
 		<td>0G4.3.</td>
 		<td>Variant spellings</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.44.1">0.4.44.1</a></td>
 	</tr>
 	<tr>
 		<td>0G5.</td>
 		<td>Omissions</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#045-omissions">0.4.5</a></td>
 	</tr>
 	<tr>
 		<td>0G5.1.</td>
 		<td>General rule</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.51.1">0.4.51.1</a></td>
 	</tr>
 	<tr>
 		<td>0G5.2.</td>
 		<td>Information not considered part of any area</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.52.1">0.4.52.1</a></td>
 	</tr>
 	<tr>
 		<td>0G5.3.</td>
 		<td>Information not taken from the chief source of information</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.53.1">0.4.53.1</a></td>
 	</tr>
 	<tr>
 		<td>0G6.</td>
 		<td>Interpolations</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#046-interpolations">0.4.6</a></td>
 	</tr>
 	<tr>
 		<td>0G6.1.</td>
 		<td>General rule</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.61.1">0.4.61.1</a></td>
 	</tr>
 	<tr>
 		<td>0G6.2.</td>
 		<td>Conjectural and indecipherable text</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.62.1">0.4.62.1</a></td>
 	</tr>
 	<tr>
 		<td>0G6.3.</td>
 		<td>Lacunae in imperfect copies</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.63.1">0.4.63.1</a></td>
 	</tr>
 	<tr>
 		<td>0G6.4.</td>
 		<td>Blank spaces</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.64.1">0.4.64.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.64.2">0.4.64.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.64.3">0.4.64.3</a></td>
 	</tr>
 	<tr>
 		<td>0G6.5.</td>
 		<td>Adjacent elements</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.01.2">0.2.01.2 </a></td>
 	</tr>
 	<tr>
 		<td>0G7.</td>
 		<td>Misprints, etc.</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#047-inaccuracies-misprints-etc">0.4.7</a></td>
 	</tr>
 	<tr>
 		<td>0G7.1.</td>
 		<td>Misprints</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.72.1"> 0.4.72.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.72.3">0.4.72.3</a></td>
 	</tr>
 	<tr>
 		<td>0G7.2.</td>
 		<td>Turned and approximated letters</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.74.1">0.4.74.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.74.2">0.4.74.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.74.3">0.4.74.3</a></td>
 	</tr>
 	<tr>
 		<td>0G7.3.</td>
 		<td>Blank spaces for initial letters</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.65.1">0.4.65.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.65.2">0.4.65.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.65.3">0.4.65.3</a></td>
 	</tr>
 	<tr>
 		<td>0G8.</td>
 		<td>Abbreviations and contractions</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0482-abbreviations-and-contractions">0.4.82</a></td>
 	</tr>
 	<tr>
 		<td>0G8.1.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.82.1">0.4.82.1</a></td>
 	</tr>
 	<tr>
 		<td>0G8.2.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.16.1">0.4.16.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.16.2">0.4.16.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.16.3">0.4.16.3</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.16.4">0.4.16.4</a></td>
 	</tr>
 	<tr>
 		<td>0G9.</td>
 		<td>Superscripts and subscripts</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.86.1">0.4.86.1</a></td>
 	</tr>
 	<tr>
 		<td>0G10.</td>
 		<td>Initials, etc.</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0445-initials-etc">0.4.45</a></td>
 	</tr>
 	<tr>
 		<td>0G10.1.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.45.1">0.4.45.1</a></td>
 	</tr>
 	<tr>
 		<td>0G10.2.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.45.2">0.4.45.2</a></td>
 	</tr>
 	<tr>
 		<td>0G10.3.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.45.3">0.4.45.3</a></td>
 	</tr>
 </table>
 
