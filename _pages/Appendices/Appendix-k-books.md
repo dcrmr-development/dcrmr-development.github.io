@@ -27,217 +27,217 @@ sidebar:
 	</tr>
 	</thead>
 	<tr>
-		<td>I.</td>
+		<th scope="row">I.</th>
 		<td>Scope and purpose</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i011-scope-and-purpose">i.01.1</a></td>
 	</tr>
 	<tr>
-		<td>I.1.</td>
+		<th scope="row">I.1.</th>
 		<td>Descriptive Cataloging of Rare Materials</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0111-descriptive-cataloging-of-rare-materials">i.01.11</a></td>
 	</tr>
 	<tr>
-		<td>I.2.</td>
+		<th scope="row">I.2.</th>
 		<td>Descriptive Cataloging of Rare Materials (Books)</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0112-descriptive-cataloging-of-rare-materials-rda-edition">i.01.12</a></td>
 	</tr>
 	<tr>
-		<td>I.3.</td>
+		<th scope="row">I.3.</th>
 		<td>Need for special rules</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0113-need-for-special-instructions">i.01.13</a></td>
 	</tr>
 	<tr>
-		<td>I.4.</td>
+		<th scope="row">I.4.</th>
 		<td>Scope of application</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0114-scope-of-application">i.01.14</a></td>
 	</tr>
 	<tr>
-		<td>I.5.</td>
+		<th scope="row">I.5.</th>
 		<td>Application within the bibliographic record</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0115-application-within-the-metadata-description">i.01.15</a></td>
 	</tr>
 	<tr>
-		<td>II.</td>
+		<th scope="row">II.</th>
 		<td>Relationship to other standards</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i012-relationship-to-other-standards">i.01.2</a></td>
 	</tr>
 	<tr>
-		<td>II.1.</td>
+		<th scope="row">II.1.</th>
 		<td>AACR2, ISBD(A), and other cataloging documentation</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0121-rda-lc-pcc-ps-and-other-cataloging-documentation">i.01.21</a></td>
 	</tr>
 	<tr>
-		<td>II.2.</td>
+		<th scope="row">II.2.</th>
 		<td>MARC 21</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0122-metadata-encoding-standards">i.01.22</a></td>
 	</tr>
 	<tr>
-		<td>III.</td>
+		<th scope="row">III.</th>
 		<td>Objectives and principles</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i013-objectives-and-principles">i.01.3</a></td>
 	</tr>
 	<tr>
-		<td>III.1.</td>
+		<th scope="row">III.1.</th>
 		<td>Functional objectives of DCRM</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0131-functional-objectives-of-dcrmr">i.01.31</a></td>
 	</tr>
 	<tr>
-		<td>III.1.1.</td>
+		<th scope="row">III.1.1.</th>
 		<td>Users must be able to distinguish clearly among different manifestations of an expression of a work</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01312-users-must-be-able-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work">i.01.312</a></td>
 	</tr>
 	<tr>
-		<td>III.1.2.</td>
+		<th scope="row">III.1.2.</th>
 		<td>Users must be able to perform most identification and selection tasks without direct access to the materials</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01313-users-must-be-able-to-perform-most-identification-and-selection-tasks-without-direct-access-to-the-resources">i.01.313</a></td>
 	</tr>
 	<tr>
-		<td>III.1.3.</td>
+		<th scope="row">III.1.3.</th>
 		<td>Users must be able to investigate physical processes and post-production history and context exemplified in materials described</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01311-users-must-be-able-to-investigate-physical-processes-and-post-production-history-and-context-exemplified-in-resources-described">i.01.311</a></td>
 	</tr>
 	<tr>
-		<td>III.1.4.</td>
+		<th scope="row">III.1.4.</th>
 		<td>Users must be able to gain access to materials whose production or presentation characteristics differ from modern conventions</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01314-users-must-be-able-to-gain-access-to-resources-whose-production-or-presentation-characteristics-differ-from-modern-conventions">i.01.314</a></td>
 	</tr>
 	<tr>
-		<td>III.2.</td>
+		<th scope="row">III.2.</th>
 		<td>Principles of DCRM construction</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0132-principles-of-dcrmr-construction">i.01.32</a></td>
 	</tr>
 	<tr>
-		<td>III.2.1.</td>
+		<th scope="row">III.2.1.</th>
 		<td>Rules provide guidance for descriptions that allow users to distinguish clearly among different manifestations of an expression of a work</td>
 		<td><a href="urlhttps://dcrmr-development.github.io/DCRMR/introduction/#i01321-instructions-provide-guidance-for-descriptions-that-allow-users-to-distinguish-clearly-among-different-manifestations-of-an-expression-of-a-work">i.01.321</a></td>
 	</tr>
 	<tr>
-		<td>III.2.2.</td>
+		<th scope="row">III.2.2.</th>
 		<td>Rules provide for accurate representations of the entity as it describes itself, notably through instructions regarding transcription, transposition, and omission</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01322-instructions-provide-for-accurate-representations-of-the-resource-as-it-describes-itself-notably-through-instructions-regarding-transcription-transposition-and-omission">i.01.322</a></td>
 	</tr>
 	<tr>
-		<td>III.2.3.</td>
+		<th scope="row">III.2.3.</th>
 		<td>Rules provide guidance for the inclusion of manifestation-specific and item-specific information that permits users to investigate physical processes and post-production history and context exemplified in the item described</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01323-instructions-provide-guidance-for-the-inclusion-of-manifestation-specific-and-item-specific-information-that-permits-users-to-investigate-physical-processes-and-post-production-history-and-context-exemplified-in-the-item-described">i.01.323</a></td>
 	</tr>
 	<tr>
-		<td>III.2.4.</td>
+		<th scope="row">III.2.4.</th>
 		<td>Rules provide for the inclusion of all elements of bibliographical significance</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01324-instructions-provide-for-the-inclusion-of-all-elements-of-bibliographical-significance">i.01.324</a></td>
 	</tr>
 	<tr>
-		<td>III.2.5.</td>
+		<th scope="row">III.2.5.</th>
 		<td>Rules conform to the substance and structure of the final revision of AACR2 to the extent possible</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01325-instructions-conform-to-the-rda-toolkit-to-the-extent-possible">i.01.325</a></td>
 	</tr>
 	<tr>
-		<td>III.2.6.</td>
+		<th scope="row">III.2.6.</th>
 		<td>Rules are compatible with DCRB except in cases where changes are necessary to align more closely to current revisions of AACR2 or to conform to the above principles</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i01326-instructions-are-compatible-with-the-dcrm-suite-except-in-cases-where-changes-are-necessary-to-align-more-closely-to-the-rda-toolkit-or-to-conform-to-the-above-principles">i.01.326</a></td>
 	</tr>
 	<tr>
-		<td>IV.</td>
+		<th scope="row">IV.</th>
 		<td>Options</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i014-options">i.01.4</a></td>
 	</tr>
 	<tr>
-		<td>V.</td>
+		<th scope="row">V.</th>
 		<td>Language preferences</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i015-language-preferences">i.01.5</a></td>
 	</tr>
 	<tr>
-		<td>VI.</td>
+		<th scope="row">VI.</th>
 		<td>Spelling and style</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i0155-spelling-and-style">i.01.55</a></td>
 	</tr>
 	<tr>
-		<td>VII.</td>
+		<th scope="row">VII.</th>
 		<td>Acronyms</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i016-acronyms">i.01.6</a></td>
 	</tr>
 	<tr>
-		<td>VIII.</td>
+		<th scope="row">VIII.</th>
 		<td>Examples and notes</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i017-examples-and-notes">i.01.7</a></td>
 	</tr>
 	<tr>
-		<td>VIII.1.</td>
+		<th scope="row">VIII.1.</th>
 		<td>Examples</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i.01.7.1">i.01.7.1</a></td>
 	</tr>
 	<tr>
-		<td>VIII.2.</td>
+		<th scope="row">VIII.2.</th>
 		<td>Notes</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i.01.7.2">i.01.7.2</a></td>
 	</tr>
 	<tr>
-		<td>IX.</td>
+		<th scope="row">IX.</th>
 		<td>Integrity of the copy</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i018-integrity-of-the-copy">i.01.8</a></td>
 	</tr>
 	<tr>
-		<td>IX.1.</td>
+		<th scope="row">IX.1.</th>
 		<td>Defects and sophistication</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i.01.8.1">i.01.8.1</a></td>
 	</tr>
 	<tr>
-		<td>IX.2.</td>
+		<th scope="row">IX.2.</th>
 		<td>Dust jackets</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i.01.8.2">i.01.8.2</a></td>
 	</tr>
 	<tr>
-		<td>X.</td>
+		<th scope="row">X.</th>
 		<td>Precataloging decisions</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.9</a></td>
 	</tr>
 	<tr>
-		<td>X.1.</td>
+		<th scope="row">X.1.</th>
 		<td>Decisions to make before beginning the description</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.91</a></td>
 	</tr>
 	<tr>
-		<td>X.1.1.</td>
+		<th scope="row">X.1.1.</th>
 		<td>Item-level vs. collection-level description</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.91.1</a></td>
 	</tr>
 	<tr>
-		<td>X.1.2.</td>
+		<th scope="row">X.1.2.</th>
 		<td>Cataloging code: AACR2 vs. DCRM(B)</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.91.2</a></td>
 	</tr>
 	<tr>
-		<td>X.1.3.</td>
+		<th scope="row">X.1.3.</th>
 		<td>Encoding level: DCRM(B) minimal vs. full</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.91.3</a></td>
 	</tr>
 	<tr>
-		<td>X.1.4.</td>
+		<th scope="row">X.1.4.</th>
 		<td>Bibliographic variants</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.91.4</a></td>
 	</tr>
 	<tr>
-		<td>X.2.</td>
+		<th scope="row">X.2.</th>
 		<td>Factors to consider in making precataloging decisions</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.92</a></td>
 	</tr>
 	<tr>
-		<td>X.2.1.</td>
+		<th scope="row">X.2.1.</th>
 		<td>Institution’s mission and user needs</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.92.1</a></td>
 	</tr>
 	<tr>
-		<td>X.2.2.</td>
+		<th scope="row">X.2.2.</th>
 		<td>Institutional and departmental resources</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">link text</a></td>
 	</tr>
 	<tr>
-		<td>X.2.3.</td>
+		<th scope="row">X.2.3.</th>
 		<td>Market value and conditions of acquisition of the item or collection</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.92.3</a></td>
 	</tr>
 	<tr>
-		<td>X.2.4.</td>
+		<th scope="row">X.2.4.</th>
 		<td>Intellectual and physical characteristics of the item or collection</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/introduction/#i019-precataloging-decisions">i.01.92.4</a></td>
 	</tr>
@@ -254,7 +254,7 @@ sidebar:
 			<th scope="col">DCRM(B) Citation</th>
 			<th scope="col">DCRM(B) Contents</th>
 			<th scope="col">DCRMR Citation</th>
-		</tr>
+	</tr>
 	</thead>
 	<tr>
 		<td>0.</td>
@@ -604,7 +604,7 @@ sidebar:
 	<tr>
 		<td>1.</td>
 		<td>Title and Statement of Responsibility Area</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/">1</a></td>
 	</tr>
 	<tr>
 		<td>1A.</td>
@@ -614,57 +614,52 @@ sidebar:
 	<tr>
 		<td>1A1.</td>
 		<td>Prescribed punctuation</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.1">0.2.1.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.2">0.2.1.2</a></td>
 	</tr>
 	<tr>
 		<td>1A2.</td>
 		<td>Sources of information</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/#1011-sources-of-information">1.01.1</a></td>
 	</tr>
 	<tr>
 		<td>1A2.1.</td>
 		<td>General rule</td>
-		<td><a href="url">link text</a></td>
-	</tr>
-	<tr>
-		<td>1A2.2.</td>
-		<td>Omission of pious invocations, etc.</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/#1.01.1.04.Y.Y">1.01.1.04.Y.Y</a></td>
 	</tr>
 	<tr>
 		<td>1A2.3</td>
 		<td>Multipart monographs</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/#1.01.1.04.Y.Y">1.01.1.04.Y.Y</a></td>
 	</tr>
 	<tr>
 		<td>1A3.</td>
 		<td>Form and order of information</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/#1013-form-and-order-of-information">1.01.3</a></td>
 	</tr>
 	<tr>
 		<td>1B.</td>
 		<td>Title proper</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/">1.21</a></td>
 	</tr>
 	<tr>
 		<td>1B1.</td>
 		<td>Words considered part of the title proper</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper">1.21.31</a></td>
 	</tr>
 	<tr>
 		<td>1B1.1.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.31.1">1.21.31.1</a></td>
 	</tr>
 	<tr>
 		<td>1B1.2</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/#1.01.3.2">1.01.3.2</a></td>
 	</tr>
 	<tr>
 		<td>1B2.</td>
 		<td>Note on the source of the title proper</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.31.2">1.21.31.2</a></td>
 	</tr>
 	<tr>
 		<td>1B3.</td>
@@ -674,347 +669,352 @@ sidebar:
 	<tr>
 		<td>1B3.1.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.32.2">1.21.32.2</a></td>
 	</tr>
 	<tr>
 		<td>1B3.2.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.32.3">1.21.32.3</a></td>
 	</tr>
 	<tr>
 		<td>1B3.3.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.32.4">1.21.32.4</a></td>
 	</tr>
 	<tr>
 		<td>1B4.</td>
 		<td>Title proper with grammatically inseparable designation</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.33.1">1.21.33.1</a></td>
 	</tr>
 	<tr>
 		<td>1B5.</td>
 		<td>No title proper</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.34.1">1.21.34.1</a></td>
 	</tr>
 	<tr>
 		<td>1B6.</td>
 		<td>Title proper with supplementary or section designation or title</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.35.1">1.21.35.1</a></td>
 	</tr>
 	<tr>
 		<td>1B7.</td>
 		<td>Abridgments of the title proper</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#12136-abridgments-of-the-title-proper">1.21.36</a></td>
 	</tr>
 	<tr>
 		<td>1B7.1.</td>
 		<td>General rule</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.36.1">1.21.36.1</a></td>
 	</tr>
 	<tr>
 		<td>1B7.2.</td>
 		<td>Alternative title</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.36.2">1.21.36.2</a></td>
 	</tr>
 	<tr>
 		<td>1B7.3.</td>
 		<td>Chief title</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.36.3">1.21.36.3</a></td>
 	</tr>
 	<tr>
 		<td>1C.</td>
 		<td>Parallel titles</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Parallel-title-proper/">1.215</a></td>
+	</tr>
+	<tr>
+		<td>1C1.</td>
+		<td>Order and source of parallel titles</td>
 		<td><a href="url">link text</a></td>
 	</tr>
 	<tr>
 		<td>1C2.</td>
 		<td>Language of parallel titles and relationship to title proper</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Parallel-title-proper/#1.215.3.1"> 1.215.3.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/title/Parallel-title-proper/#1.215.3.2">1.215.3.2</a></td>
 	</tr>
 	<tr>
 		<td>1C2.1.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Parallel-title-proper/#1.215.32.1">1.215.32.1</a></td>
 	</tr>
 	<tr>
 		<td>1C2.2.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Parallel-title-proper/#1.215.32.2">1.215.32.2</a></td>
 	</tr>
 	<tr>
 		<td>1D.</td>
 		<td>Other title information</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/">1.23</a></td>
 	</tr>
 	<tr>
 		<td>1D1.</td>
 		<td>Order and source of other title information</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1233-general-rule">1.23.3</a></td>
 	</tr>
 	<tr>
 		<td>1D1.1.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1.23.3.1">1.23.3.1</a></td>
 	</tr>
 	<tr>
 		<td>1D1.2.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1.23.3.2">1.23.3.2</a></td>
 	</tr>
 	<tr>
 		<td>1D1.3.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1.23.3.3">1.23.3.3</a></td>
 	</tr>
 	<tr>
 		<td>1D1.4.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td>omitted</td>
 	</tr>
 	<tr>
 		<td>1D2.</td>
 		<td>Other title information beginning with prepositions, conjunctions, etc.</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#12331-other-title-information-beginning-with-prepositions-conjunctions-etc">1.23.31</a></td>
 	</tr>
 	<tr>
 		<td>1D2.1.</td>
 		<td>General rule.</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1.23.31.1">1.23.31.1</a></td>
 	</tr>
 	<tr>
 		<td>1D2.2.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1.23.32.1">1.23.32.1</a></td>
 	</tr>
 	<tr>
 		<td>1D2.3.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1.23.33.1">1.23.33.1</a></td>
 	</tr>
 	<tr>
 		<td>1D2.4.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1.23.33.2">1.23.33.2</a></td>
 	</tr>
 	<tr>
 		<td>1D3.</td>
 		<td>Statements about illustrations or volumes</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1.23.35.1">1.23.35.1</a></td>
 	</tr>
 	<tr>
 		<td>1D4.</td>
 		<td>Abridgment of other title information</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1.23.37.1">1.23.37.1</a></td>
 	</tr>
 	<tr>
 		<td>1D5.</td>
 		<td>Other title information with grammatically inseparable elements</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1.23.38.1">1.23.38.1</a></td>
 	</tr>
 	<tr>
 		<td>1D6.</td>
 		<td>Parallel statements containing other title information</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Parallel-other-title-information/#1.235.3.1">1.235.3.1</a></td>
 	</tr>
 	<tr>
 		<td>1E.</td>
 		<td>Statements of responsibility</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/">2</a></td>
 	</tr>
 	<tr>
 		<td>1E1.</td>
 		<td>Statements of responsibility on the title page</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.3.1">2.21.3.1</a></td>
 	</tr>
 	<tr>
 		<td>1E2.</td>
 		<td>Statements of responsibility on other sources</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.315.1">2.21.315.1</a></td>
 	</tr>
 	<tr>
 		<td>1E3.</td>
 		<td>Transposition of statements of responsibility</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.32.1">2.21.32.1</a></td>
 	</tr>
 	<tr>
 		<td>1E4.</td>
 		<td>Single statements of responsibility with two or more names</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#22133-single-statements-of-responsibility-relating-to-title-proper-with-two-or-more-names">2.21.33</a></td>
 	</tr>
 	<tr>
 		<td>1E4.1.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.1">2.21.33.1</a></td>
 	</tr>
 	<tr>
 		<td>1E4.2.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.2">2.21.33.2</a></td>
 	</tr>
 	<tr>
 		<td>1E5.</td>
 		<td>Omission of names in statements of responsibility</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.3">2.21.33.3</a></td>
 	</tr>
 	<tr>
 		<td>1E6.</td>
 		<td>Two or more statements of responsibility</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.34.1">2.21.34.1</a></td>
 	</tr>
 	<tr>
 		<td>1E7.</td>
 		<td>Terms of address, etc., in statements of responsibility</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.35.1">2.21.35.1</a></td>
 	</tr>
 	<tr>
 		<td>1E8.</td>
 		<td>Qualifications in statements of responsibility</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.355.1">2.21.355.1</a></td>
 	</tr>
 	<tr>
 		<td>1E9.</td>
 		<td>Ambiguous statements of responsibility</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.36.1">2.21.36.1</a></td>
 	</tr>
 	<tr>
 		<td>1E10.</td>
 		<td>Statements of responsibility following titles in more than one language or script</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#221531-statements-of-responsibility-following-titles-in-more-than-one-language-or-script">2.215.31</a></td>
 	</tr>
 	<tr>
 		<td>1E10.1.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#2.215.31.1">2.215.31.1</a></td>
 	</tr>
 	<tr>
 		<td>1E10.2.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#2.215.31.2">2.215.31.2</a></td>
 	</tr>
 	<tr>
 		<td>1E10.3.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/#2.215.31.3">2.215.31.3</a></td>
 	</tr>
 	<tr>
 		<td>1E11.</td>
 		<td>Nouns and noun phrases</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#22137-nouns-and-noun-phrases">2.21.37</a></td>
 	</tr>
 	<tr>
 		<td>1E11.1.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.37.1">2.21.37.1</a></td>
 	</tr>
 	<tr>
 		<td>1E11.2.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.37.2">2.21.37.2</a></td>
 	</tr>
 	<tr>
 		<td>1E11.3.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.37.3">2.21.37.3</a></td>
 	</tr>
 	<tr>
 		<td>1E12.</td>
 		<td>Persons or bodies not explicitly named in statements of responsibility</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.375.1">2.21.375.1</a></td>
 	</tr>
 	<tr>
 		<td>1E13.</td>
 		<td>Statements of responsibility with grammatically inseparable elements</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.38.1">2.21.38.1</a></td>
 	</tr>
 	<tr>
 		<td>1E14.</td>
 		<td>Phrases about notes, appendixes, etc.</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#12336-phrases-about-notes-appendices-etc">1.23.36</a></td>
 	</tr>
 	<tr>
 		<td>1E14.1.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1.23.36.1">1.23.36.1</a></td>
 	</tr>
 	<tr>
 		<td>1E14.2.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1.23.36.2">1.23.36.2</a></td>
 	</tr>
 	<tr>
 		<td>1E14.3.</td>
 		<td></td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1.23.37.1">1.23.37.1</a></td>
 	</tr>
 	<tr>
 		<td>1F.</td>
 		<td>Publications without a collective title</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#12137-manifestations-without-a-collective-title">1.21.37</a></td>
 	</tr>
 	<tr>
 		<td>1F1.</td>
 		<td>Two or more works named on the title page</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#121371-two-or-more-expressions-named-on-the-preferred-source-of-information">1.21.371</a></td>
 	</tr>
 	<tr>
 		<td>1F1.1.</td>
 		<td>By same person or body.</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.371.1">1.21.371.1</a></td>
 	</tr>
 	<tr>
 		<td>1F1.2.</td>
 		<td>By different persons or bodies.</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="url">omitted</a></td>
 	</tr>
 	<tr>
 		<td>1F2.</td>
 		<td>One or more works not named on the title page</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.372.1">1.21.372.1</a></td>
 	</tr>
 	<tr>
 		<td>1G.</td>
 		<td>Single-sheet publications</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#12142yy-single-sheet-printed-text-manifestations">1.21.42.Y.Y</a></td>
 	</tr>
 	<tr>
 		<td>1G1.</td>
 		<td>Chief source of information</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/#1.01.1.04.Y.Y">1.01.1.04.Y.Y</a></td>
 	</tr>
 	<tr>
 		<td>1G2.</td>
 		<td>General rule</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.421.1.Y.Y">1.21.421.1.Y.Y</a></td>
 	</tr>
 	<tr>
 		<td>1G3.</td>
 		<td>Chief title</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.422.1.Y.Y">1.21.422.1.Y.Y</a></td>
 	</tr>
 	<tr>
 		<td>1G4.</td>
 		<td>Caption title</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.422.2.Y.Y">1.21.422.2.Y.Y</a></td>
 	</tr>
 	<tr>
 		<td>1G5.</td>
 		<td>Prescribed punctuation</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Prescribed-punctuation/#0.2.1.2">0.2.1.2</a></td>
 	</tr>
 	<tr>
 		<td>1G6.</td>
 		<td>Two or more works with a collective title</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.423.1.Y.Y">1.21.423.1.Y.Y</a></td>
 	</tr>
 	<tr>
 		<td>1G7.</td>
 		<td>Two or more works without a collective title</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.424.1.Y.Y"> 1.21.424.1.Y.Y</a>, <a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.424.2.Y.Y">1.21.424.2.Y.Y</a></td>
 	</tr>
 	<tr>
 		<td>1G8.</td>
 		<td>Two or more works with separate publication, distribution, etc., statements</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.425.1.Y.Y">1.21.425.1.Y.Y </a></td>
 	</tr>
 </table>
 
