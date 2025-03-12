@@ -9,6 +9,41 @@ sidebar:
 
 Members of the RBMS RDA Editorial Group, listed by terms of service:
 
+### 2024/2025
+
+Liz Adams, David M. Rubenstein Rare Book & Manuscript Library, Duke University, *editor*  
+Erin Blake, Folger Shakespeare Library, *keeper of the text*  
+Rafael A. Linares Blasini, *keeper of the text*  
+Maren Cornett, University of Delaware, *editor*  
+Laura Doublet, University of Victoria, Victoria, B.C., *chief editor*  
+Rebecca Flore, University of Chicago Library, *editor*  
+Jessica Grzegorski, Northwestern University Libraries, *editor*  
+Kurt Hanselman, San Diego State University, *editor*  
+Yoonha Hwang, *keeper of the text*  
+Deborah J. Leslie, Folger Shakespeare Library, *editor*  
+Shalley Marshall, *editor*  
+Iris O’Brien, British Library, *editor*  
+Elizabeth O’Keefe, Formerly of the Morgan Library & Museum, *editor*  
+Jessie Sherwood, Robbins Collection and Research Center, Berkeley Law, *chief editor*  
+
+### 2023/2024
+
+Liz Adams, David M. Rubenstein Rare Book & Manuscript Library, Duke University, *chief editor*  
+Erin Blake, Folger Shakespeare Library, *editor*  
+Rafael A. Linares Blasini, *keeper of the text*  
+Mandy Choie, Western Carolina University, *keeper of the text*  
+Laura Doublet, University of Victoria, Victoria, B.C., *chief editor*  
+Tammy Druash, University of North Florida, *editor*  
+Rebecca Flore, University of Chicago Library, *editor*  
+Jessica Grzegorski, Newberry Library, *editor*  
+Ryan Hildebrand, University of Oregon, *editor*  
+Yoonha Hwang, *keeper of the text*  
+Deborah J. Leslie, Folger Shakespeare Library, *editor*  
+Iris O’Brien, British Library, *editor*  
+Elizabeth O’Keefe, Formerly of the Morgan Library & Museum, *editor*  
+Jessie Sherwood, Robbins Collection and Research Center, Berkeley Law, *editor*  
+Amy Tims, American Antiquarian Society, *keeper of the text*  
+
 ### 2022/2023 
 
 Liz Adams, David M. Rubenstein Rare Book & Manuscript Library, Duke University, *chief editor*  
