@@ -18,7 +18,6 @@ Laura Doublet, University of Victoria, Victoria, B.C., *chief editor*
 Rebecca Flore, University of Chicago Library, *editor*  
 Jessica Grzegorski, Northwestern University Libraries, *editor*  
 Kurt Hanselman, San Diego State University, *editor*  
-Yoonha Hwang, *keeper of the text*  
 Deborah J. Leslie, Folger Shakespeare Library, *editor*  
 Rafael A. Linares Blasini, *keeper of the text*  
 Shalley Marshall, *editor*  
