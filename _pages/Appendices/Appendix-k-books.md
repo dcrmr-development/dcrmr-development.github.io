@@ -662,7 +662,7 @@ sidebar:
 	<tr>
 		<th scope="row">1B3.</th>
 		<td>Forms of the title proper</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#12132-forms-of-the-title-proper">1.21.32.1</a></td>
 	</tr>
 	<tr>
 		<th scope="row">1B3.1.</th>
@@ -722,7 +722,7 @@ sidebar:
 	<tr>
 		<th scope="row">1C1.</th>
 		<td>Order and source of parallel titles</td>
-		<td><a href="url">link text</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Parallel-title-proper/#1.215.3.1">1.215.3.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/title/Parallel-title-proper/#1.215.3.2">1.215.3.2</a><td>
 	</tr>
 	<tr>
 		<th scope="row">1C2.</th>
@@ -962,7 +962,7 @@ sidebar:
 	<tr>
 		<th scope="row">1F1.2.</th>
 		<td>By different persons or bodies</td>
-		<td><a href="url">omitted</a></td>
+		<td>omitted</td>
 	</tr>
 	<tr>
 		<th scope="row">1F2.</th>
