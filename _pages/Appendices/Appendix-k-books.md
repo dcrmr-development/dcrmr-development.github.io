@@ -587,7 +587,9 @@ sidebar:
 		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.45.3">0.4.45.3</a></td>
 	</tr>
 </table>
+
 ## 1. Title and Statement of Responsibility Area
+
 <table>
 	<caption>
 		<strong>Title and Statement of Responsibility Area</strong>
@@ -722,7 +724,7 @@ sidebar:
 	<tr>
 		<th scope="row">1C1.</th>
 		<td>Order and source of parallel titles</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Parallel-title-proper/#1.215.3.1">1.215.3.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/title/Parallel-title-proper/#1.215.3.2">1.215.3.2</a><td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Parallel-title-proper/#1.215.3.1">1.215.3.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/title/Parallel-title-proper/#1.215.3.2">1.215.3.2</a></td>
 	</tr>
 	<tr>
 		<th scope="row">1C2.</th>
@@ -1279,14 +1281,16 @@ sidebar:
 		<th scope="col">DCRMR Citation</th>
 	</tr>
 	</thead>
-	<tr>	
-		<th scope="row">n/a</th>	
+	<tr>
+		<th scope="row">n/a</th>
 		<td>No general use of this area is made for printed monographs</td>	
 		<td><a href="https:/dcrmr-development.github.io/DCRMR/mathematical-details/">4</a></td>	
 	</tr>
 </table>
 
+
 ## 4. Publication, Distribution, Etc., Area
+
 
 | DCRM Contents | DCRM Citation | DCRMR Citation |
 | ---|---|---|
