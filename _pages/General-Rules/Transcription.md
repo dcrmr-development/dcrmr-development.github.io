@@ -103,7 +103,7 @@ END COMMENTED-OUT SECTION
 
 <a name="0.4.16.2">0.4.16.2</a> Make an explanatory note if considered important.
 
-<a name="0.4.16.4">0.4.16.4</a> If the meaning of a brevigraph is conjectural or unknown, apply the bracketing conventions given in [Conjectural and indecipherable text](/DCRMR/general-rules/Transcription/#0462-conjectural-and-indecipherable-text) (see [0.4.62.1](/DCRMR/general-rules/Transcription/#0.4.62.1)).
+<a name="0.4.16.4">0.4.16.4</a> If the meaning of a brevigraph is conjectural or unknown, apply the bracketing conventions given in [Conjectural and illegible text](/DCRMR/general-rules/Transcription/#0462-conjectural-and-illegible-text) (see [0.4.62.1](/DCRMR/general-rules/Transcription/#0.4.62.1)).
 
 
 
