@@ -2323,7 +2323,6 @@ sidebar:
 		<th scope="col">DCRMR Citation</th>
 	</tr>
 	</thead>
-
 	<tbody> 
 	<tr>
 		<th scope="row">6A.</th>
@@ -3290,4 +3289,4 @@ sidebar:
 ---
 
 [![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "J — Abbreviations for creators, publishers, printers, etc.")](/DCRMR/appendices/Appendix-j/)
-[![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Glossary")](/DCRMR/glossary/) 
+[![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "K — Mapping from DCRM(G) to DCRMR")](/DCRMR/appendices/Appendix-k-graphics/)

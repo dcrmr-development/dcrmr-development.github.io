@@ -336,12 +336,16 @@ docs:
         url: /DCRMR/appendices/Appendix-d/
       - title: "E — Variations requiring a new record"
         url: /DCRMR/appendices/Appendix-e/
+      - title: "G — Early letterforms, symbols and brevigraphs"
+        url: /DCRMR/appendices/Appendix-g/
       - title: "H — Individual and special issues of serials"
         url: /DCRMR/appendices/Appendix-h/
       - title: "J — Abbreviations for creators, publishers, printers, etc."
         url: /DCRMR/appendices/Appendix-j/
       - title: "K — Mapping from DCRM(B) to DCRMR"
         url: /DCRMR/appendices/Appendix-k-books/
+      - title: "K — Mapping from DCRM(G) to DCRMR"
+        url: /DCRMR/appendices/Appendix-k-graphics/
         
   - title: "Glossary"
     url: /DCRMR/glossary/

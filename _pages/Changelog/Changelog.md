@@ -28,9 +28,9 @@ Release PDF: [DCRMR RDA edition release 202x.1.0.0 PDF](https://rbms-bsc.github.
 SUMMARY FROM CHIEF EDITORS
 
 Architectural and code changes:  
-* Added: preferred citation; related manifestation of manifestation; restriction on access to item; restriciton on use of item; place of production; parallel place of production; date of production; note on production statement; mount; details of mount; generation; details of generation; polarity; details of polarity  
-* Changed: Link to ISBD to the ISBD (2021 update to 2011 consolidated edition); Links to RBMS Controlled Vocabularies to the Controlled Vocabulary for Rare Materials Cataloging; Membership roster to include members' institutions 
-* Removed: 
+* Added: preferred citation; related manifestation of manifestation; restriction on access to item; restriciton on use of item; place of production; parallel place of production; date of production; note on production statement; mount; details of mount; generation; details of generation; polarity; details of polarity; placeholder for G — Early letterforms, symbols and brevigraphs; placeholder for K — Mapping from DCRM(G) to DCRMR  
+* Changed: Link to ISBD to the ISBD (2021 update to 2011 consolidated edition); Links to RBMS Controlled Vocabularies to the Controlled Vocabulary for Rare Materials Cataloging; Membership roster to include members' institutions; Early Letterforms and Brevigraphs charts moved to Appendix G; Appendix K tables re-coded as screen-reader-friendly html 
+* Removed: 0.4.16.3
 * Renamed: Changes from DCRM(B) to Changes from DCRM; K — "Instruction mappings from DCRM to DCRMR" to "Mapping from DCRM(B) to DCRMR"
 * Fixed: Updates to DCRMRthebook script
 

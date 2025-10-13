@@ -342,5 +342,5 @@ A distinct intellectual or artistic creation, that is, the intellectual or artis
 
 ---
 
-[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "K — Instruction mappings from DCRM to DCRMR")](/DCRMR/appendices/Appendix-k/)
+[![Image of Left Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Left.png "K — Instruction mappings from DCRM to DCRMR")](/DCRMR/appendices/Appendix-k-graphics/)
 [![Image of Right Arrow](https://rbms-bsc.github.io/DCRMR/assets/pictures/navigation/Arrow_Right.png "Changelog")](/DCRMR/changelog/)
