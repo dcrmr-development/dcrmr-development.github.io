@@ -562,7 +562,7 @@ sidebar:
 	<tr>
 		<th scope="row">0G8.2.</th>
 		<td></td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.16.1">0.4.16.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.16.2">0.4.16.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.16.3">0.4.16.3</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.16.4">0.4.16.4</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.16.1">0.4.16.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.16.2">0.4.16.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.16.4">0.4.16.4</a></td>
 	</tr>
 	<tr>
 		<th scope="row">0G9.</th>
