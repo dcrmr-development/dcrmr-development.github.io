@@ -28,7 +28,6 @@ Jessie Sherwood, Robbins Collection and Research Center, Berkeley Law, *chief ed
 Abigail Whitford, *editor*  
 Laura Wilsey, Stanford University, *editor*  
 
-
 ### 2024/2025
 
 Liz Adams, David M. Rubenstein Rare Book & Manuscript Library, Duke University, *editor*  
