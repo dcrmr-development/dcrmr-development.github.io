@@ -9,6 +9,26 @@ sidebar:
 
 Members of the RBMS RDA Editorial Group, listed by terms of service:
 
+### 2025/2026
+
+Liz Adams, David M. Rubenstein Rare Book & Manuscript Library, Duke University, *editor*  
+Erin Blake, Folger Shakespeare Library, *keeper of the text*  
+Jason Bourgeois, Bowling Green State University, *editor*  
+Maren Cornett, University of Delaware, *editor*  
+Laura Doublet, University of Victoria, Victoria, B.C., *editor*  
+Rebecca Flore, University of Chicago, *chief editor*  
+Jessica Grzegorski, Northwestern University Libraries, *editor*  
+Kurt Hanselman, San Diego State University, *editor*  
+Deborah J. Leslie, Folger Shakespeare Library, *editor*  
+Rafael A. Linares Blasini, *keeper of the text*  
+Iris O’Brien, British Library, *editor*  
+Elizabeth O’Keefe, Formerly of the Morgan Library & Museum, *editor*  
+Allison Rich, John Carter Brown Library, *keeper of the text*  
+Jessie Sherwood, Robbins Collection and Research Center, Berkeley Law, *chief editor*  
+Abigail Whitford, *editor*  
+Laura Wilsey, Stanford University, *editor*  
+
+
 ### 2024/2025
 
 Liz Adams, David M. Rubenstein Rare Book & Manuscript Library, Duke University, *editor*  
