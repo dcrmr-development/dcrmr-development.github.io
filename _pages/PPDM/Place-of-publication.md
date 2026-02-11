@@ -139,7 +139,7 @@ sidebar:
 
 >**Example:**  
 >Place of publication: <CITE>London</CITE>  
->Name of publisher: <CITE>Printed and published by J. P. Coghlan, and sold by J. Wilkie, and C. Elliot, Edinburgh</CITE>  
+>Name of publisher: <CITE>Printed and published by J.P. Coghlan, Duke Street, Grosvenor Square, and sold by J. Wilkie, St. Paul's Church Yard, and C. Elliot, Parliament Square, Edinburgh</CITE>  
 
 <a name="5.21.33.5">5.21.33.5</a> If a place of publication associated with an earlier manifestation appears together with the actual place of publication of the manifestation being described, transcribe the places as a single element in the order in which they appear.
 
@@ -169,7 +169,7 @@ sidebar:
 
 >**Example:**  
 >Place of publication: <CITE>[Simmern]</CITE>  
->Name of publisher: <CITE>In Verlegung Hieronimi Rodlers fürstlichen Secretarien zů Siemern</CITE>  
+>Name of publisher: <CITE>Dis Büch ist gedruckt in Verlegung Hieronimi Rodlers fürstlichen Secretarien zü Siemern</CITE>  
 
 ## 5.21.36 Fictitious or incorrect places of publication
 

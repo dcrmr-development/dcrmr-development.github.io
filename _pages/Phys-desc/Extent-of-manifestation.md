@@ -316,6 +316,9 @@ If the manifestation is numbered as leaves, but printed as pages, record the num
 > <CITE>1 portfolio (34 pages, 25 folded sheets)</CITE>  
 
 <a name="6.21.4285.2">6.21.4285.2</a> If the portfolio or case was not issued with the resource, do not record it as part of Extent of manifestation. Instead, record the extent in terms of pages, leaves, columns, sheets, or volumes as appropriate. In situations of uncertainty, assume that the portfolio or case was not issued with the resource. Record the presence of the case or portfolio in a [Note on extent of item](/DCRMR/additional-notes/Note-on-extent-of-item/) if considered important (see [9.43.3.3](/DCRMR/additional-notes/Note-on-extent-of-item/#9.43.3.3)).
+>**Example:**  
+> <CITE>[16] leaves</CITE>
+>Note on extent of item: <CITE>Binding: unbound in portfolio. Nineteenth-century portfolio, from Trustee's Academy: half green morocco with marbled paper.</CITE>  
 
 #### 6.21.429 Single-sheet manifestations
 
@@ -471,6 +474,9 @@ If none of the terms  above are appropriate, use:
 >>**(*Ingest comment*: example needs review)**
 
 <a name="6.21.63.3.Y.Y">6.21.63.3.Y.Y</a> **Slides**. Describe a slide as a *photograph*. Record "slide" in [Carrier type](/DCRMR/phys-desc/Carrier-type/) (see 6.35.SOMETHING.SOMETHING). If the slide is a lantern slide, record this in a [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) (see 6.355.SOMETHING.SOMETHING).
+>**Example:**  
+><CITE>54 photographs</CITE>  
+>Note on carrier: <CITE>Photographs are glass lantern slides.</CITE> 
 
 <a name="6.21.63.4.Y.Y">6.21.63.4.Y.Y</a> **Photographs printed photomechanically**. If a photographic image has been printed photomechanically (halftone, photogravure, Woodburytype, dye transfer print, ink jet print, etc.), describe it as a *print*. Record the medium or process in [Production method](/DCRMR/phys-desc/Production-method/) (see [6.27.3.1](/DCRMR/phys-desc/Production-method/#6.27.3.1)).
 

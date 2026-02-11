@@ -49,7 +49,7 @@ sidebar:
 <a name="9.4.31.1">9.4.31.1</a> Record information about statements relating to a substantially unchanged printing or state, if such statements have not been recorded as a [Designation of edition](/DCRMR/edition/Designation-of-edition/) and if considered important (see [3.22.33.1](/DCRMR/edition/Designation-of-edition/#3.22.33.1)).
 
 >**Example:**  
-><CITE>Library copy: “Ninth printing, December, 1954”-- title page verso</CITE>
+><CITE>Library copy: "Eleventh printing, December 1967"--title page verso</CITE>
 
 >**Example:**  
 ><CITE>Library copy: “Fifth ten thousand”</CITE>

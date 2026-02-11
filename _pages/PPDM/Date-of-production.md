@@ -50,7 +50,7 @@ sidebar:
 <a name="5.13.31.45.Y.Y">5.13.31.45.Y.Y</a> If the date supplied as a correction is a differing date, not a correction of an error on the manifestation, always make a [Note on production statement](/DCRMR/ppdm/Note-on-production-statement/) to clarify (see 5.14.SOMETHING.SOMETHING).
 
 >**Example:**  
->Date of production: <CITE>1611 [that is, early 19th century]</CITE>  
+>Date of production: <CITE>1611 [that is, approximately 1800]</CITE>  
 >Note on production statement: <CITE>Materials and style indicate 19th-century production</CITE>  
 >>(*Comment*: A painted portrait known to be a fake)  
 >>**(*Ingest comment*: example needs review)**

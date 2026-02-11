@@ -119,9 +119,9 @@ If transcribing a distributor name as part of another element, do not abridge or
 <a name="5.27.39.1">5.27.39.1</a> If the distributor’s name appears in more than one language or script, transcribe the name in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Name of distributor. If this criterion does not apply, transcribe the name that appears first as Name of distributor. Transcribe the remaining distributor name(s) as [Parallel name of distributor](/DCRMR/ppdm/Parallel-name-of-distributor/). For transposed elements, always make a [Note on distribution statement](/DCRMR/ppdm/Note-on-distribution-statement/) to indicate the original position on the source (see [5.285.34.7](/DCRMR/ppdm/Note-on-distribution-statement/#5.285.34.7)).
 
 >**Example:**  
->Name of distributor: <CITE>Prostant apud S. Baker, T. Cadell, D. Wilson, G. Nicol, et J. Murray</CITE>  
->Parallel name of distributor: <CITE>By S. Baker and G. Leigh, in York-Street; T. Cadell in the Strand; D. Wilson and G. Nicol, opposite York-Buildings; and J. Murray, in Fleet-Street</CITE>  
->>(*Comment*: The text in Latin appears first on the title page. The [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is “Sold in London”)
+>Name of distributor: <CITE>Venit apud auctorem</CITE>  
+>Parallel name of distributor: <CITE>Se vend chez l'auteur</CITE>  
+>>(*Comment*: The text in Latin appears first on the title page. The [Parallel place of distribution](/DCRMR/ppdm/Parallel-place-of-distribution/) is “Se vend chez l'auteur”)
 
 ---
 

@@ -27,10 +27,11 @@ sidebar:
 
 <a name="0.1.22.1">0.1.22.1</a> **General rule**. If describing an exemplar of a manifestation known to be imperfect (e.g., lacking pages, physically damaged, missing information present in a complete copy), and details of a perfect (or more perfect) copy can be determined, base the description on the perfect copy. Do not use square brackets to record information present in the perfect copy but absent in the imperfect copy. Details of a perfect (or more perfect) copy may be determined by examining additional items, by examining facsimiles of perfect copies, or by referring to reliable descriptions in other sources. Cite the source used for the description (see [Note on title, 1.29.31](/DCRMR/title/Note-on-title/#12931-note-on-the-source-of-the-title-proper) and [Manifestation described by, 9.32.31](/DCRMR/additional-notes/Manifestation-described-by/#93231-references-to-published-descriptions)). Make an item-level note describing the imperfection of the item in hand if considered important (see [Modification of item, 9.41.3.2](/DCRMR/additional-notes/Modification-of-item/#9.41.3.2)).
 
+
 <a name="0.1.22.2">0.1.22.2</a> **Details of a perfect copy cannot be determined**. If no reliable evidence of the details of a perfect copy is available, describe the imperfect item as it is. Use the mark of omission or supply a conjecture enclosed in square brackets to indicate lacunae as needed (see [Transcription, 0.4.63.1](/DCRMR/general-rules/Transcription/#0.4.63.1)). Make a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) indicating that the description is based on an imperfect copy (see [9.3.37.1](/DCRMR/additional-notes/Note-on-manifestation/#9.3.37.1)).
 
 >**Example:**  
->Title proper: <CITE>Carta de […] sitio de Puebla</CITE>  
+>Title proper: <CITE>Extrac[t] of three acts of Parlia[ment] [...] Green-Land [...]</CITE>  
 >Note on manifestation: <CITE>Description based on an imperfect copy; section of map missing at top, affecting text</CITE>
 
 <a name="0.1.22.3">0.1.22.3</a> **Multipart monographs or serials**. If the first volume or issue is lacking or imperfect to the degree that it impedes identification or access, and details of a perfect (or more perfect) copy cannot be determined, then base the description on the earliest available volume or issue that can supply the details necessary for the description.

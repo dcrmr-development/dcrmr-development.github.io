@@ -64,7 +64,7 @@ sidebar:
 ><CITE>Moore, J.R. Checklist of the writings of Daniel Defoe (2nd ed.), 181</CITE>  
 
 >**Example:**  
-><CITE>Evans, C. American bibliography, 29055</CITE> 
+><CITE>Evans, C. American bibliography, 1519</CITE> 
 
 >**Example:**  
 ><CITE>Pollard, A.W. Short-title catalogue of books printed in England, Scotland, & Ireland and of English books printed abroad, 1475-1640 (2nd ed.), 25597</CITE>

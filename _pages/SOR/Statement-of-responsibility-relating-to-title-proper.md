@@ -81,7 +81,7 @@ sidebar:
 <a name="2.21.33.2">2.21.33.2</a> If a respondent and praeses are given for an academic disputation, treat both names and the words indicative of their function as part of a single Statement of responsibility relating to title proper (unless grammatically inseparable from the [Title proper, 1.21.31](/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper) or [Other title information, 1.23.38.1](/DCRMR/title/Other-title-information/#1.23.38.1)).
 
 >**Example:**  
-><CITE>pro disputatione publica proponebatur praeside Jacobo Fabricio, respondente Johanne Rumbhelt</CITE>
+><CITE>pro disputatione publica proponebatur praeside Jacobo Fabricio, respondente Johanne Rumbhelt Sundens.</CITE>
 
 <a name="2.21.33.3">2.21.33.3</a> When a single Statement of responsibility relating to title proper names more than one person or corporate body performing the same function or with the same degree of responsibility, transcribe all the names mentioned. 
 
@@ -105,7 +105,7 @@ sidebar:
 >>(*Comment*: Example formatted with ISBD punctuation for clarity)  
 
 >**Example:**  
-><CITE>C. Ansell delt. ; Francis Jukes aquatint fecit</CITE>  
+><CITE>W. Beilby pinxt. ; F. Jukes fecit</CITE>  
 >>(*Comment*: Example formatted with ISBD punctuation for clarity)  
 >>**(*Ingest comment*: example needs review)**
 
@@ -126,7 +126,7 @@ sidebar:
 <a name="2.21.35.1">2.21.35.1</a> Transcribe titles and abbreviations of titles of nobility, address, honor, and distinction that appear with names in Statements of responsibility relating to title proper.
 
 >**Example:**  
-><CITE>by the Rt. Hon. Sir Jeffrey Gilbert, Knt.</CITE>
+><CITE>by the Rt. Hon. Sir Jeffrey Gilbert, Knt. Late Lord Chief Baron of His Majesty's Court of Exchequer in Ireland, and afterwards of that in England.</CITE>
 
 >**Example:**  
 ><CITE>by John Boyle, Earl of Orrery</CITE>

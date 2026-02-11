@@ -45,7 +45,7 @@ sidebar:
 ><CITE>“(Price 6d. in gilt paper.-9d. bound)”&#8208;&#8208;below imprint on title page</CITE>
 
 >**Example:**  
-><CITE>Below imprint on title page, in square brackets: “Price two shillings, sewed”</CITE>
+><CITE>Below imprint on title page, in square brackets: “Price two shillings”</CITE>
 
 >**Example:**   
 ><CITE>“Presented, gratis, to subscribers; to non-subscribers, price one shilling”&#8208;&#8208;below imprint on title page</CITE>

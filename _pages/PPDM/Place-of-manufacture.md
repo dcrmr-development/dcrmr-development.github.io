@@ -147,9 +147,9 @@ sidebar:
 <a name="5.31.39.1">5.31.39.1</a> If the place of manufacture appears in more than one language or script, transcribe the place in the language or script of the [Title proper](/DCRMR/title/Title-proper/) as Place of manufacture. If this criterion does not apply, transcribe the place that appears first as Place of manufacture. Transcribe remaining place(s) as [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/). For transposed elements, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source (see [5.34.32.6](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.32.6)).
 
 >**Example:**  
->Place of manufacture: <CITE>Birminghamiae</CITE>  
->Parallel place of manufacture: <CITE>Printed at Birmingham</CITE>  
->>(*Comment*: The text in Latin appears first on the title page)
+>Place of manufacture: <CITE>New-Orleans</CITE>  
+>Parallel place of manufacture: <CITE>Nouvelle-Orleans</CITE>  
+>>(*Comment*: The text in English appears first on the title page)
 
 ---
 

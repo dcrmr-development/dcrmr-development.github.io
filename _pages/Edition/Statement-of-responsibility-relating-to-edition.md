@@ -28,7 +28,7 @@ sidebar:
 <a name="3.23.3.1">3.23.3.1</a> Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of a given work as the Statement of responsibility relating to edition. Such statements may include the reviser or illustrator of a new edition, or a corporate body responsible for a new edition. Follow the instructions in [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper) for the transcription of such statements.
 
 >**Example:**  
-><CITE>containing the recent additions to science by Charles V. Walker</CITE>  
+><CITE>containing the recent additions to science by Charles V. Walker Esq.</CITE>  
 
 <a name="3.23.3.2">3.23.3.2</a> Do not, however, apply this provision to such statements that do not name or otherwise identify a person or corporate body.
 

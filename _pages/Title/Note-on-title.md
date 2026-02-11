@@ -156,12 +156,8 @@ sidebar:
 <a name="1.29.393.1Y.Y">1.29.393.1.Y.Y</a> Title information omitted from the transcription in the [Title proper](/DCRMR/title/Title-proper/) may be given in a note if considered important (see [1.21.36.1](/DCRMR/title/Title-proper/#1.21.36.1)).
 
 >**Example:**  
-><CITE>Subtitle: The medicinal, culinary, cosmetic, and economic properties, cultivation, and folklore of herbs, grasses, fungi, shrubs, and trees, with all their modern scientific uses</CITE>  
+><CITE>Title continues: 1o. Comme juges du tribunal de paix, ce qui comprend toutes les contestations civiles qui sont de leur compétence; 2o. Comme conciliateurs des affaires dont ils ne sont pas juges; 3o. Comme les magistrats les plus à portée de remplir certaines fonctions civiles qui ne tiennent ni au contentieux ni à la conciliation; 4o. Comme juges du tribunal de simple police, suivant les dispositions du Code d'instruction criminelle de 1808 et du Code pénal de 1810; 5o. Comme officiers de police judiciaire, suivant le Code d'instruction criminelle; avec la discussion et la solution de toutes les questions importantes de la matière, nées ou prévues jusqu'à ce jour; terminé par des formules de tous les actes de leur ministère, et par une table alphabétique et analytique des matières.</CITE>
 >>**(*Ingest comment*: example needs review)**   
-
->**Example:**  
-><CITE>Poster text continues: ... the smoke of America's factory stacks is a signal of our workers' and employers' loyalty. It means more guns, more ships, more food. Our industries are the third and main supporting line of defense--our base of supplies. Without them the Army and Navy would be helpless. As good patriots let us strive to keep our industries strong</CITE>  
->>**(*Ingest comment*: example needs review)**  
 
 ## 1.29.394.Y.Y Picture captions, etc.
 

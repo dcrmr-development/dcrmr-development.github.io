@@ -32,14 +32,14 @@ sidebar:
 <a name="2.215.31.1">2.215.31.1</a> If there are titles in more than one language or script, but only a single statement of responsibility, transcribe it as a [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) after all the title information.
 
 >**Example:**  
-><CITE>Jagd auf Grizzly Bären = Chasse au grizzly bear = Hunting of the grizzly bear / Ch. Bodmer, pinx. ad nat. ; Lucas Weber, sc.</CITE>  
+><CITE>William Morris and the decorative arts of the 19th century = ǂb William Morris et les arts décoratifs au XIXe siècle = William Morris und die Dekorationskunst des 19. Jahrhunderts = William Morris e l'arte decorativa dell '800 / ǂc introduction and text John Compton.</CITE>  
 >>(*Comment*: Example formatted with ISBD punctuation for clarity)  
 >>**(*Ingest comment*: example needs review)**
 
 <a name="2.215.31.2">2.215.31.2</a> If there are both titles and statements of responsibility in more than one language or script, transcribe each statement of responsibility after the title proper, parallel title, or other title information to which it relates. If any of these titles lack a matching statement of responsibility, transcribe the information in the order indicated by the sequence, layout, or lettering style on the preferred source of information.
 
 >**Example:**   
-><CITE>Anatomia uteri humani gravidi tabulis illustrata / auctore Gulielmo Hunter … = The anatomy of the human gravid uterus exhibited in figures / by William Hunter …</CITE>  
+><CITE>e instrumentis planetariis : cui usui inservitunt & quomodo sunt tractanda / a Samuele Fostero … = Of the planetary instruments : to what end they serve and how they are to be used / by Samuel Foster …</CITE>  
 >>(*Comment*: Information is transcribed in four elements: [Title proper](/DCRMR/title/Title-proper/); [Statement of responsibility relating to title proper](/DCRMR/sor/Parallel-statement-of-responsibility-relating-to-title-proper/); [Parallel title proper](/DCRMR/title/Parallel-title-proper/); Parallel statement of responsibility relating to title proper. The example is formatted according to ISBD for clarity)  
 
 <a name="2.215.31.3">2.215.31.3</a> For transposed elements, make a [Note on statement of responsibility](/DCRMR/sor/Note-on-statement-of-responsibility/) to indicate the original position on the source (see [2.29.32.2](/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.2)).  

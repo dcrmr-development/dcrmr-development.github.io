@@ -584,8 +584,8 @@ Make a note to justify the interpolations, provide explanations, or offer tentat
 >>(*Comment*: Indecipherable signature above title on cover transcribed in a [Note on item](/DCRMR/additional-notes/Note-on-item/))
 
 >**Example:**  
->Title proper: <CITE>Ft. Monroe [Gunnery?]</CITE>  
->Note on title: <CITE>Last word of the title is illegible; the conjecture is based on image content</CITE>
+>Title proper: <CITE>K[---igod?] 71</CITE>  
+>Note on title: <CITE>Signed and dated in stone in lower left; name is illegible</CITE>
 
 *Exception*: If the entire title is illegible, supply or devise a title according to the instructions at [1.21.34](/DCRMR/title/Title-proper/#12134-no-title).
 

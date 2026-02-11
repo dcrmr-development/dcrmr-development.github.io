@@ -206,7 +206,7 @@ If describing an individual issue of a serial, transcribe the numbering of the i
 <a name="1.21.365.1.Y.Y">1.21.365.1.Y.Y</a>  When a multiple unit resource bears a clearly identifiable and consistently used collective title on some or all of its units, transcribe this as the Title proper. Transcribe the Title proper of each unit in a [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) if considered important (see [9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)).
 
 >**Example:**  
-><CITE>The illustration of the Siberian War</CITE>  
+><CITE>The return</CITE>  
 >>(*Comment*: This collective title is printed on each print in the set, in addition to an individual title for each print)  
 >>**(*Ingest comment*: example needs review)**  
 
@@ -239,6 +239,10 @@ b) If the titles are so numerous that naming each one is cumbersome, supply a co
 
 a) Transcribe the title and [Statement of responsibility relating to title proper](/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/) from the preferred source of information, and name the other expressions(s) in a contents note (see [Note on manifestation, 9.3.32](/DCRMR/additional-notes/Note-on-manifestation/#9332-contents-notes)) 
 
+>**Example:**  
+>Title proper: <CITE>Isidora</CITE>  
+>Note on manifestation: <CITE>Volume 3 also includes the author’s Fanchette (pages [87]-232) and Lettre d’un paysan de la Vallée-Noir (pages [233]-307)</CITE>  
+
 b) Make a separate description for each separately titled expression, linking the separate descriptions with “With” notes (see [On carrier unit with, 9.34.3.1](/DCRMR/additional-notes/On-carrier-unit-with/#9.34.3.1))  
 
 c) Supply a collective title from one of the sources listed at [0.1.7.1](/DCRMR/general-rules/Data-provenance/#0.1.7.1)
@@ -247,10 +251,6 @@ d) Devise a collective title for the whole manifestation, preferably in the lang
 
 >**Example:**  
 ><CITE>[Acts of Parliament enacted in 1732]</CITE>
-
->**Example:**  
->Title proper: <CITE>Isidora</CITE>  
->Note on manifestation: <CITE>Volume 3 also includes the author’s Fanchette (pages [87]-232) and Lettre d’un paysan de la Vallée-Noir (pages [233]-307)</CITE>  
 
 ## 1.21.42.Y.Y Single-sheet printed text manifestations
 

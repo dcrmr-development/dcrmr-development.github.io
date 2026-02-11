@@ -28,9 +28,9 @@ sidebar:
 <a name="5.325.3.1">5.325.3.1</a> Take parallel manufacturers’ names from the same source as the [Name of manufacturer](/DCRMR/ppdm/Name-of-manufacturer/). Make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) on parallel manufacturers’ names found elsewhere if considered important (see [5.34.35.1](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.35.1)).
 
 >**Example:**  
->Name of manufacturer: <CITE>Excudebat Joannes Baskerville</CITE>  
->Parallel name of manufacturer: <CITE>By John Baskerville</CITE>  
->>(*Comment*: The text in Latin appears first on the title page. The [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) is “Printed at Birmingham”)
+>Name of manufacturer: <CITE>Printed by Samuel Nielson, in Mountain-Street</CITE>  
+>Parallel name of manufacturer: <CITE>Imprimé par Samuel Nielson, sur la Montagne</CITE>  
+>>(*Comment*: The text in English appears first on the caption title page. The [Parallel place of manufacture](/DCRMR/ppdm/Parallel-place-of-manufacture/) is “A Quebec”)
 
 <a name="5.325.3.2">5.325.3.2</a> For transposed elements, always make a [Note on manufacture statement](/DCRMR/ppdm/Note-on-manufacture-statement/) to indicate the original position on the source (see [5.34.34.7](/DCRMR/ppdm/Note-on-manufacture-statement/#5.34.34.7)). 
 

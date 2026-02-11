@@ -57,10 +57,7 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 ><CITE>“Extracted from the minutes of the Society for the Propagation of the Gospel in Foreign Parts”&#8208;&#8208;title page</CITE>  
 
 >**Example:**  
-><CITE>“Generally considered to be by William Langland”&#8208;&#8208;Harvey, P. Oxford companion to English literature</CITE>  
-
->**Example:**  
-><CITE>"The principal additional music, contained in 72 pages, may be had, half bound, with or without the rules, price four shillings and ninepence"&#8208;&#8208;Preface</CITE>
+><CITE>“Thought to be by William Langland”&#8208;&#8208;Harvey, P. Oxford companion to English literature</CITE>  
 
 >**Example:**  
 ><CITE>At head of title: Convention nationale</CITE>
@@ -88,7 +85,7 @@ For guidelines on transcription and capitalization, see [Transcription](/DCRMR/g
 <a name="9.3.32.3">9.3.32.3</a> If a complete listing of contents cannot be assembled by one of the above means, the cataloger may devise a contents note from any appropriate source or combination of sources if considered important.
 
 >**Example:**  
-> <CITE>Contents: Love and peril / the Marquis of Lorne &#8208;&#8208; To be or not to be / Mrs. Alexander &#8208;&#8208; The melancholy hussar / Thomas Hardy</CITE>
+> <CITE>Contents [from running titles]: Life and organization -- The functions -- The osseous system -- The articulations -- The muscular system</CITE>
 
 ## 9.3.33 Note on made-up sets of a multiple unit manifestation
 
@@ -249,7 +246,11 @@ For non-illustrative accompanying material issued in a pocket, specify the locat
 >>**(*Ingest comment*: example needs review)**  
 
 >**Example:**  
-><CITE>Ink stamp of publisher on front
+><CITE>Ink stamp of publisher on front</CITE>
+>>**(*Ingest comment*: example needs review)**  
+
+>**Example:**  
+><CITE>Similar to frontispiece in: Great expectations realized, or, Civilizing mountain men / by Mrs. Ellen H.B. Mason. Philadelphia : American Baptist Publication Society, 1862</CITE>
 >>**(*Ingest comment*: example needs review)**  
 
 ## 9.3.39.Y.Y Additional physical format

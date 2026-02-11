@@ -41,7 +41,7 @@ sidebar:
 ><CITE>A satire against William Pulteney</CITE>
  
 >**Example:**  
-><CITE>Prospectus for: Pope, Alexander. Essay on criticism. London, 1745</CITE>
+><CITE>Prospectus for: Morris, Henry. Art of intaglio produced on a letterpress, with a collection of twelve prints of 18th century London tradesmen's cards ; Schlocker & the fishes, 2010.</CITE>
 
 >**Example:**  
 ><CITE>A caricature against John Philip Kemble</CITE>  
