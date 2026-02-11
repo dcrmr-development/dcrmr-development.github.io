@@ -29,7 +29,7 @@ sidebar:
 
 ## 6.32.3 General rule 
 
-<a name="6.32.3.1">6.32.3.1</a> Describe details of a publisher-issued binding, container, or physical carrier if considered important.
+<a name="6.32.3.1">6.32.3.1</a> Describe details of a binding, container, or physical carrier issued with or original to a manifestation if considered important.
 
 >**Example:**  
 ><CITE>In publisher's pictorial cloth binding with gold-stamped title and portrait of the author with lion cubs on front</CITE>

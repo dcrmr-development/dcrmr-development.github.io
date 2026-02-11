@@ -25,7 +25,7 @@ sidebar:
 
 ## 6.355.3 General rule
 
-<a name="6.355.3.1">6.355.3.1</a> Record additional information that applies to all exemplars of the manifestation or particular groups of exemplars of an edition or issue as a Note on carrier. Record information pertaining to individual items as a [Modification of item](/DCRMR/additional-notes/Modification-of-item/) (see [9.41.25.1](/DCRMR/additional-notes/Modification-of-item/#9.41.25.1)).
+<a name="6.355.3.1">6.355.3.1</a> Record additional information that applies to all exemplars of the manifestation or particular groups of exemplars of an edition or issue as a Note on carrier if considered important. Record information pertaining to individual items as a [Modification of item](/DCRMR/additional-notes/Modification-of-item/) if considered (see [9.41.25.1](/DCRMR/additional-notes/Modification-of-item/#9.41.25.1)).
 
 >**Example:**  
 ><CITE>Watermark: Fleur de lis</CITE>  
@@ -54,7 +54,7 @@ sidebar:
 >>(*Comment*: Still image)  
 >>**(*Ingest comment*: example needs review)**  
 
-<a name="6.355.3.3.Y.Y">6.355.3.3.Y.Y</a> **Still image resources**. Record the fact that a slide is a lantern slide in a [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) (see 6.21.SOMETHING.SOMETHING).
+<a name="6.355.3.3.Y.Y">6.355.3.3.Y.Y</a> **Still image resources**. Record the fact that a slide is a lantern slide in a [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) ([6.21.63.3.Y.Y.](/DCRMR/phys-desc/Carrier-extent-units/#6.21.63.3.Y.Y.))).
 
 ---
 
