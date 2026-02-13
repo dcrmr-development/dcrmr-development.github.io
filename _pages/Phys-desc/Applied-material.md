@@ -37,7 +37,7 @@ sidebar:
 >Source code of term: <CITE>rdamat</CITE>  
 >>(*Comment*: Example includes the MARC source code of term for clarity)
 
-<a name="6.26.3.2">6.26.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record a suitable term from another standardized vocabulary and indicate its source.
+<a name="6.26.3.2">6.26.3.2</a> If none of the terms in the RDA Value Vocabularies: RDA Material is appropriate, record a suitable term from another standardized vocabulary and indicate its source.
 
 >**Example:**  
 >Applied material: <CITE>gold leaf</CITE>  

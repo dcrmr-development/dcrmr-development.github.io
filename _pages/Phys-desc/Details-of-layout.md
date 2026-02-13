@@ -48,14 +48,14 @@ sidebar:
 
 ## 6.285.6.Y.Y Still image resources
 
-<a name="6.285.6.1.Y.Y">6.285.6.1.Y.Y</a> *Optionally*, record orientation (see Dimensions, 6.24.SOMETHING.SOMETHING).
+<a name="6.285.6.1.Y.Y">6.285.6.1.Y.Y</a> Record orientation if considered important (see Dimensions, 6.24.SOMETHING.SOMETHING).
 
 >**Example:**  
 >Dimensions: <CITE>sheet 18 x 14 cm</CITE>  
 >Details of layout: <CITE>vertical orientation</CITE>  
 >>**(*Ingest comment*: example needs review)**
 
-<a name="6.285.6.2.Y.Y">6.285.6.2.Y.Y</a> Make a note on the orientation of multiple unit images if considered important.
+<a name="6.285.6.2.Y.Y">6.285.6.2.Y.Y</a> Make a note on the orientation of multiple unit images if considered important (see Dimensions, 6.24.66.4.Y.Y).
 
 >**Example:**  
 >Dimensions: <CITE>sheets 16 x 27 cm</CITE>  

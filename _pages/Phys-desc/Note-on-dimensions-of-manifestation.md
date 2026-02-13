@@ -27,13 +27,13 @@ sidebar:
 
 <a name="6.245.3.1">6.245.3.1</a> Make notes on the dimensions of a manifestation if considered important. 
 
-<a name="6.245.3.2">6.245.3.2</a> If a volume as issued contains separate text blocks of varying dimensions, record the height (or height x width) of the text blocks in a Note on dimensions of manifestation if considered important (see [Dimensions, 6.24.335.1](/DCRMR/phys-desc/Dimensions/#6.24.335.1)).
+<a name="6.245.3.2">6.245.3.2</a> If a volume as issued contains separate text blocks of varying dimensions, record the height (or height x width as applicable) of the text blocks in a Note on dimensions of manifestation if considered important (see [Dimensions, 6.24.335.1](/DCRMR/phys-desc/Dimensions/#6.24.335.1)).
 
 ## 6.245.6.Y.Y Note on dimensions of still image resources
 
 ### 6.245.654.Y.Y Photographs
 
-<a name="6.245.654.1.Y.Y">6.245.654.1.Y.Y</a> **Photographic format terms**. Record photographic format terms that convey information about dimensions (see Dimensions, 6.24.SOMETHING.SOMETHING).
+<a name="6.245.654.1.Y.Y">6.245.654.1.Y.Y</a> **Photographic format terms**. Record photographic format terms that convey information about dimensions if considered important (see Dimensions, 6.24.SOMETHING.SOMETHING).
 
 >**Example:**  
 ><CITE>ninth plate format</CITE>  

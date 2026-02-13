@@ -40,7 +40,7 @@ sidebar:
 >>**(*Ingest comment*: example needs review)**
 
 >**Example:**  
-><CITE>Drawings are signed by artist, all in blue pencil except no.2 which is signed in green ink</CITE>  
+><CITE>Drawings are signed by artist, all in blue pencil except no. 2 which is signed in green ink</CITE>  
 >>**(*Ingest comment*: example needs review)**
 
 >**Example:**  

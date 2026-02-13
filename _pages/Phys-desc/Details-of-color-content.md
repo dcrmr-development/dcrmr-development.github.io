@@ -88,6 +88,8 @@ For incunabula, always record color printing of textual matter if present (see [
 
 <a name="6.235.35.1">6.235.35.1</a> Make a note on the color of base material (e.g., paper) if considered important (see [Color content, 6.23.44.1.Y.Y](/DCRMR/phys-desc/Color-content/#6.23.44.1.Y.Y)).
 
+<a name>"6.235.35.1.6">6.235.35.1.6</a> Still images. Make a note giving further details of color content for base material (e.g., paper) if considered important (see Color content, 6.23.44.Y.Y and 6.23.64.Y.Y).   
+
 >**Example:**  
 ><CITE>Printed in gold on dark blue paper</CITE>  
 

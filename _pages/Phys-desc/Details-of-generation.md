@@ -27,7 +27,7 @@ sidebar:
 
 <a name="6.2765.3.1.Y.Y">6.2765.3.1.Y.Y</a> Record details of generation, if considered important (see 6.276.SOMETHING.SOMETHING).
 
-<a name="6.2765.3.2.Y.Y">6.2765.3.2.Y.Y</a> **Still image**. Record whether a later photographic print was made from an original negative. 
+<a name="6.2765.3.2.Y.Y">6.2765.3.2.Y.Y</a> **Still image**. Always record whether a later photographic print was made from an original negative. 
 
 **Example:**  
 ><CITE>Photo re-printed from original glass negative made in 1864</CITE>  

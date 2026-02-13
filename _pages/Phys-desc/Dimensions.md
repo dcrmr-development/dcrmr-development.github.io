@@ -32,7 +32,8 @@ sidebar:
 
 ## 6.24.3 General rule
 
-<a name="6.24.3.1">6.24.3.1</a> Record the dimensions of a manifestation (based on the exemplar in hand) in centimeters, using the metric symbol "cm". Round a fraction of a centimeter up to the next full centimeter. If a manifestation measures less than 10 centimeters, record the dimensions in millimeters, using the metric symbol "mm". 
+<a name="6.24.3.1">6.24.3.1</a> Record the dimensions of a manifestation (based on the exemplar in hand) in centimeters, using the metric symbol "cm". If a manifestation measures less than 10 centimeters, record the dimensions in millimeters, using the metric symbol "mm". Round a fraction of a centimeter or a millimeter up to the next whole number. 
+
 
 >**Example:**  
 > <CITE>18 cm</CITE>  
@@ -48,7 +49,7 @@ sidebar:
 ><CITE>95 x 120 mm</CITE>  
 >>(*Comment*: A manifestation measuring between 94 and 95 mm in height and between 11 and 12 cm in width)
 
-<a name="6.24.3.3">6.24.3.3</a> If more than one exemplar of the manifestation is known and the dimensions of the different exemplars vary, record the dimensions as issued, if they can be determined. Otherwise, record the dimensions of the largest known exemplar.  Record the dimensions of the other exemplars in [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) (see [9.44.3.2](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.2)).
+<a name="6.24.3.3">6.24.3.3</a> If more than one exemplar of the manifestation is known and the dimensions of the different exemplars vary, record the dimensions as issued, if they can be determined. Otherwise, record the dimensions of the largest known exemplar.  Record the dimensions of the other exemplars in [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) if considered important (see [9.44.3.2](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.2)).
 
 ## 6.24.33 Volumes
 
@@ -76,7 +77,7 @@ sidebar:
 
 ### 6.24.335 Differing sizes
 
-<a name="6.24.335.1">6.24.335.1</a> If the volume as issued contains separate text blocks of varying dimensions, record the height (or height × width) of the binding only. If considered important, record the heights of the text blocks in [Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) (see [6.245.3.2](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/#6.245.3.2)) or [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) (see [9.44.3.2](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.2)).
+<a name="6.24.335.1">6.24.335.1</a> If the volume as issued contains separate text blocks of varying dimensions, record the height (or height × width if applicable) of the binding only. If considered important, record the heights of the text blocks in [Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) (see [6.245.3.2](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/#6.245.3.2)) or [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) (see [9.44.3.2](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.2)).
 
 <a name="6.24.335.2">6.24.335.2</a> If the volumes of a multipart set differ in size, record the smallest or smaller size and the largest or larger size, separated by a hyphen.
 
@@ -95,7 +96,7 @@ sidebar:
 >**Example:**  
 ><CITE>22 x 28 cm, folded to 22 x 10 cm</CITE>
 
-<a name="6.24.35.3">6.24.35.3</a> If the sheet is not folded as issued, or in cases of uncertainty, do not record the height x width when folded. If the folded dimensions are important, record this information in [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) (see [9.44.3.3](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.3)).
+<a name="6.24.35.3">6.24.35.3</a> If the sheet is not folded as issued, or in cases of uncertainty, do not record the height x width when folded. Record the folded dimensions in [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) if considered important (see [9.44.3.3](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.3)).
 
 >**Example:**  
 ><CITE>24 x 38 cm</CITE>  
@@ -137,7 +138,8 @@ sidebar:
 
 ### 6.24.61.Y.Y General rule
 
-<a name="6.24.61.1.Y.Y">6.24.61.1.Y.Y</a> Record the dimensions of a still image in centimeters, using the metric symbol "cm". Round a fraction of a centimeter up to the next full centimeter. If a manifestation measures less than 10 centimeters, record the dimensions in millimeters, using the metric symbol "mm". 
+<a name="6.24.61.1.Y.Y">6.24.61.1.Y.Y</a> Record the dimensions of a still image in centimeters, using the metric symbol "cm". If a manifestation measures less than 10 centimeters, record the dimensions in millimeters, using the metric symbol "mm". Round a fraction of a centimeter or a millimeter up to the next whole number.
+
 
 <a name="6.24.61.2.Y.Y">6.24.61.2.Y.Y</a> *Optionally*, record all dimensions in millimeters, regardless of the manifestation’s size. This option is particularly desirable for plate marks of intaglio prints, which are traditionally measured in millimeters. See 6.SOMETHING.SOMETHING
 
@@ -154,7 +156,7 @@ sidebar:
 ><CITE>sheet 18 x 14 cm</CITE>  
 >>**(*Ingest comment*: example needs review)**
 
-<a name="6.24.61.5.Y.Y">6.24.61.5.Y.Y</a> *Optionally*, record orientation as [Details of layout](/DCRMR/phys-desc/Details-of-layout/) (see 6.285.SOMETHING.SOMETHING). 
+<a name="6.24.61.5.Y.Y">6.24.61.5.Y.Y</a> Record orientation as [Details of layout](/DCRMR/phys-desc/Details-of-layout/) if considered important (see 6.285.SOMETHING.SOMETHING). 
 
 >**Example:**  
 >Dimensions: <CITE>sheet 18 x 14 cm</CITE>  
@@ -175,7 +177,7 @@ sidebar:
 ><CITE>image and text 37 x 44 cm, on sheet 42 x 48 cm</CITE>  
 >>**(*Ingest comment*: example needs review)**
 
-<a name="6.24.61.7.Y.Y">6.24.61.7.Y.Y</a> *Optionally*, record in [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) (see 9.3.SOMETHING.SOMETHING) the size of a mount which is substantially larger than the image or carrier, as when a photographic print is affixed to a non-standard mount.
+<a name="6.24.61.7.Y.Y">6.24.61.7.Y.Y</a> Record in [Note on manifestation](/DCRMR/additional-notes/Note-on-manifestation/) If considered important (see 9.3.SOMETHING.SOMETHING) the size of a mount which is substantially larger than the image or carrier, fox example when a photographic print is affixed to a non-standard mount.
 
 <a name="6.24.61.8.Y.Y">6.24.61.8.Y.Y</a> **Conventions**. Different types of graphic material require different types of measurements. Although the metric system has become the standard for recording dimensions, it may be desirable for some types of still image to give additional information using other systems of measurement (such as the imperial system) or manufacturers’ sizes.  For circular shapes, diameter is recorded instead of height and width,  and depth is added for containers. The areas measured for different graphic types also vary: for example, it is customary to measure plate marks of intaglio prints, papers of twentieth-century photographic prints, and standard mounts of nineteenth-century photographic prints such as cabinet cards. Record measurements according to the general rules (see 6.24.SOMETHING.SOMETHING), supplemented by material-specific instructions (see 6.24.SOMETHING.SOMETHING).
 
@@ -246,7 +248,7 @@ sidebar:
 
 #### 6.24.651.Y.Y Drawings
 
-<a name="6.24.651.1.Y.Y">6.24.651.1.Y.Y</a> For drawings, record the dimensions of the sheet. Precede the first dimension by the word "sheet".
+<a name="6.24.651.1.Y.Y">6.24.651.1.Y.Y</a> For drawings, record the dimensions of the sheet. Precede the dimensions by the word "sheet".
 
 >**Example:**  
 ><CITE>sheet 16 x 15 cm</CITE>  
@@ -289,7 +291,7 @@ sidebar:
 
 <a name="6.24.653.2.Y.Y">6.24.653.2.Y.Y</a> *Optionally*, also record the dimensions of the sheet, if considered important.
 
-<a name="6.24.653.3.Y">6.24.653.3.Y.Y</a> *Optionally*, for uniform-sized planographic prints, record instead the dimensions of the sheet.
+<a name="6.24.653.3.Y">6.24.653.3.Y.Y</a> *Optionally*, for uniform-sized planographic prints, record the dimensions of the sheet instead.
 
 >**Example:**  
 ><CITE>sheet 61 x 92 cm</CITE>  
@@ -297,7 +299,7 @@ sidebar:
 
 #### 6.24.654.Y.Y Photographs
 
-<a name="6.24.654.1.Y.Y">6.24.654.1.Y.Y</a> **Photographic formats**. Although some photographic materials are known by standard manufacturers' sizes (e.g., "8 x 10", "ninth-plate"), record measurements in the dimensions element according to the instructions below. The manufacturers' size may be recorded in the [Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) (see 6.245.SOMETHING.SOMETHING).
+<a name="6.24.654.1.Y.Y">6.24.654.1.Y.Y</a> **Photographic formats**. Although some photographic materials are known by standard manufacturers' sizes (e.g., "8 x 10", "ninth-plate"), record measurements in the dimensions element according to the instructions below. Record the manufacturers' size may be recorded in the [Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) if considered important (see 6.245.SOMETHING.SOMETHING).
 
 <a name="6.24.654.2.Y.Y">6.24.654.2.Y.Y</a> For unmounted photographic prints, record the dimensions of the carrier (in most cases, the photographic paper) using a term such as print, sheet, support, or paper.
 
@@ -309,7 +311,7 @@ sidebar:
 ><CITE>sheet 14 x 16 cm</CITE>  
 >>**(*Ingest comment*: example needs review)**
 
-<a name="6.24.654.3.Y.Y">6.24.654.3.Y.Y</a> For photographic prints affixed to standard mounts, such as cabinet cards, record only the dimensions of the mount. Also record the term for the standard mount size in a note on dimensions of manifestation (6.245.SOMETHING.SOMETHING), if considered important.
+<a name="6.24.654.3.Y.Y">6.24.654.3.Y.Y</a> For photographic prints affixed to standard mounts, such as cabinet cards, record only the dimensions of the mount. Also record the term for the standard mount size in a note on dimensions of manifestation if considered important (6.245.SOMETHING.SOMETHING).
 
 >**Example:**  
 >Dimensions: <CITE>mount 9 x 18 cm</CITE>  
@@ -317,7 +319,7 @@ sidebar:
 >>(*Comment*: print on card mount)  
 >>**(*Ingest comment*: example needs review)**
 
-For cased photographs, record the dimensions of the visible image. If considered important, also record the dimensions of the case in Note on manifestation.
+For cased photographs, record the dimensions of the visible image. Also record the dimensions of the case in Note on manifestation if considered important.
 
 >**Example:**  
 ><CITE>visible image 88 x 121 mm</CITE>  
@@ -349,7 +351,7 @@ For cased photographs, record the dimensions of the visible image. If considered
 
 <a name="6.24.654.6.Y.Y">6.24.654.6.Y.Y</a> For roll film formats (e.g., 35 mm) record the width only, in millimeters.
 
-<a name="6.24.654.7.Y.Y">6.24.654.7.Y.Y</a> For slides, record the height and width of the slide.  Record the manufacturers' size in a [Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) (see 6.245.SOMETHING.SOMETHING) if considered important.
+<a name="6.24.654.7.Y.Y">6.24.654.7.Y.Y</a> For slides, record the height and width of the slide.  Record the manufacturers' size in a [Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) if considered important (see 6.245.SOMETHING.SOMETHING). 
 
 >**Example:**  
 >Dimensions: <CITE>24 mm × 36 mm</CITE>  
@@ -367,7 +369,7 @@ For cased photographs, record the dimensions of the visible image. If considered
 >Note on dimensions of manifestation: <CITE>Sheets are 8 x 10 and 4 x 5</CITE>  
 >>**(*Ingest comment*: example needs review)**
 
-<a name="6.24.66.3.Y.Y">6.24.66.3.Y.Y</a> When there are more than two sizes, give the dimensions of the largest followed by the words "or smaller". If no one manifestation has both the largest height and the largest width, give the full dimensions of the two largest manifestations separated by a comma, and followed by a comma and the words "or smaller". If considered important, provide individual dimensions in a Note on dimensions of manifestation.
+<a name="6.24.66.3.Y.Y">6.24.66.3.Y.Y</a> When there are more than two sizes, give the dimensions of the largest followed by the words "or smaller". If no one manifestation has both the largest height and the largest width, give the full dimensions of the two largest manifestations separated by a comma, and followed by a comma and the words "or smaller". Provide individual dimensions in a Note on dimensions of manifestation if considered important important (see 6.245.66.2.Y.Y).
 
 >**Example:**  
 ><CITE>plate marks 150 x 185 mm or smaller</CITE>  
@@ -377,7 +379,7 @@ For cased photographs, record the dimensions of the visible image. If considered
 ><CITE>sheets 41 x 32 cm, 21 x 55 cm, or smaller</CITE>  
 >>**(*Ingest comment*: example needs review)**
 
-<a name="6.24.66.4.Y.Y">6.24.66.4.Y.Y</a> When some images are designed to be viewed horizontally and some vertically, give the measurements according to the majority. If no majority is evident, give the smaller dimension first. Make a note on [Details of layout](/DCRMR/phys-desc/Details-of-layout/) (see 6.285.SOMETHING.SOMETHING), if considered important.
+<a name="6.24.66.4.Y.Y">6.24.66.4.Y.Y</a> When some images are designed to be viewed horizontally and some vertically, give the measurements according to the majority. If no majority is evident, give the smaller dimension first. Make a note on [Details of layout](/DCRMR/phys-desc/Details-of-layout/) if considered important (see 6.285.SOMETHING.SOMETHING).
 
 >**Example:**  
 >Dimensions: <CITE>sheets 16 x 27 cm</CITE>  
@@ -395,9 +397,9 @@ For cased photographs, record the dimensions of the visible image. If considered
 
 <a name="6.24.67.1.Y.Y">6.24.67.1.Y.Y</a> Record the dimensions of a container in terms of height x width and depth.
 
-<a name="6.24.67.2.Y.Y">6.24.67.2.Y.Y</a> For individual still images that are issued in multiple (such as prints), record the dimensions of the container (frame, case, etc.) in addition to the dimensions of the resource. Record the container dimensions in the Dimensions element only if the container is known to have been issued with the resource. Generally treat the container as item specific and record the dimensions in a [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) (see [9.44.3.4](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.4)), if considered important.
+<a name="6.24.67.2.Y.Y">6.24.67.2.Y.Y</a> For individual still images that are issued in multiple (such as prints), record the dimensions of the container (frame, case, etc.) in addition to the dimensions of the resource. Record the container dimensions in the Dimensions element only if the container is known to have been issued with the resource. Generally treat the container as item specific and record the dimensions in a [Note on dimensions of item](/DCRMR/additional-notes/Note-on-dimensions-of-item/) if considered important (see [9.44.3.4](/DCRMR/additional-notes/Note-on-dimensions-of-item/#9.44.3.4)).
 
-<a name="6.24.67.3.Y.Y">6.24.67.3.Y.Y</a> For individual unique resources (such as original paintings), record in the Dimensions element dimensions of the container in addition to the dimensions of the carrier or carriers, if the container is considered part of the resource itself. Otherwise, record container dimensions in a [Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) (see 6.245.SOMETHING.SOMETHING), if considered important. 
+<a name="6.24.67.3.Y.Y">6.24.67.3.Y.Y</a> For individual unique resources (such as original paintings), record in the Dimensions element dimensions of the container in addition to the dimensions of the carrier or carriers, if the container is considered part of the resource itself. Otherwise, record container dimensions in a [Note on dimensions of manifestation](/DCRMR/phys-desc/Note-on-dimensions-of-manifestation/) if considered important (see 6.245.SOMETHING.SOMETHING). 
 
 For instructions on recording container dimensions when only part of an image is visible, see 6.24.SOMETHING.SOMETHING.
 

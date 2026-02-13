@@ -47,7 +47,7 @@ sidebar:
 
 ## 6.26.6.Y.Y Still image resources
 
-<a name="6.25.6.1.Y.Y">6.25.6.1.Y.Y</a> Record the base material of still images if considered important, e.g., if the base material is unusual as a support for the image medium (i.e., it cannot reliably be inferred from the carrier type), if it is customary to name the support for that medium (e.g., for oil paintings), or if such features as texture, color, or weight are unusually important in relation to the image.
+<a name="6.25.6.1.Y.Y">6.25.6.1.Y.Y</a> Record the base material of still images if considered important, for example, if the base material is unusual as a support for the image medium and cannot reliably be inferred from the carrier type, or if it is customary to name the support for that medium (for example, for oil paintings), or if such features as texture, color, or weight are unusually important in relation to the image.
 
 >**Example:**  
 ><CITE>leather</CITE>  

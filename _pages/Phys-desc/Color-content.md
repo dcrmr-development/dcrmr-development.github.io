@@ -27,7 +27,7 @@ sidebar:
 
 ## 6.23.3 General rule
 
-<a name="6.23.3.1">6.23.3.1</a> Describe color characteristics using one or more terms from the [LC Vocabulary for Color Content](https://id.loc.gov/vocabulary/mcolor.html){:target="_blank"}. Always record color content for illustrations that are part of larger works. Otherwise, record color content if considered important. Record the source of the term.    
+<a name="6.23.3.1">6.23.3.1</a> Describe color characteristics using one or more terms from the [LC Vocabulary for Color Content](https://id.loc.gov/vocabulary/mcolor.html){:target="_blank"}. Record the source of the term.   
 + black and white  
 + color  
 + gray scale  
@@ -39,7 +39,7 @@ sidebar:
 
 <a name="6.23.32.1">6.23.32.1</a> Hand-colored material is material to which color is applied in a separate production stage by brush, stencil, or another manually applied method. 
 
-<a name="6.23.32.2">6.23.32.2</a> If there is strong evidence that all exemplars of the manifestation were issued with hand coloring applied before distribution, always record the presence of color as issued in [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) (see [6.235.33.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.1)). Evidence for hand coloring applied before distribution may include statements within the resource itself or scholarly research. In general, do not treat the presence of hand coloring in a single item as evidence that the edition was issued with hand coloring. In case of doubt, assume that not all exemplars of the manifestation were issued with hand coloring applied before distribution.
+<a name="6.23.32.2">6.23.32.2</a> If there is strong evidence that all exemplars of the manifestation were issued with hand coloring applied before distribution, always record the presence of color in Color content, and indicate in [Details of color content](/DCRMR/phys-desc/Details-of-color-content/) (see [6.235.33.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.33.1)) that all exemplars were colored before distribution. Evidence for hand coloring applied before distribution may include statements within the resource itself or scholarly research. In general, do not treat the presence of hand coloring in a single item as evidence that the edition was issued with hand coloring. In case of doubt, assume that not all exemplars of the manifestation were issued with hand coloring applied before distribution.
 
 >**Example:**  
 >Color content: <CITE>hand colored</CITE>  
@@ -52,19 +52,19 @@ sidebar:
 
 ## 6.23.4.Y.Y Printed text resources
 
-### 6.23.43.Y.Y Original color in printed textual resources
+### 6.23.43.Y.Y Original color
 
 <a name="6.23.43.1.Y.Y">6.23.43.1.Y.Y</a> Treat illustrations printed with tint blocks (e.g., chiaroscuro woodcuts, tinted lithographs) as color illustrations.
 
-<a name="6.23.43.2.Y.Y">6.23.43.2.Y.Y</a> If both the text and illustrations are printed in a single color, do not describe the illustrations as “color.” Make a note on the color of the ink if considered important (see [Details of color content, 6.235.31.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.1)).
+<a name="6.23.43.2.Y.Y">6.23.43.2.Y.Y</a> If both the text and illustrations are printed in a single color, describe the illustrations as “one color.” Make a note on the color of the ink if considered important (see [Details of color content, 6.235.31.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.1)).
 
-<a name="6.23.43.3.Y.Y">6.23.43.3.Y.Y</a> In general, do not record printed color as color content unless it appears in illustrations.  Make a note on the color of ink in textual matter if considered important (see [Details of color content, 6.235.31.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2)).
+<a name="6.23.43.3.Y.Y">6.23.43.3.Y.Y</a> In general, do not record printed color as Color content unless it appears in illustrations.  Make a note on the color of ink in textual matter if considered important (see [Details of color content, 6.235.31.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2)).
 
 For incunabula, make a note on color printing in textual matter if present (see [Details of color content, 6.235.31.2](/DCRMR/phys-desc/Details-of-color-content/#6.235.31.2)).
 
 ### 6.23.44.Y.Y Color of base material
 
-<a name="6.23.44.1.Y.Y">6.23.44.1.Y.Y</a> Do not record the presence of color in base materials (e.g., paper) as color content. Make a note if considered important (see [Details of color content, 6.235.35.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.35.1)).
+<a name="6.23.44.1.Y.Y">6.23.44.1.Y.Y</a> Do not record the presence of Color in base materials (e.g., paper) as color content. Make a note if considered important (see [Details of color content, 6.235.35.1](/DCRMR/phys-desc/Details-of-color-content/#6.235.35.1)).
 
 ## 6.23.6.Y.Y Still image resources
 

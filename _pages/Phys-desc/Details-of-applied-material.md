@@ -46,7 +46,7 @@ sidebar:
 >Details of applied material: <CITE> </CITE>  
 >>**(*Ingest comment*: example needs review)**
 
-<a name="6.265.3.4.Y.Y">6.265.3.4.Y.Y</a> To record free text that combines description of applied material, base material, mount or production method, make a [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) (see [6.355.3.2](/DCRMR/phys-desc/Note-on-carrier/#6.355.3.2)).
+<a name="6.265.3.4.Y.Y">6.265.3.4.Y.Y</a> To record free text that combines description of applied material, base material, mount or production method, make a [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) if considered important (see [6.355.3.2](/DCRMR/phys-desc/Note-on-carrier/#6.355.3.2)).
 
 ---
 

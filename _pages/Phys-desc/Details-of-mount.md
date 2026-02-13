@@ -31,7 +31,7 @@ sidebar:
 ><CITE>In mahogany stand with original brass meridian circles and hour rings</CITE>  
 >>**(*Ingest comment*: example needs review)**
 
-<a name="6.2665.3.2.Y.Y">6.2665.3.2.Y.Y</a> To record free text that combines description of mount, production method, applied material, or base material,  make a [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) (see [6.355.3.2](/DCRMR/phys-desc/Note-on-carrier/#6.355.3.2)).
+<a name="6.2665.3.2.Y.Y">6.2665.3.2.Y.Y</a> To record free text that combines description of mount, production method, applied material, or base material,  make a [Note on carrier](/DCRMR/phys-desc/Note-on-carrier/) if considered important (see [6.355.3.2](/DCRMR/phys-desc/Note-on-carrier/#6.355.3.2)).
 
 ---
 

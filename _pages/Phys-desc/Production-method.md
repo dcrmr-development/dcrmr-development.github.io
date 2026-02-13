@@ -25,12 +25,12 @@ sidebar:
 
 ## 6.27.3 General rule
 
-<a name="6.27.3.1">6.27.3.1</a> Record the process or technique used to produce the manifestation if considered important. Prefer a term from the [RDA Value Vocabularies: RDA Production Method](http://www.rdaregistry.info/termList/RDAproductionMethod/){:target="_blank"}, such as:  
+<a name="6.27.3.1">6.27.3.1</a> Record the process or technique used to produce the manifestation if considered important. Use one or more terms from the [RDA Value Vocabularies: RDA Production Method](http://www.rdaregistry.info/termList/RDAproductionMethod/){:target="_blank"}, and indicate the source.  
 * engraving
 * etching
 * printing
 
-<a name="6.27.3.2">6.27.3.2</a> If none of the terms in the RDA vocabulary is appropriate, record another suitable term from a standardized vocabulary (such as the printing and printing processes and techniques hierarchy of the [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}) and indicate its source.
+<a name="6.27.3.2">6.27.3.2</a> If none of the terms in the RDA Value Vocabularies: RDA Production Method is appropriate, record another suitable term from a standardized vocabulary (such as the printing and printing processes and techniques hierarchy of the [Art & Architecture Thesaurus Online](https://www.getty.edu/research/tools/vocabularies/aat/){:target="_blank"}) and indicate its source.
 
 >**Example:**  
 >Production method: <CITE>intaglio printing</CITE>  
