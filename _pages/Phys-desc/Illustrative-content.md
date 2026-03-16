@@ -23,8 +23,7 @@ sidebar:
 
 <a name="6.22.2.1">6.22.2.1</a> An indication of the kinds of expression of image content that supplement the main expressions that are embodied by an augmentation aggregate.  
 
-<a name="6.22.2.2">6.22.2.2</a> Illustrative content applies to an aggregate that embodies an expression with a content type of "cartographic image", "cartographic moving image", "cartographic tactile image", "cartographic tactile three-dimensional form", "cartographic three-dimensional form", "three-dimensional moving image", "two-dimensional moving image", "tactile three-dimensional form", "three-dimensional form", "still image", or "tactile image". Tables containing only words or numerical data are excluded.
-
+<a name="6.22.2.2">6.22.2.2</a> Illustrative content applies to an aggregate that embodies an expression with a content type of "cartographic image", "cartographic moving image", "cartographic tactile image", "cartographic tactile three-dimensional form", "cartographic three-dimensional form", "three-dimensional moving image", "two-dimensional moving image", "tactile three-dimensional form", "three-dimensional form", "still image", or "tactile image". 
 Tables containing only words and/or numerical data are excluded.
 
 ## 6.22.21.Y.Y DCRMR elaboration of scope
@@ -82,7 +81,7 @@ Tables containing only words and/or numerical data are excluded.
 
 ## 6.22.33 Illustrations in pockets
 
-<a name="6.22.33.1">6.22.33.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content, 9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1) and [Note on manifestation, 9.3.38.7](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.7)). Make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content, 6.225.31.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.31.1)).  
+<a name="6.22.33.1">6.22.33.1</a> Record illustrative matter issued in a pocket attached to a resource as illustrative content (see also [Supplementary content, 9.33.3.1](/DCRMR/additional-notes/Supplementary-content/#9.33.3.1) and [Note on manifestation, 9.3.38.7](/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.7)). Always make a note to indicate the presence and the number of pieces of illustrative matter in the pocket (see [Details of illustrative content, 6.225.31.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.31.1)).  
 
 >**Example:**  
 >Illustrative content: <CITE>map</CITE>  
@@ -90,7 +89,7 @@ Tables containing only words and/or numerical data are excluded.
 
 ## 6.22.335 Illustrations on endpapers
 
-<a name="6.22.335.1">6.22.335.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers (see [Details of illustrative content, 6.225.32.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.32.1)).  
+<a name="6.22.335.1">6.22.335.1</a> Record illustrative matter appearing on the endpapers of a resource as illustrative content if considered important. Make a note indicating  the presence of the illustrations on the endpapers if considered important (see [Details of illustrative content, 6.225.32.1](/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.32.1)).  
 
 >**Example:**  
 >Illustrative content: <CITE>map</CITE>  
@@ -114,7 +113,7 @@ Tables containing only words and/or numerical data are excluded.
 
 <a name="6.22.35.2">6.22.35.2</a> *Optionally*, record an approximate number of illustrations if the exact number cannot be readily ascertained and it is considered important.
 
-## 6.22.37 Resources consisting entirely or chiefly of illustrations
+## 6.22.37 Resources consisting entirely or chiefly of non-textual material
 
 <a name="6.22.37.1">6.22.37.1</a> If a resource consists entirely of non-textual material (e.g., photographs, portraits, maps), do not record the presence of illustrations. Instead, describe the resource using the instructions for the appropriate content type (e.g., still image, cartographic image, etc.).
 

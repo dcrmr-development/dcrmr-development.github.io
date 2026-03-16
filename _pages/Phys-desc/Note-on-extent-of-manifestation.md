@@ -42,7 +42,7 @@ sidebar:
 > Extent of manifestation: <CITE>[8], 260, [2] leaves</CITE>  
 > Note on extent of manifestation: <CITE>Numbered leaves with text on both sides</CITE>
 
-<a name="6.215.421.2">6.215.421.2</a> If the leaves are numbered on and printed on one side only or unnumbered and printed on one side only, record this fact in a Note on extent of manifestation if considered important (see [Extent of manifestation, 6.21.421.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.2)).
+<a name="6.215.421.2">6.215.421.2</a> If considered important, if the leaves are numbered on one side only, make a note about whether numbered leaves are printed on one or both sides (see Extent of manifestation if considered important (see [Extent of manifestation, 6.21.421.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.2)).
 
 <a name="6.215.421.3">6.215.421.3</a> Always make a Note on extent of manifestation to explain that pages, etc. are numbered in words or in characters other than arabic or roman numerals (see [Extent of manifestation, 6.21.421.3](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.421.3)).
 
@@ -77,7 +77,7 @@ sidebar:
 > Extent of manifestation: <CITE>[1], vii, vii, [2], vii, vii, 95, 95, 94-131, 94-131, [3] pages</CITE>  
 > Note on extent of manifestation: <CITE>Text in English and French on opposite pages, numbered in duplicate</CITE>
 
-<a name="6.215.424.2">6.215.424.2</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume as [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/). Record the pagination of the larger sequence in a Note on extent of manifestation (see [Extent of manifestation, 6.21.424.4](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.424.4)).
+<a name="6.215.424.2">6.215.424.2</a> If a volume has pagination of its own and also bears the pagination of a larger resource of which it is a part, record the paging of the individual volume as [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/). Always record the pagination of the larger sequence in a Note on extent of manifestation (see [Extent of manifestation, 6.21.424.4](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.424.4)).
 
 >**Example:**  
 > Extent of manifestation: <CITE>16 pages</CITE>  
@@ -103,9 +103,9 @@ sidebar:
 >**Example:**  
 ><CITE>With an added engraved title page, which has been counted as the plate</CITE>
 
-#### 6.215.427 Folded leaves
+#### 6.215.427 Folded plates
 
-<a name="6.215.427.1">6.215.427.1</a> Make a Note on extent of manifestation to indicate any folded letterpress leaves if considered important (see [Extent of manifestation, 6.21.427.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.427.1)).
+<a name="6.215.427.1">6.215.427.1</a> Make a Note on extent of manifestation to indicate any folded letterpress leaves of plates if considered important (see [Extent of manifestation, 6.21.427.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.427.1)).
 
 >**Example:**  
 > Extent of manifestation: <CITE>[10], 199 [that is, 203], [33] pages, [3] folded leaves of plates</CITE>  
@@ -123,7 +123,7 @@ sidebar:
 
 #### 6.215.428 Incomplete manifestations
 
-<a name="6.215.428.1">6.215.428.1</a> If the paging or foliation of a complete exemplar of the manifestation cannot be ascertained, record in a Note on extent of manifestation that the extent is based on an incomplete exemplar (see [Extent of manifestation, 6.21.428.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.428.1)).
+<a name="6.215.428.1">6.215.428.1</a> If the paging or foliation of a complete exemplar of the manifestation cannot be ascertained, always record in a Note on extent of manifestation that the extent is based on an incomplete exemplar (see [Extent of manifestation, 6.21.428.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.428.1)).
 
 >**Example:**  
 ><CITE>Extent based on incomplete copy</CITE>  
@@ -141,6 +141,10 @@ sidebar:
 
 <a name="6.215.434.1">6.215.434.1</a> Always make a Note on extent of manifestation indicating the number of bibliographic volumes if the number of bibliographic volumes differs from the number of physical volumes (see [Extent of manifestation, 6.21.434.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.434.1)).
 
+#### 6.215.435 Pagination continuous
+<a name="6.215.435.1">6.215.435.1</a> If there are separately paged sequences of preliminary matter in volumes other than the first, record the number of volumes only. If considered important, record the full pagination in a Note on extent of manifestation, (see [Extent of manifestation, 6.21.435.2](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.435.2)).
+
+
 #### 6.215.436 Pagination not continuous
 
 <a name="6.215.436.1">6.215.436.1</a> If the pagination of a manifestation in more than one physical unit is not continuous and if considered important, record the number of pages, etc. of each unit either in parentheses after the number of units in [Extent of manifestation](/DCRMR/phys-desc/Extent-of-manifestation/), or in a Note on extent of manifestation (see [Extent of manifestation, 6.21.436.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.436.1)).
@@ -151,7 +155,7 @@ sidebar:
 
 #### 6.215.437 Discontinued manifestations
 
-<a name="6.215.437.1">6.215.437.1</a> If a publication planned for more than one physical unit has been, or appears to have been, discontinued before completion, always make a Note on extent of manifestation indicating that no more units have been issued (see [Extent of manifestation, 6.21.437.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.437.1)).
+<a name="6.215.437.1">6.215.437.1</a> If a manifestation planned for more than one physical unit has been, or appears to have been, discontinued before completion, always make a Note on extent of manifestation indicating that no more units have been issued (see [Extent of manifestation, 6.21.437.1](/DCRMR/phys-desc/Extent-of-manifestation/#6.21.437.1)).
 
 >**Example:**  
 ><CITE>No more published</CITE>  
@@ -330,7 +334,7 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 
 ## 6.215.6.Y.Y Note on extent of still image resources
 
-<a name="6.215.6.1.Y.Y">6.215.6.1.Y.Y</a> **Manifestations issued in multiples**. If the number of components of a manifestation issued in multiple copies cannot be determined (see 6.21.SOMETHING.SOMETHING), record in a Note on extent of manifestation that the extent is based on an incomplete exemplar.
+<a name="6.215.6.1.Y.Y">6.215.6.1.Y.Y</a> **Manifestations issued in multiples**. If the number of components of a manifestation issued in multiple copies cannot be determined (see 6.21.SOMETHING.SOMETHING), always record in a Note on extent of manifestation that the extent is based on an incomplete exemplar.
 
 >**Example:**  
 >Extent of manifestation: <CITE>38 photographs (incomplete)</CITE>  
@@ -344,7 +348,7 @@ In case of doubt as to whether a sequence is numeric or alphabetic, assume a num
 >>(*Comment*: Set of baseball cards with no identifying information)
 >>**(*Ingest comment*: example needs review)**
 
-<a name="6.215.6.2.Y.Y">6.215.6.2.Y.Y</a> **Unique materials**. If a unique manifestation is evidently incomplete (see Extent of manifestation, 6.21.SOMETHING.SOMETHING), record the imperfection, along with information about the original extent of the manifestation, if ascertainable, in a Note on extent of manifestation.
+<a name="6.215.6.2.Y.Y">6.215.6.2.Y.Y</a> **Unique materials**. If a unique manifestation is evidently incomplete (see Extent of manifestation, 6.21.SOMETHING.SOMETHING), always record the imperfection, along with information about the original extent of the manifestation, if ascertainable, in a Note on extent of manifestation.
 
 >**Example:**  
 >Extent of manifestation: <CITE>28 drawings in 1 volume (incomplete)</CITE>  
