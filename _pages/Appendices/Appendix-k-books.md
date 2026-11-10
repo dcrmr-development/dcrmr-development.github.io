@@ -1717,32 +1717,32 @@ sidebar:
 	</tr>
 	<tr>
 		<th scope="row">4D2.2.</th>
-		<td>Chronograms.</td>
+		<td>Chronograms</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.2">5.23.31.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.25">5.23.31.25</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.2">5.28.31.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.25">5.28.31.25</a></td>
 	</tr>
 	<tr>
 		<th scope="row">4D2.3.</th>
-		<td>Very long dates.</td>
+		<td>Very long dates</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.3">5.23.31.3</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.35">5.23.31.35</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.3">5.28.31.3</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.35">5.28.31.35</a></td>
 	</tr>
 	<tr>
 		<th scope="row">4D2.4.</th>
-		<td>Fictitious or incorrect dates.</td>
+		<td>Fictitious or incorrect dates</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.4">5.23.31.4</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.4">5.28.31.4</a></td>
 	</tr>
 	<tr>
 		<th scope="row">4D2.5.</th>
-		<td>Julian/Old Style dates.</td>
+		<td>Julian/Old Style dates</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.5">5.23.31.5</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.5">5.28.31.5</a></td>
 	</tr>
 	<tr>
 		<th scope="row">4D2.6.</th>
-		<td>Dates not of the Julian or Gregorian calendar.</td>
+		<td>Dates not of the Julian or Gregorian calendar</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.6">5.23.31.6</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.65">5.23.31.65</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.6">5.28.31.6</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.65">5.28.31.65</a></td>
 	</tr>
 	<tr>
 		<th scope="row">4D2.7.</th>
-		<td>Multiple adjustments or additions.</td>
+		<td>Multiple adjustments or additions</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.7">5.23.31.7</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.7">5.28.31.7</a></td>
 	</tr>
 	<tr>
@@ -2216,7 +2216,7 @@ sidebar:
 	<tr>
  		<th scope="row">5C3.2.</th>
 		<td></td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Color-content/#6.23.32.2">6.23.32.2</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Color-content/#6.23.32.2">6.23.32.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Color-content/DCRMR/phys-desc/Color-content/#6.23.32.3">6.23.32.3</a>, <a href="https://dcrmr-development.github.io/DCRMR//DCRMR/phys-desc/Color-content/#6.23.32.4>6.23.32.4</a></td>
 	</tr>
 	<tr>
  		<th scope="row">5C3.3.</th>
@@ -2266,7 +2266,7 @@ sidebar:
 	<tr>
  		<th scope="row">5D3.</th>
 		<td>Differing sizes</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Dimensions/#6.24.335.1">6.24.335.1</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Dimensions/#6.24.335.2">6.24.335.2</a></td>
 	</tr>
 	<tr>
  		<th scope="row">5D4.</th>
@@ -2281,7 +2281,7 @@ sidebar:
 	<tr>
  		<th scope="row">5D4.2.</th>
 		<td></td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Dimensions/#6.24.35.2">6.24.35.4</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Dimensions/#6.24.35.4">6.24.35.4</a></td>
 	</tr>
 	<tr>
  		<th scope="row">5E.</th>
@@ -2296,7 +2296,7 @@ sidebar:
 	<tr>
  		<th scope="row">5E1.1.</th>
 		<td></td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.2">9.3.38.2</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.1">9.3.38.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Note-on-manifestation/#9.3.38.3">9.3.38.3</a></td>
 	</tr>
 	<tr>
  		<th scope="row">5E1.2.</th>
@@ -2595,43 +2595,43 @@ sidebar:
 	</tr>
 	<tr>
 		<th scope="row">7A4.1.</th>
-		<td>Order of information.</td>
+		<td>Order of information</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/#9.01.3.1">9.01.3.1</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7A4.2.</th>
-		<td>Quotations.</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/#9.01.3.2">9.01.3.2</a></td>
+		<td>Quotations</td>
+		<td>omitted</td>
 	</tr>
 	<tr>
 		<th scope="row">7A4.3.</th>
-		<td>Formal notes.</td>
+		<td>Formal notes</td>
 		<td>omitted</td>
 	</tr>
 	<tr>
 		<th scope="row">7A4.4.</th>
-		<td>Informal notes.</td>
+		<td>Informal notes</td>
 		<td>omitted</td>
 	</tr>
 	<tr>
 		<th scope="row">7A5.</th>
 		<td>Notes citing other editions and works</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Note-on-expression/#9234-note-on-revisions">9.2.34</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Note-on-expression/#923-general-rule">9.2.3</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7A5.1.</th>
-		<td>Other editions.</td>
+		<td>Other editions</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Note-on-expression/#9.2.34.2">9.2.34.2</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7A5.2.</th>
-		<td>Other works and other manifestations of the same work.</td>
+		<td>Other works and other manifestations of the same work</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Note-on-expression/#9.2.31.1">9.2.31.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Note-on-work/#9.1.31.1">9.1.31.1</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B.</th>
 		<td>Notes</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/">9</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/#9.01.3.1">9.01.3.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/additional-notes/#9.01.3.2">9.01.3.2</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B1.</th>
@@ -2651,7 +2651,7 @@ sidebar:
 	<tr>
 		<th scope="row">7B2.2.</th>
 		<td></td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Details-of-script/#9.245.3.2">9.245.3.2</a><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Details-of-script/#9.245.3.2">9.245.3.2</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Details-of-script/#9.245.3.2">9.245.3.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Details-of-script/#9.245.3.2">9.245.3.2</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B3.</th>
@@ -2676,12 +2676,12 @@ sidebar:
 	<tr>
 		<th scope="row">7B4.1.</th>
 		<td></td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Note-on-title/#1.29.36.1">1.29.36.1</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Note-on-title/#1.29.36.1">1.29.36.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/title/Note-on-title/#1.29.36.2">1.29.36.2</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B4.2.</th>
 		<td></td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Note-on-title/#1.29.36.2">1.29.36.2</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Note-on-title/#1.29.36.3">1.29.36.3</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B5.</th>
@@ -2691,7 +2691,7 @@ sidebar:
 	<tr>
 		<th scope="row">7B6.</th>
 		<td>Statements of responsibility</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Note-on-statement-of-responsibility/#22931-statement-of-responsibility-in-source-other-than-preferred-source">2.29.31</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Note-on-statement-of-responsibility/">2.29</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B6.1.</th>
@@ -2700,7 +2700,7 @@ sidebar:
 	</tr>
 	<tr>
 		<th scope="row">7B6.2.</th>
-		<td>Transposed statements of responsibility.</td>
+		<td>Transposed statements of responsibility</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.32.2">2.29.32.2</a></td>
 	</tr>
 	<tr>
@@ -2725,18 +2725,18 @@ sidebar:
 	</tr>
 	<tr>
 		<th scope="row">7B6.4.</th>
-		<td>Other statements.</td>
+		<td>Other statements</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.36.1">2.29.36.1</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B6.5.</th>
-		<td>Variant forms of names.</td>
+		<td>Variant forms of names</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.35.1">2.29.35.1</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B7.</th>
 		<td>Edition and bibliographic history</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/edition/Note-on-edition-statement/#32631-source-and-position-of-edition-statement">3.26.31</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/edition/Note-on-edition-statement/">3.26</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B7.1.</th>
@@ -2775,42 +2775,42 @@ sidebar:
 	</tr>
 	<tr>
 		<th scope="row">7B9.1.</th>
-		<td>General rule.</td>
+		<td>General rule</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.1">6.215.44.1</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B9.2.</th>
-		<td>Unavailable characters.</td>
+		<td>Unavailable characters</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.2">6.215.44.2</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B9.3.</th>
-		<td>Special uses of pi and chi.</td>
+		<td>Special uses of pi and chi</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.3">6.215.44.3</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B9.4.</th>
-		<td>Non-conventional Latin alphabet.</td>
+		<td>Non-conventional Latin alphabet</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.35">6.215.44.35</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B9.5. </th>
-		<td>Signatures do not match gatherings.</td>
+		<td>Signatures do not match gatherings</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.4">6.215.44.4</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B9.6.</th>
-		<td>Concurrent signatures.</td>
+		<td>Concurrent signatures</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.5">6.215.44.5</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B9.7.</th>
-		<td>Nonroman signatures (numeric sequence).</td>
+		<td>Nonroman signatures (numeric sequence)</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.6">6.215.44.6</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B9.8.</th>
-		<td>Nonroman signatures (alphabetic sequence).</td>
+		<td>Nonroman signatures (alphabetic sequence)</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.65">6.215.44.65</a></td>
 	</tr>
 	<tr>
@@ -2820,7 +2820,7 @@ sidebar:
 	</tr>
 	<tr>
 		<th scope="row">7B9.10.</th>
-		<td>Hebrew alphabetic signatures.</td>
+		<td>Hebrew alphabetic signatures</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.75">6.215.44.75</a></td>
 	</tr>
 	<tr>
@@ -2830,13 +2830,13 @@ sidebar:
 	</tr>
 	<tr>
 		<th scope="row">7B9.12.</th>
-		<td>Full collation.</td>
+		<td>Full collation</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Note-on-extent-of-manifestation/#6.215.44.9">6.215.44.9</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B10.</th>
 		<td>Physical description</td>
-		<td><a href="">n/a</a></td>
+		<td>n/a</td>
 	</tr>
 	<tr>
 		<th scope="row">7B10.1.</th>
@@ -2846,12 +2846,12 @@ sidebar:
 	<tr>
 		<th scope="row">7B10.2.</th>
 		<td></td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Details-of-layout/#6.285.3.2">6.285.3.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Details-of-font-size/#6.315.3.1">6.315.3.1</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Details-of-layout/#6.285.3.2">6.285.3.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Details-of-font-size/#6.31.3.1">6.31.3.1</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B10.3.</th>
 		<td></td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.1">6.225.3.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2">6.225.3.2</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.1">6.225.3.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Details-of-illustrative-content/#6.225.3.2">6.225.3.2</a>, <a href="https://dcrmr-development.github.io/ /DCRMR/phys-desc/Details-of-color-content/#6.235.33.1">6.235.33.1</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B10.4.</th>
@@ -2876,7 +2876,7 @@ sidebar:
 	<tr>
 		<th scope="row">7B13.</th>
 		<td>Dissertations</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Dissertation-or-thesis-information/#9.12.3.1">9.12.3.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Dissertation-or-thesis-information/#9.12.3.2">9.12.3.2</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Dissertation-or-thesis-information/#9123-general-rule">9.12.3</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B14.</th>
@@ -2931,17 +2931,17 @@ sidebar:
 	<tr>
 		<th scope="row">7B18.</th>
 		<td>“With” notes</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Bound-with/#9453-general-rule">9.45.3</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/On-carrier-unit-with/">9.34</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B18.1.</th>
 		<td></td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Bound-with/#9.45.3.1">9.45.3.1</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/On-carrier-unit-with/#9.34.3.1">9.34.3.1</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B18.2.</th>
 		<td></td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Bound-with/#9.45.3.2">9.45.3.2</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/On-carrier-unit-with/#9.34.3.2">9.34.3.2</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B18.3.</th>
@@ -2951,17 +2951,17 @@ sidebar:
 	<tr>
 		<th scope="row">7B19.</th>
 		<td>Copy being described and library holdings (Local notes)</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Note-on-item/#943-general-rule">9.4.3</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Note-on-item/">9.4</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B19.1.</th>
 		<td>General rule</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Note-on-item/#9.4.3.1">9.4.3.1</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Note-on-item/#943-general-rule">9.4.3</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B19.1.1.</th>
 		<td></td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Note-on-item/#9.4.3.2">9.4.3.2</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Note-on-item/#9.4.3.1">9.4.3.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Note-on-item/#9.4.3.2">9.4.3.2</a></td>
 	</tr>
 	<tr>
 		<th scope="row">7B19.1.2.</th>
@@ -3260,12 +3260,12 @@ sidebar:
 	</tr>
 	<tr>
 		<th scope="row">G4.1. </th>
-		<td>Historical background.</td>
+		<td>Historical background</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.23.1">0.4.23.1</a></td>
 	</tr>
 	<tr>
 		<th scope="row">G4.2. </th>
-		<td>Transcription.</td>
+		<td>Transcription</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.23.2">0.4.23.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.23.3">0.4.23.3</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.23.4">0.4.23.4</a></td>
 	</tr>
 	<tr>
@@ -3275,12 +3275,12 @@ sidebar:
 	</tr>
 	<tr>
 		<th scope="row">G5.1. </th>
-		<td>Historical background.</td>
+		<td>Historical background</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.74.2">0.4.74.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.74.3">0.4.74.3</a></td>
 	</tr>
 	<tr>
 		<th scope="row">G5.2.</th>
-		<td>Transcription.</td>
+		<td>Transcription</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.74.1">0.4.74.1</a></td>
 	</tr>
 	</tbody>
