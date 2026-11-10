@@ -432,7 +432,7 @@ sidebar:
 	<tr>
 		<th scope="row">0G3.2.</th>
 		<td>Apostrophes</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.32.1">0.4.32.1</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0432-apostrophes">0.4.32</a></td>
 	</tr>
 	<tr>
 		<th scope="row">0G3.3.</th>
@@ -477,7 +477,8 @@ sidebar:
 	<tr>
 		<th scope="row">0G4.3.</th>
 		<td>Variant spellings</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0.4.44.1">0.4.44.1</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/##0444-variant-spellings">0.4.44</a>	
+</td>
 	</tr>
 	<tr>
 		<th scope="row">0G5.</th>
@@ -859,7 +860,7 @@ sidebar:
 	<tr>
 		<th scope="row">1E5.</th>
 		<td>Omission of names in statements of responsibility</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.3">2.21.33.3</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.3">2.21.33.3</a>, <a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#2.21.33.4">2.21.33.4</a></td>
 	</tr>
 	<tr>
 		<th scope="row">1E6.</th>
@@ -1226,7 +1227,7 @@ sidebar:
 	<tr>	
 		<th scope="row">2C3.2.</th>	
 		<td></td>	
-		<td><a href="https://dcrmr-development.github.io/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.33.32.2">3.23.32.2</a></td>	
+		<td><a href="https://dcrmr-development.github.io/DCRMR/edition/Statement-of-responsibility-relating-to-edition/#3.23.32.2">3.23.32.2</a></td>	
 	</tr>
 	<tr>	
 		<th scope="row">2C3.3.</th>	
@@ -1337,7 +1338,7 @@ sidebar:
 	<tr>
 		<th scope="row">4A2.1.</th>
 		<td></td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/#5.01.1.04.Y.Y">5.01.1.04.Y.Y</a>  <a href="https://dcrmr-development.github.io/DCRMR/ppdm/#5.01.1.15.Y.Y">5.01.1.15.Y.Y</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/#5.01.1.04.Y.Y">5.01.1.04.Y.Y</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/#5.01.1.15.Y.Y">5.01.1.15.Y.Y</a></td>
 	</tr>
 	<tr>
 		<th scope="row">4A2.2.</th>
@@ -1390,37 +1391,37 @@ sidebar:
 		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Publication-statement/#52335-statements-relating-to-manufacture-or-distribution-only">5.2.335</a></td>
 	</tr>
 	<tr>
-		<th scope="row">4A5.2.1.</th>
+		<th scope="row">4A6.2.1.</th>
 		<td></td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Publication-statement/#5.2.335.1">5.2.335.1</a></td>
 	</tr>
 	<tr>
-		<th scope="row">4A5.2.2.</th>
+		<th scope="row">4A6.2.2.</th>
 		<td></td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Publication-statement/#5.2.335.2">5.2.335.2</a></td>
 	</tr>
 	<tr>
-		<th scope="row">4A5.3.</th>
+		<th scope="row">4A6.3.</th>
 		<td>Statements relating both to publication, distribution, etc., and to manufacture</td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Publication-statement/#5.2.34.1">5.2.34.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Distribution-statement/#5.25.34.1">5.25.34.1</a></td>
 	</tr>
 	<tr>
-		<th scope="row">4A5.3.1.</th>
+		<th scope="row">4A6.3.1.</th>
 		<td></td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Publication-statement/#5.2.34.2">5.2.34.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Distribution-statement/#5.25.34.2">5.25.34.2</a></td>
 	</tr>
 	<tr>
-		<th scope="row">4A5.3.2.</th>
+		<th scope="row">4A6.3.2.</th>
 		<td></td>
 		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Publication-statement/#5.2.34.3">5.2.34.3</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Distribution-statement/#5.25.34.3">5.25.34.3</a></td>
 	</tr>
 	<tr>
-		<th scope="row">4A5.3.2.1.</th>
+		<th scope="row">4A6.3.2.1.</th>
 		<td></td>
 		<td>omitted</td>
 	</tr>
 	<tr>
-		<th scope="row">4A5.3.2.2.</th>
+		<th scope="row">4A6.3.2.2.</th>
 		<td></td>
 		<td>omitted</td>
 	</tr>
@@ -1512,7 +1513,7 @@ sidebar:
 	<tr>
 		<th scope="row">4B9.</th>
 		<td>Fictitious or incorrect places of publication, distribution, etc.</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Place-of-publication/#5.21.36.1">5.21.36.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Place-of-distribution/#5.26.36.1">5.26.36.1</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Place-of-publication/#52136-fictitious-or-incorrect-places-of-publication">5.21.36</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Place-of-publication/#52136-fictitious-or-incorrect-places-of-publication">5.26.36</a></td>
 	</tr>
 	<tr>
 		<th scope="row">4B10.</th>
@@ -1587,7 +1588,7 @@ sidebar:
 	<tr>
 		<th scope="row">4C2.</th>
 		<td></td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.3.1">5.22.3.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.3.1">5.27.3.1</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Name-of-publisher/#5223-general-rule">5.22.3</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Name-of-distributor/#5273-general-rule">5.27.3</a></td>
 	</tr>
 	<tr>
 		<th scope="row">4C3.</th>
@@ -1597,7 +1598,7 @@ sidebar:
 	<tr>
 		<th scope="row">4C4.</th>
 		<td>Publisher, distributor, etc., statements containing only addresses, signs, or initials</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Name-of-publisher/#52236-publishers-identified-by-addresses-signs-or-initials">5.22.36</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Name-of-distributor/#52736-distributors-identified-by-addresses-signs-initials-or-devices">5.27.36</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Name-of-publisher/#52236-publishers-identified-by-addresses-signs-initials-or-devices">5.22.36</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Name-of-distributor/#52736-distributors-identified-by-addresses-signs-initials-or-devices">5.27.36</a></td>
 	</tr>
 	<tr>
 		<th scope="row">4C4.1.</th>
@@ -1612,7 +1613,7 @@ sidebar:
 	<tr>
 		<th scope="row">4C5.</th>
 		<td>Fictitious or incorrect publisher, distributor, etc., statements</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Name-of-publisher/#5.22.34.1">5.22.34.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Name-of-distributor/#5.27.34.1">5.27.34.1</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Name-of-publisher/#52234-fictitious-or-incorrect-names-of-publisher">5.22.34</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Name-of-distributor/#52734-fictitious-or-incorrect-names-of-distributor">5.27.34</a></td>
 	</tr>
 	<tr>
 		<th scope="row">4C6.</th>
@@ -1737,7 +1738,7 @@ sidebar:
 	<tr>
 		<th scope="row">4D2.6.</th>
 		<td>Dates not of the Julian or Gregorian calendar.</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.6">5.23.31.6</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.65">5.23.31.65</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.6">5.28.31.6</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.65">5.28.31.65</a>)</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.6">5.23.31.6</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-publication/#5.23.31.65">5.23.31.65</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.6">5.28.31.6</a>, <a href="https://dcrmr-development.github.io/DCRMR/ppdm/Date-of-distribution/#5.28.31.65">5.28.31.65</a></td>
 	</tr>
 	<tr>
 		<th scope="row">4D2.7.</th>
@@ -2040,7 +2041,7 @@ sidebar:
 	<tr>
  		<th scope="row">5B9.3.</th>
 		<td></td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Extent-of-manifestation/#6.21.426.3">6.21.427.1</a></td>
+		<td><a href="/DCRMR/phys-desc/Extent-of-manifestation/#621427-folded-plate">6.21.427</a></td>
 	</tr>
 	<tr>
  		<th scope="row">5B9.4.</th>
