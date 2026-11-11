@@ -13,6 +13,17 @@ sidebar:
 - TOC
 {:toc}
 
+<!-- 
+USE CAUTION WHEN EDITING THESE TABLES: it is easy to misplace tags.
+Background:
+In 2024 the DCRMR Editorial Team voted to convert all tables from Markdown
+to HTML in order follow Web Content Accessibility Guidelines (WCAG) by 
+using semantic HTML tags (such as <th> and <td>) and explicit structural 
+attributes (such as scope= and <caption>). Although this makes the tables
+harder for Keepers of the Text to maintain, the group (including Keepers)
+deemed it important enough to warrant the extra work.
+-->
+
 ## Introduction
 
 <table>
@@ -477,7 +488,7 @@ sidebar:
 	<tr>
 		<th scope="row">0G4.3.</th>
 		<td>Variant spellings</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/##0444-variant-spellings">0.4.44</a>	
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0444-variant-spellings">0.4.44</a>	
 </td>
 	</tr>
 	<tr>
@@ -610,7 +621,7 @@ sidebar:
 	<tr>
 		<th scope="row">1.</th>
 		<td>Title and Statement of Responsibility Area</td>
-		<td><a href="https://dcrmr-development.github.io/DCRMR/title/">1</a></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/">1</a>, <a href="https://dcrmr-development.github.io/DCRMR/sor">2</a></td>
 	</tr>
 	<tr>
 		<th scope="row">1A.</th>
