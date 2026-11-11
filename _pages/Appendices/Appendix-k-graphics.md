@@ -13,6 +13,17 @@ sidebar:
 - TOC
 {:toc}
 
+<!-- 
+USE CAUTION WHEN EDITING THESE TABLES: it is easy to misplace tags.
+Background:
+In 2024 the DCRMR Editorial Team voted to convert all tables from Markdown
+to HTML in order follow Web Content Accessibility Guidelines (WCAG) by 
+using semantic HTML tags (such as <th> and <td>) and explicit structural 
+attributes (such as scope= and <caption>). Although this makes the tables
+harder for Keepers of the Text to maintain, the group (including Keepers)
+deemed it important enough to warrant the extra work.
+-->
+
 ## Introduction
 
 <table>
@@ -569,11 +580,319 @@ sidebar:
 
 ## 1. Title and Statement of Responsibility Area
 
-(Information to come)
+<table>
+	<caption>
+		<strong>Title and Statement of Responsibility Area</strong>
+	</caption>
+	<thead>
+	<tr>
+		<th scope="col">DCRM(G) Citation</th>
+		<th scope="col">DCRM(G) Contents</th>
+		<th scope="col">DCRMR Citation</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<th scope="row">1.</th>
+		<td>Title and Statement of Responsibility Area</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title">1</a>, <a href="https://dcrmr-development.github.io/DCRMR/sor">2</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1A.</th>
+		<td>Preliminary rule</td><td>n/a</td>
+	</tr>
+	<tr>
+		<th scope="row">1A0.</th>
+		<td>Introductory remarks</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/#1.01.1.06.Y.Y">1.01.1.06.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1A1.</th>
+		<td>Prescribed punctuation</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Prescribed-punctuation/#021-title">0.2.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/general-rules/Prescribed-punctuation/#022-statement-of-responsibility">0.2.2</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1A2.</th>
+		<td>Sources of information</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/#1011-sources-of-information">1.01.1</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1A2.1.</th>
+		<td>General rule</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/#1.01.1.06.Y.Y">1.01.1.06.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1A2.2.</th>
+		<td>No title</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.34.1">1.21.34.1</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1A2.3.</th>
+		<td>Illegible title</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.34.6.Y.Y">1.21.34.6.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1A2.4.</th>
+		<td>Unintentionally incorrect title</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.34.6.Y.Y">1.21.34.6.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1A2.4.</th>
+		<td>No statement of responsibility</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/sor/Statement-of-responsibility-relating-to-title-proper/#221315-statements-of-responsibility-relating-to-title-proper-on-sources-other-than-the-preferred-source-of-information">2.21.315</a>, <a href="https://dcrmr-development.github.io/DCRMR/sor/Note-on-statement-of-responsibility/#2.29.33.1">2.29.33.1</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1A2.5.</th>
+		<td>Omission of numbers, statements of patronage, etc.</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/general-rules/Transcription/#0452-information-not-considered-part-of-any-transcribed-element"> 0.4.52</a>, <a href=" https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.32.5.Y.Y">1.21.32.5.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1A3.</th>
+		<td>Material known by more than one title</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Variant-title-of-manifestation/#1253595yy-variant-titles-from-external-sources-optional">1.25.3595.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1A4.</th>
+		<td>Form and order of information</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/#1013-form-and-order-of-information">1.01.3</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B.</th>
+		<td>Transcribed title proper</td><td>n/a</td>
+	</tr>
+	<tr>
+		<th scope="row">1B1.</th>
+		<td>Words considered part of the title proper</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#12131-words-considered-part-of-the-title-proper">1.21.31</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B1.1.</th>
+		<td></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.31.1">1.21.31.1</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B1.2.</th>
+		<td></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.31.1">1.21.31.1</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B1.3.</th>
+		<td></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.68.2.Y.Y">1.21.68.2.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B2.</th>
+		<td>Note on the source of the title proper</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.31.2">1.21.31.2</a>, <a href="https://dcrmr-development.github.io/DCRMR/title/Note-on-title/#1.29.31.1">1.29.31.1</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B3.</th>
+		<td>Forms of the title proper</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.32.1">1.21.32.1</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B3.1.</th>
+		<td></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.32.2">1.21.32.2</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B3.2.</th>
+		<td></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.32.3">1.21.32.3</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B3.3.</th>
+		<td></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.32.4">1.21.32.4</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B3.4.</th>
+		<td></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.31.3.Y.Y">1.21.31.3.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B4.</th>
+		<td>Title elements scattered by layout or typography</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#121335yy-title-elements-scattered-by-design">1.21.335.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B5.</th>
+		<td>Title from beginning words of text</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.34.2.Y.Y">1.21.34.2.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B5.1.</th>
+		<td></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.34.2.Y.Y">1.21.34.2.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B5.2.</th>
+		<td></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/additional-notes/Summarization-of-content/#9.25.31.1">9.25.31.1</a>, <a href="https://dcrmr-development.github.io/DCRMR/title/Variant-title-of-manifestation/#1253595yy-variant-titles-from-external-sources-optional">1.25.3595.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B6.</th>
+		<td>Collective title for multipart resources</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.365.Y.Y">1.21.365.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B7.</th>
+		<td>Abridgments of the title proper</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#12136-abridgments-of-the-title-proper">1.21.36</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B7.1.</th>
+		<td>General rule</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.36.1">1.21.36.1</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B7.2.</th>
+		<td>Alternative title</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.36.2">1.21.36.2</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B7.3.</th>
+		<td>Chief title</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.36.3">1.21.36.3</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B8.</th>
+		<td>Collective title proper with part or section title</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#12168yy-titles-for-still-images-within-a-series">1.21.68.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B8.1.</th>
+		<td></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.68.3.Y.Y">1.21.68.3.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1B8.2.</th>
+		<td></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/TItle-proper/#.21.68.4.Y.Y">1..21.68.4.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1C.</th>
+		<td>General material designation</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/phys-desc/Content-type/#6.33.3.1">6.33.3.1</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1D.</th>
+		<td>Parallel titles</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Parallel-title-proper/#12153-general-rule">1.215.3</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1E.</th>
+		<td>Other title information</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/">1.23</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1E1.</th>
+		<td>Order and source of other title information</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1.23.3.1">1.23.3.1</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1E2.</th>
+		<td>Words considered part of other title information</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#12331-other-title-information-beginning-with-prepositions-conjunctions-etc">1.23.31</a>, <a href=""></a></td>
+	</tr>
+	<tr>
+		<th scope="row">1E2.1.</th>
+		<td>General rule</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#12331-other-title-information-beginning-with-prepositions-conjunctions-etc">1.23.31</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1E2.2.</th>
+		<td></td>
+		<td><a href=" https://dcrmr-development.github.io/DCRMR/title/Title-proper/#12137-manifestations-without-a-collective-title">1.21.37 </a>, <a href=""></a></td>
+	</tr>
+	<tr>
+		<th scope="row">1E3.</th>
+		<td>Dedications</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#1.23.38.2.Y.Y">1.23.38.2.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1E4.</th>
+		<td>Abridgment of other title information</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#12337-abridgment-of-other-title-information">1.23.37</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1E5.</th>
+		<td>Other title information with visually or grammatically inseparable elements</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Other-title-information/#12338-other-title-information-with-visually-or-grammatically-inseparable-elements">1.23.38</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1E6.</th>
+		<td>Parallel statements containing other title information</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Parallel-other-title-information/#12353-general-rule">1.235.3</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1F.</th>
+		<td>Supplied and devised titles</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#12134-no-title">1.21.34</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1F1.</th>
+		<td>Title supplied from another source</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.34.1">1.21.34.1</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1F1.1.</th>
+		<td></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.34.1">1.21.34.1</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1F1.2.</th>
+		<td></td><td>omitted</td>
+	</tr>
+	<tr>
+		<th scope="row">1F2.</th>
+		<td>Cataloger-devised title for untitled material</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#12164yy-devised-title-proper-for-still-images">1.21.64.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1F2.1.</th>
+		<td></td>
+		<td><a href=" https://dcrmr-development.github.io/DCRMR/title/Title-roper/#1.21.64.2.Y.Y">1.21.64.2.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1F2.2.</th>
+		<td></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.64.3.Y.Y">1.21.64.3.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1F2.3.</th>
+		<td></td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#1.21.64.4.Y.Y">1.21.64.4.Y.Y</a></td>
+	</tr>
+	<tr>
+		<th scope="row">1F3.</th>
+		<td>Supplied and devised titles for insufficient text</td>
+		<td><a href="https://dcrmr-development.github.io/DCRMR/title/Title-proper/#12164yy-devised-title-proper-for-still-images">1.21.64.Y.Y</a></td>
+	</tr>
+	</tbody>
+</table>
 
 ## 2. Edition Area
 
-(Information to come)
+<table>
+	<caption>
+		<strong>Edition Area</strong>
+	</caption>
+	<thead>
+	<tr>
+		<th scope="col">DCRM(G) Citation</th>
+		<th scope="col">DCRM(G) Contents</th>
+		<th scope="col">DCRMR Citation</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<th scope="row">DCRM(G) no.</th>
+		<td>DCRM(G) name</td>
+		<td>link and link text</td>
+	</tr>
+	</tbody>
+</table>
 
 ## 3. Material (or Type of Publication Specific Details) Area
 
@@ -599,33 +918,158 @@ sidebar:
 
 ## 4. Publication, Distribution, Etc., Area
 
-(Information to come)
-
+<table>
+	<caption>
+		<strong>Publication, Distribution, Etc., Area</strong>
+	</caption>
+	<thead>
+	<tr>
+		<th scope="col">DCRM(G) Citation</th>
+		<th scope="col">DCRM(G) Contents</th>
+		<th scope="col">DCRMR Citation</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<th scope="row">DCRM(G) no.</th>
+		<td>DCRM(G) name</td>
+		<td>link and link text</td>
+	</tr>
+	</tbody>
+</table>
 ## 5. Physical Description Area
 
-(Information to come)
+<table>
+	<caption>
+		<strong>Physical Description Area</strong>
+	</caption>
+	<thead>
+	<tr>
+		<th scope="col">DCRM(G) Citation</th>
+		<th scope="col">DCRM(G) Contents</th>
+		<th scope="col">DCRMR Citation</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<th scope="row">DCRM(G) no.</th>
+		<td>DCRM(G) name</td>
+		<td>link and link text</td>
+	</tr>
+	</tbody>
+</table>
 
 ## 6. Series Area
 
-(Information to come)
+<table>
+	<caption>
+		<strong>Series Area</strong>
+	</caption>
+	<thead>
+	<tr>
+		<th scope="col">DCRM(G) Citation</th>
+		<th scope="col">DCRM(G) Contents</th>
+		<th scope="col">DCRMR Citation</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<th scope="row">DCRM(G) no.</th>
+		<td>DCRM(G) name</td>
+		<td>link and link text</td>
+	</tr>
+	</tbody>
+</table>
 
 ## 7. Note Area
 
-(Information to come)
+<table>
+	<caption>
+		<strong>Note Area</strong>
+	</caption>
+	<thead>
+	<tr>
+		<th scope="col">DCRM(G) Citation</th>
+		<th scope="col">DCRM(G) Contents</th>
+		<th scope="col">DCRMR Citation</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<th scope="row">DCRM(G) no.</th>
+		<td>DCRM(G) name</td>
+		<td>link and link text</td>
+	</tr>
+	</tbody>
+</table>
 
 ## 8. Standard Number and Terms of Availability Area
 
-(Information to come)
+<table>
+	<caption>
+		<strong>Standard Number and Terms of Availability Area</strong>
+	</caption>
+	<thead>
+	<tr>
+		<th scope="col">DCRM(G) Citation</th>
+		<th scope="col">DCRM(G) Contents</th>
+		<th scope="col">DCRMR Citation</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<th scope="row">DCRM(G) no.</th>
+		<td>DCRM(G) name</td>
+		<td>link and link text</td>
+	</tr>
+	</tbody>
+</table>
 
 ## Appendices
 
 ### Appendix F
 
-(Information to come)
+<table>
+	<caption>
+		<strong>Appendix F</strong>
+	</caption>
+	<thead>
+	<tr>
+		<th scope="col">DCRM(G) Citation</th>
+		<th scope="col">DCRM(G) Contents</th>
+		<th scope="col">DCRMR Citation</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<th scope="row">DCRM(G) no.</th>
+		<td>DCRM(G) name</td>
+		<td>link and link text</td>
+	</tr>
+	</tbody>
+</table>
 
 ### Appendix G
 
-(Information to come)
+<table>
+	<caption>
+		<strong>Appendix G</strong>
+	</caption>
+	<thead>
+	<tr>
+		<th scope="col">DCRM(G) Citation</th>
+		<th scope="col">DCRM(G) Contents</th>
+		<th scope="col">DCRMR Citation</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<th scope="row">DCRM(G) no.</th>
+		<td>DCRM(G) name</td>
+		<td>link and link text</td>
+	</tr>
+	</tbody>
+</table>
 
 ---
 
